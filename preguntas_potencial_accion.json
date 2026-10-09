@@ -12,9 +12,9 @@
       "Un receptor que solo transporta neurotransmisores"
     ],
     "feedbackIncorrecto": {
-      "Una enzima que sintetiza iones": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Una bomba que siempre utiliza ATP": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Un receptor que solo transporta neurotransmisores": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Una enzima que sintetiza iones": "No es correcta porque los iones no son sintetizados por enzimas; son partículas con carga que ya están presentes en los medios intra y extracelular.",
+      "Una bomba que siempre utiliza ATP": "No es correcta porque una bomba realiza transporte activo y utiliza energía; eso corresponde a un mecanismo distinto al de un canal iónico.",
+      "Un receptor que solo transporta neurotransmisores": "No es correcta porque un receptor reconoce señales químicas; no se define por transportar neurotransmisores a través de la membrana."
     },
     "ideaClave": "Los canales iónicos permiten el movimiento pasivo de iones a través de la membrana."
   },
@@ -31,9 +31,9 @@
       "La velocidad de conducción del impulso nervioso"
     ],
     "feedbackIncorrecto": {
-      "La cantidad total de ATP almacenada en la célula": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La concentración de sodio dentro del núcleo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La velocidad de conducción del impulso nervioso": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La cantidad total de ATP almacenada en la célula": "No es correcta porque la cantidad de ATP no define una diferencia de voltaje entre ambos lados de la membrana.",
+      "La concentración de sodio dentro del núcleo": "No es correcta porque el fenómeno consultado depende de la separación de cargas a través de la membrana plasmática, no del contenido iónico del núcleo.",
+      "La velocidad de conducción del impulso nervioso": "No es correcta porque la velocidad de conducción describe qué tan rápido se propaga una señal, no una diferencia eléctrica entre ambos lados de la membrana."
     },
     "ideaClave": "El potencial de membrana corresponde a una diferencia de voltaje a través de la membrana."
   },
@@ -41,7 +41,7 @@
     "id": 3,
     "nivel": 1,
     "tema": "Distribución iónica",
-    "pregunta": "¿Qué ion se encuentra en mayor concentración en el líquido extracelular según la clase?",
+    "pregunta": "¿Qué ion se encuentra en mayor concentración en el líquido extracelular?",
     "correcta_texto": "Na⁺",
     "alternativas": [
       "Na⁺",
@@ -50,9 +50,9 @@
       "Aminoácidos con carga negativa"
     ],
     "feedbackIncorrecto": {
-      "K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Proteínas⁻": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Aminoácidos con carga negativa": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "K⁺": "No es correcta en este contexto porque este ion se encuentra en mayor proporción en el compartimento intracelular.",
+      "Proteínas⁻": "No es correcta porque «Proteínas⁻» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Aminoácidos con carga negativa": "No es correcta porque «Aminoácidos con carga negativa» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "El Na⁺ predomina en el medio extracelular."
   },
@@ -60,7 +60,7 @@
     "id": 4,
     "nivel": 1,
     "tema": "Distribución iónica",
-    "pregunta": "¿Qué ion se encuentra en mayor concentración en el líquido intracelular según la clase?",
+    "pregunta": "¿Qué ion se encuentra en mayor concentración en el líquido intracelular?",
     "correcta_texto": "K⁺",
     "alternativas": [
       "K⁺",
@@ -69,9 +69,9 @@
       "Ca²⁺ extracelular"
     ],
     "feedbackIncorrecto": {
-      "Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Cl⁻": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Ca²⁺ extracelular": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Na⁺": "No es correcta en este contexto porque este ion se encuentra en mayor proporción en el compartimento extracelular.",
+      "Cl⁻": "No es correcta porque «Cl⁻» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Ca²⁺ extracelular": "No es correcta porque «Ca²⁺ extracelular» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "El K⁺ predomina en el medio intracelular."
   },
@@ -79,7 +79,7 @@
     "id": 5,
     "nivel": 1,
     "tema": "Potencial de reposo",
-    "pregunta": "¿De qué ion depende principalmente el potencial de reposo descrito en la clase?",
+    "pregunta": "¿De qué ion depende principalmente el potencial de reposo de una neurona?",
     "correcta_texto": "K⁺",
     "alternativas": [
       "K⁺",
@@ -88,9 +88,9 @@
       "Cl⁻ exclusivamente"
     ],
     "feedbackIncorrecto": {
-      "Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Ca²⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Cl⁻ exclusivamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Na⁺": "No es correcta en este contexto porque este ion se encuentra en mayor proporción en el compartimento extracelular.",
+      "Ca²⁺": "No es correcta porque «Ca²⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Cl⁻ exclusivamente": "No es correcta porque «Cl⁻ exclusivamente» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "La alta permeabilidad al K⁺ es central para el potencial de reposo."
   },
@@ -107,9 +107,9 @@
       "Hepatocitos y queratinocitos exclusivamente"
     ],
     "feedbackIncorrecto": {
-      "Eritrocitos y adipocitos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Plaquetas y osteocitos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Hepatocitos y queratinocitos exclusivamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Eritrocitos y adipocitos": "No es correcta porque «Eritrocitos y adipocitos» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Plaquetas y osteocitos": "No es correcta porque «Plaquetas y osteocitos» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Hepatocitos y queratinocitos exclusivamente": "No es correcta porque «Hepatocitos y queratinocitos exclusivamente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "Neuronas y células musculares pueden modificar su potencial de membrana en respuesta a estímulos."
   },
@@ -126,9 +126,9 @@
       "Una señal química que no modifica el voltaje"
     ],
     "feedbackIncorrecto": {
-      "Una diferencia fija de concentración que nunca cambia": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Un fenómeno exclusivo de la membrana nuclear": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Una señal química que no modifica el voltaje": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Una diferencia fija de concentración que nunca cambia": "No es correcta porque «Una diferencia fija de concentración que nunca cambia» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Un fenómeno exclusivo de la membrana nuclear": "No es correcta porque «Un fenómeno exclusivo de la membrana nuclear» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Una señal química que no modifica el voltaje": "No es correcta porque «Una señal química que no modifica el voltaje» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "El potencial de acción es una señal eléctrica transitoria de células excitables."
   },
@@ -136,7 +136,7 @@
     "id": 8,
     "nivel": 1,
     "tema": "Reposo",
-    "pregunta": "¿Cuál es el valor aproximado del potencial de reposo neuronal presentado en la clase?",
+    "pregunta": "¿Cuál es el valor aproximado del potencial de reposo de una neurona típica?",
     "correcta_texto": "−70 mV",
     "alternativas": [
       "−70 mV",
@@ -145,9 +145,9 @@
       "+61 mV"
     ],
     "feedbackIncorrecto": {
-      "+40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "−10 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "+61 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "+40 mV": "No es correcta porque este valor corresponde aproximadamente al máximo de despolarización, no al estado consultado.",
+      "−10 mV": "No es correcta porque «−10 mV» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "+61 mV": "No es correcta porque «+61 mV» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "El estado de reposo se representa aproximadamente en −70 mV."
   },
@@ -155,7 +155,7 @@
     "id": 9,
     "nivel": 1,
     "tema": "Umbral",
-    "pregunta": "¿Cuál es el valor umbral indicado en la clase para iniciar un potencial de acción?",
+    "pregunta": "¿Cuál es el valor aproximado del umbral para iniciar un potencial de acción neuronal?",
     "correcta_texto": "−55 mV",
     "alternativas": [
       "−55 mV",
@@ -164,9 +164,9 @@
       "+40 mV"
     ],
     "feedbackIncorrecto": {
-      "−90 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "0 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "+40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "−90 mV": "No es correcta porque corresponde a un valor más negativo que el potencial de reposo neuronal típico considerado en esta actividad.",
+      "0 mV": "No es correcta porque ese valor representa ausencia de diferencia de potencial y no corresponde al estado fisiológico consultado.",
+      "+40 mV": "No es correcta porque este valor corresponde aproximadamente al máximo de despolarización, no al estado consultado."
     },
     "ideaClave": "Alcanzar el umbral activa la respuesta de todo o nada."
   },
@@ -183,9 +183,9 @@
       "El potencial de acción disminuye progresivamente por el axón"
     ],
     "feedbackIncorrecto": {
-      "La amplitud del potencial aumenta proporcionalmente con cada estímulo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Todo estímulo genera un potencial de acción": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El potencial de acción disminuye progresivamente por el axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La amplitud del potencial aumenta proporcionalmente con cada estímulo": "No es correcta porque «La amplitud del potencial aumenta proporcionalmente con cada estímulo» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "Todo estímulo genera un potencial de acción": "No es correcta porque «Todo estímulo genera un potencial de acción» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "El potencial de acción disminuye progresivamente por el axón": "No es correcta porque «El potencial de acción disminuye progresivamente por el axón» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
     },
     "ideaClave": "El umbral determina si se dispara o no el potencial de acción."
   },
@@ -202,9 +202,9 @@
       "Bombas de Ca²⁺"
     ],
     "feedbackIncorrecto": {
-      "Canales de K⁺ de fuga exclusivamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Canales de Cl⁻ regulados por ligando": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Bombas de Ca²⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Canales de K⁺ de fuga exclusivamente": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Canales de Cl⁻ regulados por ligando": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Bombas de Ca²⁺": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
     },
     "ideaClave": "La entrada rápida de Na⁺ produce la despolarización."
   },
@@ -221,9 +221,9 @@
       "Salida masiva de Cl⁻"
     ],
     "feedbackIncorrecto": {
-      "Salida de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrada de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Salida masiva de Cl⁻": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Salida de Na⁺": "No es correcta porque «Salida de Na⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
+      "Entrada de K⁺": "No es correcta porque «Entrada de K⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
+      "Salida masiva de Cl⁻": "No es correcta porque «Salida masiva de Cl⁻» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
     },
     "ideaClave": "La entrada de Na⁺ vuelve el interior menos negativo y luego positivo."
   },
@@ -231,7 +231,7 @@
     "id": 13,
     "nivel": 1,
     "tema": "Pico del potencial",
-    "pregunta": "¿Qué voltaje aproximado alcanza el interior celular en el pico del potencial de acción según la clase?",
+    "pregunta": "¿Qué voltaje aproximado alcanza el interior celular en el pico del potencial de acción?",
     "correcta_texto": "+40 mV",
     "alternativas": [
       "+40 mV",
@@ -240,9 +240,9 @@
       "−55 mV"
     ],
     "feedbackIncorrecto": {
-      "−70 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "−90 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "−55 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "−70 mV": "No es correcta en este contexto porque corresponde aproximadamente al potencial de reposo, no a la fase o valor consultado.",
+      "−90 mV": "No es correcta porque corresponde a un valor más negativo que el potencial de reposo neuronal típico considerado en esta actividad.",
+      "−55 mV": "No es correcta en este contexto porque corresponde aproximadamente al umbral de disparo, no a la fase o valor consultado."
     },
     "ideaClave": "Durante el pico ocurre una inversión transitoria de la polaridad."
   },
@@ -259,9 +259,9 @@
       "Salida de Ca²⁺ como mecanismo principal"
     ],
     "feedbackIncorrecto": {
-      "Entrada de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrada sostenida de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Salida de Ca²⁺ como mecanismo principal": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Entrada de K⁺": "No es correcta porque «Entrada de K⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
+      "Entrada sostenida de Na⁺": "No es correcta porque «Entrada sostenida de Na⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
+      "Salida de Ca²⁺ como mecanismo principal": "No es correcta porque «Salida de Ca²⁺ como mecanismo principal» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
     },
     "ideaClave": "La salida de K⁺ devuelve el interior hacia valores negativos."
   },
@@ -278,9 +278,9 @@
       "Bombean Na⁺ hacia afuera usando ATP"
     ],
     "feedbackIncorrecto": {
-      "Permanecen totalmente abiertos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se transforman en canales de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Bombean Na⁺ hacia afuera usando ATP": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Permanecen totalmente abiertos": "No es correcta porque «Permanecen totalmente abiertos» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Se transforman en canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Bombean Na⁺ hacia afuera usando ATP": "No es correcta porque «Bombean Na⁺ hacia afuera usando ATP» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La inactivación de Na⁺ ayuda a terminar la fase ascendente."
   },
@@ -297,9 +297,9 @@
       "Entrada masiva de proteínas negativas"
     ],
     "feedbackIncorrecto": {
-      "Entrada sostenida de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Cierre total de todos los canales iónicos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrada masiva de proteínas negativas": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Entrada sostenida de Na⁺": "No es correcta porque «Entrada sostenida de Na⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
+      "Cierre total de todos los canales iónicos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Entrada masiva de proteínas negativas": "No es correcta porque «Entrada masiva de proteínas negativas» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
     },
     "ideaClave": "La salida prolongada de K⁺ lleva el voltaje por debajo del reposo."
   },
@@ -316,9 +316,9 @@
       "Depende exclusivamente de la bomba Na⁺/K⁺"
     ],
     "feedbackIncorrecto": {
-      "Siempre puede generarse otro potencial con un estímulo débil": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Solo ocurre durante el reposo estable": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Depende exclusivamente de la bomba Na⁺/K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Siempre puede generarse otro potencial con un estímulo débil": "No es correcta porque «Siempre puede generarse otro potencial con un estímulo débil» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Solo ocurre durante el reposo estable": "No es correcta porque «Solo ocurre durante el reposo estable» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Depende exclusivamente de la bomba Na⁺/K⁺": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
     },
     "ideaClave": "La inactivación de canales de Na⁺ impide un nuevo potencial durante el periodo absoluto."
   },
@@ -335,9 +335,9 @@
       "La membrana está exactamente en reposo"
     ],
     "feedbackIncorrecto": {
-      "Nunca puede generarse un potencial": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Solo ocurre antes del umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana está exactamente en reposo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Nunca puede generarse un potencial": "No es correcta porque «Nunca puede generarse un potencial» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Solo ocurre antes del umbral": "No es correcta porque «Solo ocurre antes del umbral» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "La membrana está exactamente en reposo": "No es correcta porque «La membrana está exactamente en reposo» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
     },
     "ideaClave": "Durante el periodo relativo la excitabilidad está disminuida, pero no abolida."
   },
@@ -354,9 +354,9 @@
       "Liberar neurotransmisores en la sinapsis"
     ],
     "feedbackIncorrecto": {
-      "Generar directamente el pico de +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Abrir canales de Na⁺ por voltaje": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Liberar neurotransmisores en la sinapsis": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Generar directamente el pico de +40 mV": "No es correcta porque «Generar directamente el pico de +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Abrir canales de Na⁺ por voltaje": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Liberar neurotransmisores en la sinapsis": "No es correcta porque «Liberar neurotransmisores en la sinapsis» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La bomba contribuye al mantenimiento de los gradientes de Na⁺ y K⁺."
   },
@@ -373,9 +373,9 @@
       "Depende de la concentración de neurotransmisor en todo el axón"
     ],
     "feedbackIncorrecto": {
-      "Se difunde de forma pasiva y cada vez más débil": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Aumenta de amplitud con la distancia": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Depende de la concentración de neurotransmisor en todo el axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se difunde de forma pasiva y cada vez más débil": "No es correcta porque «Se difunde de forma pasiva y cada vez más débil» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "Aumenta de amplitud con la distancia": "No es correcta porque «Aumenta de amplitud con la distancia» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "Depende de la concentración de neurotransmisor en todo el axón": "No es correcta porque «Depende de la concentración de neurotransmisor en todo el axón» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "El potencial de acción se propaga manteniendo su amplitud."
   },
@@ -392,9 +392,9 @@
       "Solo hacia el núcleo"
     ],
     "feedbackIncorrecto": {
-      "Desde el exterior hacia el interior": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No existiría movimiento neto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Solo hacia el núcleo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Desde el exterior hacia el interior": "No es correcta porque «Desde el exterior hacia el interior» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "No existiría movimiento neto": "No es correcta porque «No existiría movimiento neto» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "Solo hacia el núcleo": "No es correcta porque «Solo hacia el núcleo» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "El K⁺ está más concentrado dentro de la célula y tiende a salir por su gradiente químico."
   },
@@ -411,9 +411,9 @@
       "Solo hacia el espacio sináptico"
     ],
     "feedbackIncorrecto": {
-      "Desde el interior hacia el exterior": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No existiría movimiento neto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Solo hacia el espacio sináptico": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Desde el interior hacia el exterior": "No es correcta porque «Desde el interior hacia el exterior» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "No existiría movimiento neto": "No es correcta porque «No existiría movimiento neto» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "Solo hacia el espacio sináptico": "No es correcta porque «Solo hacia el espacio sináptico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "El Na⁺ está más concentrado fuera y tiende a entrar."
   },
@@ -430,9 +430,9 @@
       "Se vuelve eléctricamente neutro de inmediato"
     ],
     "feedbackIncorrecto": {
-      "Se vuelve más positivo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Pierde toda diferencia eléctrica": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se vuelve eléctricamente neutro de inmediato": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se vuelve más positivo": "No es correcta porque «Se vuelve más positivo» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Pierde toda diferencia eléctrica": "No es correcta porque «Pierde toda diferencia eléctrica» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Se vuelve eléctricamente neutro de inmediato": "No es correcta porque «Se vuelve eléctricamente neutro de inmediato» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "La salida de cargas positivas deja un exceso relativo de cargas negativas dentro."
   },
@@ -449,9 +449,9 @@
       "Se hiperpolariza inmediatamente"
     ],
     "feedbackIncorrecto": {
-      "Se vuelve más negativo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No cambia el voltaje": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se hiperpolariza inmediatamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se vuelve más negativo": "No es correcta porque «Se vuelve más negativo» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "No cambia el voltaje": "No es correcta porque «No cambia el voltaje» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Se hiperpolariza inmediatamente": "No es correcta porque «Se hiperpolariza inmediatamente» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "La entrada de cargas positivas produce positividad intracelular."
   },
@@ -459,7 +459,7 @@
     "id": 25,
     "nivel": 2,
     "tema": "Umbral",
-    "pregunta": "Un estímulo lleva la membrana desde −70 mV hasta −60 mV. ¿Qué resultado es más probable según la clase?",
+    "pregunta": "Un estímulo lleva la membrana desde −70 mV hasta −60 mV. ¿Qué resultado es más probable?",
     "correcta_texto": "No se genera un potencial de acción completo porque no se alcanzó el umbral",
     "alternativas": [
       "No se genera un potencial de acción completo porque no se alcanzó el umbral",
@@ -468,9 +468,9 @@
       "La célula entra en periodo refractario absoluto"
     ],
     "feedbackIncorrecto": {
-      "Se genera un potencial de acción completo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana alcanza +40 mV automáticamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La célula entra en periodo refractario absoluto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se genera un potencial de acción completo": "No es correcta porque «Se genera un potencial de acción completo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La membrana alcanza +40 mV automáticamente": "No es correcta porque «La membrana alcanza +40 mV automáticamente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La célula entra en periodo refractario absoluto": "No es correcta porque «La célula entra en periodo refractario absoluto» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "El umbral descrito es cercano a −55 mV."
   },
@@ -487,9 +487,9 @@
       "No ocurre ningún cambio porque −50 mV sigue siendo negativo"
     ],
     "feedbackIncorrecto": {
-      "La célula vuelve inmediatamente a −90 mV sin respuesta": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se cierran todos los canales de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No ocurre ningún cambio porque −50 mV sigue siendo negativo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La célula vuelve inmediatamente a −90 mV sin respuesta": "No es correcta porque «La célula vuelve inmediatamente a −90 mV sin respuesta» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Se cierran todos los canales de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "No ocurre ningún cambio porque −50 mV sigue siendo negativo": "No es correcta porque «No ocurre ningún cambio porque −50 mV sigue siendo negativo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "Superar el umbral activa la respuesta de todo o nada."
   },
@@ -506,9 +506,9 @@
       "Salida basal de K⁺ por canales de fuga"
     ],
     "feedbackIncorrecto": {
-      "Hiperpolarización tardía": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Restauración de gradientes por la bomba": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Salida basal de K⁺ por canales de fuga": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Hiperpolarización tardía": "No es correcta porque «Hiperpolarización tardía» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Restauración de gradientes por la bomba": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "Salida basal de K⁺ por canales de fuga": "No es correcta porque «Salida basal de K⁺ por canales de fuga» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
     },
     "ideaClave": "La fase ascendente depende de la entrada rápida de Na⁺."
   },
@@ -525,9 +525,9 @@
       "Reconocimiento sináptico del neurotransmisor"
     ],
     "feedbackIncorrecto": {
-      "Inicio del potencial de reposo por Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Liberación de neurotransmisor como primer evento": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Reconocimiento sináptico del neurotransmisor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Inicio del potencial de reposo por Na⁺": "No es correcta porque «Inicio del potencial de reposo por Na⁺» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Liberación de neurotransmisor como primer evento": "No es correcta porque «Liberación de neurotransmisor como primer evento» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Reconocimiento sináptico del neurotransmisor": "No es correcta porque «Reconocimiento sináptico del neurotransmisor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La salida de K⁺ es clave para recuperar la negatividad."
   },
@@ -544,9 +544,9 @@
       "Meseta"
     ],
     "feedbackIncorrecto": {
-      "Despolarización": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Meseta": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Despolarización": "No es correcta porque «Despolarización» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Umbral": "No es correcta porque «Umbral» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Meseta": "No es correcta porque «Meseta» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "La hiperpolarización ocurre cuando el voltaje cae por debajo del reposo."
   },
@@ -563,9 +563,9 @@
       "Solo aumenta la salida de neurotransmisor"
     ],
     "feedbackIncorrecto": {
-      "Se genera un potencial más grande": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se genera un potencial de acción de menor amplitud": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Solo aumenta la salida de neurotransmisor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se genera un potencial más grande": "No es correcta porque «Se genera un potencial más grande» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Se genera un potencial de acción de menor amplitud": "No es correcta porque «Se genera un potencial de acción de menor amplitud» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Solo aumenta la salida de neurotransmisor": "No es correcta porque «Solo aumenta la salida de neurotransmisor» no corresponde al flujo iónico característico del fenómeno planteado."
     },
     "ideaClave": "Mientras los canales de Na⁺ están inactivos, no puede dispararse otro potencial."
   },
@@ -582,9 +582,9 @@
       "La bomba Na⁺/K⁺ se detiene"
     ],
     "feedbackIncorrecto": {
-      "Nunca puede generarse otro potencial": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Solo se produce hiperpolarización sin señal": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La bomba Na⁺/K⁺ se detiene": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Nunca puede generarse otro potencial": "No es correcta porque «Nunca puede generarse otro potencial» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Solo se produce hiperpolarización sin señal": "No es correcta porque «Solo se produce hiperpolarización sin señal» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "La bomba Na⁺/K⁺ se detiene": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
     },
     "ideaClave": "Durante el periodo relativo puede responder si el estímulo es suficientemente intenso."
   },
@@ -601,9 +601,9 @@
       "Porque el K⁺ extracelular aumenta progresivamente"
     ],
     "feedbackIncorrecto": {
-      "Porque cada zona recibe neurotransmisores desde el soma": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque la bomba Na⁺/K⁺ produce directamente cada pico": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque el K⁺ extracelular aumenta progresivamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Porque cada zona recibe neurotransmisores desde el soma": "No es correcta porque «Porque cada zona recibe neurotransmisores desde el soma» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "Porque la bomba Na⁺/K⁺ produce directamente cada pico": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "Porque el K⁺ extracelular aumenta progresivamente": "No es correcta porque «Porque el K⁺ extracelular aumenta progresivamente» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "La señal activa canales en segmentos vecinos y mantiene su amplitud."
   },
@@ -620,9 +620,9 @@
       "La liberación constante de neurotransmisores a lo largo del axón"
     ],
     "feedbackIncorrecto": {
-      "La entrada de Cl⁻ en todo el axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La disminución progresiva de Na⁺ extracelular": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La liberación constante de neurotransmisores a lo largo del axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La entrada de Cl⁻ en todo el axón": "No es correcta porque «La entrada de Cl⁻ en todo el axón» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "La disminución progresiva de Na⁺ extracelular": "No es correcta porque «La disminución progresiva de Na⁺ extracelular» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "La liberación constante de neurotransmisores a lo largo del axón": "No es correcta porque «La liberación constante de neurotransmisores a lo largo del axón» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "La zona recién activada no puede reexcitarse de inmediato."
   },
@@ -630,7 +630,7 @@
     "id": 34,
     "nivel": 2,
     "tema": "Sinapsis química",
-    "pregunta": "Cuando el potencial de acción llega al terminal axónico, ¿qué evento ocurre a continuación según la clase?",
+    "pregunta": "Cuando el potencial de acción llega al terminal axónico, ¿qué evento ocurre a continuación?",
     "correcta_texto": "Se liberan neurotransmisores",
     "alternativas": [
       "Se liberan neurotransmisores",
@@ -639,9 +639,9 @@
       "La neurona receptora libera primero K⁺"
     ],
     "feedbackIncorrecto": {
-      "Se cierran todos los canales de la neurona postsináptica": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El potencial de acción cruza físicamente el espacio sináptico": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La neurona receptora libera primero K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se cierran todos los canales de la neurona postsináptica": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "El potencial de acción cruza físicamente el espacio sináptico": "No es correcta porque «El potencial de acción cruza físicamente el espacio sináptico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "La neurona receptora libera primero K⁺": "No es correcta porque «La neurona receptora libera primero K⁺» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "La señal eléctrica presináptica se convierte en una señal química."
   },
@@ -658,9 +658,9 @@
       "Hace desaparecer el gradiente electroquímico"
     ],
     "feedbackIncorrecto": {
-      "Se transforma directamente en ATP": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se convierte en un canal de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Hace desaparecer el gradiente electroquímico": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se transforma directamente en ATP": "No es correcta porque «Se transforma directamente en ATP» no corresponde al orden de eventos de una transmisión sináptica química.",
+      "Se convierte en un canal de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Hace desaparecer el gradiente electroquímico": "No es correcta porque «Hace desaparecer el gradiente electroquímico» no corresponde al orden de eventos de una transmisión sináptica química."
     },
     "ideaClave": "La unión del neurotransmisor puede cambiar la conductancia iónica postsináptica."
   },
@@ -677,9 +677,9 @@
       "Inactivación completa de todos los canales"
     ],
     "feedbackIncorrecto": {
-      "Solo la difusión libre de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Apertura permanente de canales de Na⁺ por voltaje": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Inactivación completa de todos los canales": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Solo la difusión libre de Na⁺": "No es correcta porque «Solo la difusión libre de Na⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Apertura permanente de canales de Na⁺ por voltaje": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Inactivación completa de todos los canales": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
     },
     "ideaClave": "La bomba ayuda a sostener los gradientes iónicos."
   },
@@ -696,9 +696,9 @@
       "La membrana pierde toda diferencia de carga"
     ],
     "feedbackIncorrecto": {
-      "El interior se hace progresivamente más positivo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El voltaje permanece fijo en +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana pierde toda diferencia de carga": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El interior se hace progresivamente más positivo": "No es correcta porque «El interior se hace progresivamente más positivo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "El voltaje permanece fijo en +40 mV": "No es correcta porque «El voltaje permanece fijo en +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La membrana pierde toda diferencia de carga": "No es correcta porque «La membrana pierde toda diferencia de carga» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La salida de cargas positivas favorece la recuperación de la negatividad interna."
   },
@@ -715,9 +715,9 @@
       "La amplitud depende linealmente de la intensidad del estímulo"
     ],
     "feedbackIncorrecto": {
-      "El estímulo más intenso produce un potencial de doble amplitud": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El estímulo más débil produce un potencial incompleto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La amplitud depende linealmente de la intensidad del estímulo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El estímulo más intenso produce un potencial de doble amplitud": "No es correcta porque «El estímulo más intenso produce un potencial de doble amplitud» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "El estímulo más débil produce un potencial incompleto": "No es correcta porque «El estímulo más débil produce un potencial incompleto» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "La amplitud depende linealmente de la intensidad del estímulo": "No es correcta porque «La amplitud depende linealmente de la intensidad del estímulo» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
     },
     "ideaClave": "Una vez superado el umbral, el potencial se genera con amplitud estereotipada."
   },
@@ -734,9 +734,9 @@
       "Su bombeo activo de Na⁺ hacia afuera"
     ],
     "feedbackIncorrecto": {
-      "Su apertura sostenida": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Su conversión en canales de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Su bombeo activo de Na⁺ hacia afuera": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Su apertura sostenida": "No es correcta porque «Su apertura sostenida» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Su conversión en canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Su bombeo activo de Na⁺ hacia afuera": "No es correcta porque «Su bombeo activo de Na⁺ hacia afuera» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La inactivación de Na⁺ limita la entrada de carga positiva."
   },
@@ -753,9 +753,9 @@
       "Ha perdido su gradiente de K⁺ por completo"
     ],
     "feedbackIncorrecto": {
-      "Está más cerca de +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Tiene todos los canales de Na⁺ abiertos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Ha perdido su gradiente de K⁺ por completo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Está más cerca de +40 mV": "No es correcta porque «Está más cerca de +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Tiene todos los canales de Na⁺ abiertos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Ha perdido su gradiente de K⁺ por completo": "No es correcta porque «Ha perdido su gradiente de K⁺ por completo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "Un voltaje más negativo requiere una despolarización mayor para alcanzar el umbral."
   },
@@ -772,9 +772,9 @@
       "El Na⁺ extracelular bloquea físicamente al K⁺"
     ],
     "feedbackIncorrecto": {
-      "El gradiente químico desaparece porque se acaba el K⁺ intracelular": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Los canales de K⁺ se convierten en bombas": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El Na⁺ extracelular bloquea físicamente al K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El gradiente químico desaparece porque se acaba el K⁺ intracelular": "No es correcta porque «El gradiente químico desaparece porque se acaba el K⁺ intracelular» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Los canales de K⁺ se convierten en bombas": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "El Na⁺ extracelular bloquea físicamente al K⁺": "No es correcta porque «El Na⁺ extracelular bloquea físicamente al K⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "El equilibrio surge cuando las fuerzas química y eléctrica se contrarrestan."
   },
@@ -791,9 +791,9 @@
       "La bomba expulsa proteínas negativas"
     ],
     "feedbackIncorrecto": {
-      "El Na⁺ entra y neutraliza el citoplasma": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Los aniones salen con mayor rapidez que K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La bomba expulsa proteínas negativas": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El Na⁺ entra y neutraliza el citoplasma": "No es correcta porque «El Na⁺ entra y neutraliza el citoplasma» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Los aniones salen con mayor rapidez que K⁺": "No es correcta porque «Los aniones salen con mayor rapidez que K⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "La bomba expulsa proteínas negativas": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
     },
     "ideaClave": "La separación de cargas origina el potencial de difusión."
   },
@@ -810,9 +810,9 @@
       "El Cl⁻ abandona completamente la célula"
     ],
     "feedbackIncorrecto": {
-      "El K⁺ entra en mayor cantidad": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Las proteínas intracelulares se vuelven positivas": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El Cl⁻ abandona completamente la célula": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El K⁺ entra en mayor cantidad": "No es correcta porque «El K⁺ entra en mayor cantidad» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Las proteínas intracelulares se vuelven positivas": "No es correcta porque «Las proteínas intracelulares se vuelven positivas» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "El Cl⁻ abandona completamente la célula": "No es correcta porque «El Cl⁻ abandona completamente la célula» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "La entrada de Na⁺ aporta cargas positivas al interior."
   },
@@ -829,9 +829,9 @@
       "El potencial de acción elimina de forma permanente el potencial de reposo"
     ],
     "feedbackIncorrecto": {
-      "Son fenómenos independientes sin relación eléctrica": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El potencial de reposo aparece solo después de cada sinapsis": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El potencial de acción elimina de forma permanente el potencial de reposo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Son fenómenos independientes sin relación eléctrica": "No es correcta porque «Son fenómenos independientes sin relación eléctrica» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "El potencial de reposo aparece solo después de cada sinapsis": "No es correcta porque «El potencial de reposo aparece solo después de cada sinapsis» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "El potencial de acción elimina de forma permanente el potencial de reposo": "No es correcta porque «El potencial de acción elimina de forma permanente el potencial de reposo» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "El potencial de acción parte desde un estado eléctrico basal y luego retorna a él."
   },
@@ -848,9 +848,9 @@
       "Salida de Cl⁻ → repolarización → umbral"
     ],
     "feedbackIncorrecto": {
-      "Apertura de K⁺ → hiperpolarización → umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Bomba Na⁺/K⁺ → +40 mV → entrada de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Salida de Cl⁻ → repolarización → umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Apertura de K⁺ → hiperpolarización → umbral": "No es correcta porque «Apertura de K⁺ → hiperpolarización → umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Bomba Na⁺/K⁺ → +40 mV → entrada de Na⁺": "No es correcta porque «Bomba Na⁺/K⁺ → +40 mV → entrada de Na⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "Salida de Cl⁻ → repolarización → umbral": "No es correcta porque «Salida de Cl⁻ → repolarización → umbral» no corresponde al flujo iónico característico del fenómeno planteado."
     },
     "ideaClave": "El umbral desencadena la apertura regenerativa de canales de Na⁺."
   },
@@ -867,9 +867,9 @@
       "Entrada simultánea de Na⁺ y K⁺ en grandes cantidades"
     ],
     "feedbackIncorrecto": {
-      "Apertura sostenida de canales de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Cierre de todos los canales de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrada simultánea de Na⁺ y K⁺ en grandes cantidades": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Apertura sostenida de canales de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Cierre de todos los canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Entrada simultánea de Na⁺ y K⁺ en grandes cantidades": "No es correcta porque «Entrada simultánea de Na⁺ y K⁺ en grandes cantidades» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
     },
     "ideaClave": "La disminución de entrada de Na⁺ y aumento de salida de K⁺ invierten la tendencia del voltaje."
   },
@@ -886,9 +886,9 @@
       "El Cl⁻ sale masivamente al exterior"
     ],
     "feedbackIncorrecto": {
-      "Los canales de Na⁺ se mantienen abiertos por más tiempo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La bomba introduce K⁺ tan rápido que vuelve positivo el interior": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El Cl⁻ sale masivamente al exterior": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Los canales de Na⁺ se mantienen abiertos por más tiempo": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "La bomba introduce K⁺ tan rápido que vuelve positivo el interior": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "El Cl⁻ sale masivamente al exterior": "No es correcta porque «El Cl⁻ sale masivamente al exterior» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La conductancia persistente al K⁺ lleva el voltaje por debajo del reposo."
   },
@@ -905,9 +905,9 @@
       "La inactivación aumenta la amplitud del potencial siguiente"
     ],
     "feedbackIncorrecto": {
-      "La inactivación facilita potenciales de mayor frecuencia": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La inactivación solo afecta a canales de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La inactivación aumenta la amplitud del potencial siguiente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La inactivación facilita potenciales de mayor frecuencia": "No es correcta porque «La inactivación facilita potenciales de mayor frecuencia» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "La inactivación solo afecta a canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "La inactivación aumenta la amplitud del potencial siguiente": "No es correcta porque «La inactivación aumenta la amplitud del potencial siguiente» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
     },
     "ideaClave": "La recuperación de los canales de Na⁺ es necesaria para recuperar excitabilidad."
   },
@@ -924,9 +924,9 @@
       "No existen gradientes iónicos durante este periodo"
     ],
     "feedbackIncorrecto": {
-      "Todos los canales de Na⁺ siguen inactivos y la membrana está en +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana está exactamente en reposo y todos los canales están cerrados": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No existen gradientes iónicos durante este periodo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Todos los canales de Na⁺ siguen inactivos y la membrana está en +40 mV": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "La membrana está exactamente en reposo y todos los canales están cerrados": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "No existen gradientes iónicos durante este periodo": "No es correcta porque «No existen gradientes iónicos durante este periodo» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
     },
     "ideaClave": "La excitabilidad vuelve gradualmente y puede requerirse un estímulo mayor."
   },
@@ -943,9 +943,9 @@
       "Porque el interior ya está a +40 mV"
     ],
     "feedbackIncorrecto": {
-      "Porque abre demasiados canales de K⁺ de inmediato": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque la bomba Na⁺/K⁺ bloquea todo cambio de voltaje": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque el interior ya está a +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Porque abre demasiados canales de K⁺ de inmediato": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Porque la bomba Na⁺/K⁺ bloquea todo cambio de voltaje": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "Porque el interior ya está a +40 mV": "No es correcta porque «Porque el interior ya está a +40 mV» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
     },
     "ideaClave": "La respuesta regenerativa comienza al alcanzar el umbral."
   },
@@ -962,9 +962,9 @@
       "El neurotransmisor circula por el interior del axón"
     ],
     "feedbackIncorrecto": {
-      "La misma corriente viaja intacta hasta el final sin activar canales nuevos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La bomba Na⁺/K⁺ genera un nuevo potencial en cada punto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El neurotransmisor circula por el interior del axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La misma corriente viaja intacta hasta el final sin activar canales nuevos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "La bomba Na⁺/K⁺ genera un nuevo potencial en cada punto": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "El neurotransmisor circula por el interior del axón": "No es correcta porque «El neurotransmisor circula por el interior del axón» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "Cada segmento activado desencadena el siguiente."
   },
@@ -981,9 +981,9 @@
       "Elimina el gradiente eléctrico en la región previa"
     ],
     "feedbackIncorrecto": {
-      "Aumenta la permeabilidad al Na⁺ detrás del frente de onda": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Mantiene todos los canales de Na⁺ abiertos hacia atrás": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Elimina el gradiente eléctrico en la región previa": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Aumenta la permeabilidad al Na⁺ detrás del frente de onda": "No es correcta porque «Aumenta la permeabilidad al Na⁺ detrás del frente de onda» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Mantiene todos los canales de Na⁺ abiertos hacia atrás": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Elimina el gradiente eléctrico en la región previa": "No es correcta porque «Elimina el gradiente eléctrico en la región previa» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
     },
     "ideaClave": "La región posterior queda temporalmente inexitable."
   },
@@ -1000,9 +1000,9 @@
       "K⁺ extracelular → neurotransmisor → potencial de acción terminal"
     ],
     "feedbackIncorrecto": {
-      "Neurotransmisor → potencial presináptico → fusión nuclear → señal": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Potencial postsináptico → liberación presináptica → receptor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "K⁺ extracelular → neurotransmisor → potencial de acción terminal": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Neurotransmisor → potencial presináptico → fusión nuclear → señal": "No es correcta porque «Neurotransmisor → potencial presináptico → fusión nuclear → señal» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Potencial postsináptico → liberación presináptica → receptor": "No es correcta porque «Potencial postsináptico → liberación presináptica → receptor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "K⁺ extracelular → neurotransmisor → potencial de acción terminal": "No es correcta porque «K⁺ extracelular → neurotransmisor → potencial de acción terminal» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La señal cambia de eléctrica a química y luego vuelve a eléctrica."
   },
@@ -1019,9 +1019,9 @@
       "Los canales consumen ATP y la bomba funciona de manera pasiva"
     ],
     "feedbackIncorrecto": {
-      "La bomba genera directamente la fase ascendente y los canales restauran gradientes": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Ambos cumplen exactamente la misma función": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Los canales consumen ATP y la bomba funciona de manera pasiva": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La bomba genera directamente la fase ascendente y los canales restauran gradientes": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Ambos cumplen exactamente la misma función": "No es correcta porque «Ambos cumplen exactamente la misma función» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Los canales consumen ATP y la bomba funciona de manera pasiva": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
     },
     "ideaClave": "Canales y bomba cumplen funciones complementarias."
   },
@@ -1038,9 +1038,9 @@
       "Porque el Cl⁻ intracelular es el único ion relevante"
     ],
     "feedbackIncorrecto": {
-      "Porque el Na⁺ entra de manera continua y vuelve negativo el interior": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque las proteínas negativas salen por canales de fuga": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque el Cl⁻ intracelular es el único ion relevante": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Porque el Na⁺ entra de manera continua y vuelve negativo el interior": "No es correcta porque «Porque el Na⁺ entra de manera continua y vuelve negativo el interior» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Porque las proteínas negativas salen por canales de fuga": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Porque el Cl⁻ intracelular es el único ion relevante": "No es correcta porque «Porque el Cl⁻ intracelular es el único ion relevante» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "La combinación de gradientes y permeabilidad selectiva explica la negatividad en reposo."
   },
@@ -1057,9 +1057,9 @@
       "Aumenta porque los canales de K⁺ se inactivan"
     ],
     "feedbackIncorrecto": {
-      "Aumenta porque queda más cerca del umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No cambia porque solo importa el Na⁺ extracelular": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Aumenta porque los canales de K⁺ se inactivan": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Aumenta porque queda más cerca del umbral": "No es correcta porque «Aumenta porque queda más cerca del umbral» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "No cambia porque solo importa el Na⁺ extracelular": "No es correcta porque «No cambia porque solo importa el Na⁺ extracelular» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "Aumenta porque los canales de K⁺ se inactivan": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
     },
     "ideaClave": "Cuanto más negativa está la membrana, mayor despolarización necesita para alcanzar el umbral."
   },
@@ -1076,9 +1076,9 @@
       "La cantidad total de proteínas citoplasmáticas"
     ],
     "feedbackIncorrecto": {
-      "El valor del potencial de reposo por sí solo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La presencia de Cl⁻ extracelular": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La cantidad total de proteínas citoplasmáticas": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El valor del potencial de reposo por sí solo": "No es correcta porque «El valor del potencial de reposo por sí solo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La presencia de Cl⁻ extracelular": "No es correcta porque «La presencia de Cl⁻ extracelular» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La cantidad total de proteínas citoplasmáticas": "No es correcta porque «La cantidad total de proteínas citoplasmáticas» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "Los periodos refractarios establecen un intervalo mínimo entre potenciales."
   },
@@ -1095,9 +1095,9 @@
       "Entrada sostenida de Na⁺"
     ],
     "feedbackIncorrecto": {
-      "Un pico de despolarización mayor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Pérdida completa del umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrada sostenida de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Un pico de despolarización mayor": "No es correcta porque «Un pico de despolarización mayor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Pérdida completa del umbral": "No es correcta porque «Pérdida completa del umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Entrada sostenida de Na⁺": "No es correcta porque «Entrada sostenida de Na⁺» no corresponde al flujo iónico característico del fenómeno planteado."
     },
     "ideaClave": "La salida excesiva de K⁺ vuelve el interior más negativo."
   },
@@ -1114,9 +1114,9 @@
       "Repolarización inmediata"
     ],
     "feedbackIncorrecto": {
-      "Hiperpolarización": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Ningún cambio": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Repolarización inmediata": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Hiperpolarización": "No es correcta porque «Hiperpolarización» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Ningún cambio": "No es correcta porque «Ningún cambio» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Repolarización inmediata": "No es correcta porque «Repolarización inmediata» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La entrada de Na⁺ lleva el voltaje hacia valores más positivos."
   },
@@ -1133,9 +1133,9 @@
       "Se alcanza automáticamente +40 mV"
     ],
     "feedbackIncorrecto": {
-      "El potencial se vuelve más positivo por entrada de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El voltaje queda fijado en 0 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se alcanza automáticamente +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El potencial se vuelve más positivo por entrada de K⁺": "No es correcta porque «El potencial se vuelve más positivo por entrada de K⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "El voltaje queda fijado en 0 mV": "No es correcta porque «El voltaje queda fijado en 0 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Se alcanza automáticamente +40 mV": "No es correcta porque «Se alcanza automáticamente +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La salida de K⁺ favorece negatividad intracelular."
   },
@@ -1152,9 +1152,9 @@
       "Retorno pasivo a reposo sin potencial de acción"
     ],
     "feedbackIncorrecto": {
-      "Hiperpolarización inmediata por entrada de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Cierre de todos los canales iónicos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Retorno pasivo a reposo sin potencial de acción": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Hiperpolarización inmediata por entrada de K⁺": "No es correcta porque «Hiperpolarización inmediata por entrada de K⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "Cierre de todos los canales iónicos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "Retorno pasivo a reposo sin potencial de acción": "No es correcta porque «Retorno pasivo a reposo sin potencial de acción» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "Al superar el umbral de aproximadamente −55 mV se inicia el potencial de acción."
   },
@@ -1171,9 +1171,9 @@
       "Se alcanzó +40 mV pero no se registró"
     ],
     "feedbackIncorrecto": {
-      "Se produjo un potencial de acción completo de baja amplitud": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana entró en periodo refractario absoluto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se alcanzó +40 mV pero no se registró": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Se produjo un potencial de acción completo de baja amplitud": "No es correcta porque «Se produjo un potencial de acción completo de baja amplitud» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "La membrana entró en periodo refractario absoluto": "No es correcta porque «La membrana entró en periodo refractario absoluto» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Se alcanzó +40 mV pero no se registró": "No es correcta porque «Se alcanzó +40 mV pero no se registró» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "Los estímulos subumbrales no generan un potencial de acción completo."
   },
@@ -1190,9 +1190,9 @@
       "Aumento del potencial de reposo a +40 mV"
     ],
     "feedbackIncorrecto": {
-      "Aumento de la hiperpolarización por K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Mayor liberación de neurotransmisor por sí sola": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Aumento del potencial de reposo a +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Aumento de la hiperpolarización por K⁺": "No es correcta porque «Aumento de la hiperpolarización por K⁺» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Mayor liberación de neurotransmisor por sí sola": "No es correcta porque «Mayor liberación de neurotransmisor por sí sola» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Aumento del potencial de reposo a +40 mV": "No es correcta porque «Aumento del potencial de reposo a +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La fase ascendente depende de la entrada de Na⁺."
   },
@@ -1209,9 +1209,9 @@
       "Potencial de reposo fijado en +61 mV"
     ],
     "feedbackIncorrecto": {
-      "Despolarización imposible desde el inicio": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Periodo refractario absoluto inexistente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Potencial de reposo fijado en +61 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Despolarización imposible desde el inicio": "No es correcta porque «Despolarización imposible desde el inicio» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Periodo refractario absoluto inexistente": "No es correcta porque «Periodo refractario absoluto inexistente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Potencial de reposo fijado en +61 mV": "No es correcta porque «Potencial de reposo fijado en +61 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La salida de K⁺ es esencial para la repolarización."
   },
@@ -1228,9 +1228,9 @@
       "Apertura permanente de canales de Ca²⁺"
     ],
     "feedbackIncorrecto": {
-      "Inactivación precoz de K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrada excesiva de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Apertura permanente de canales de Ca²⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Inactivación precoz de K⁺": "No es correcta porque «Inactivación precoz de K⁺» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Entrada excesiva de Na⁺": "No es correcta porque «Entrada excesiva de Na⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "Apertura permanente de canales de Ca²⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
     },
     "ideaClave": "La salida prolongada de K⁺ prolonga la hiperpolarización."
   },
@@ -1247,9 +1247,9 @@
       "Los canales de K⁺ se transformaron en canales de Na⁺"
     ],
     "feedbackIncorrecto": {
-      "La neurona perdió permanentemente sus gradientes": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El umbral desapareció": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Los canales de K⁺ se transformaron en canales de Na⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La neurona perdió permanentemente sus gradientes": "No es correcta porque «La neurona perdió permanentemente sus gradientes» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "El umbral desapareció": "No es correcta porque «El umbral desapareció» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Los canales de K⁺ se transformaron en canales de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
     },
     "ideaClave": "La inactivación de Na⁺ sustenta el periodo refractario absoluto."
   },
@@ -1266,9 +1266,9 @@
       "Fase de despolarización máxima"
     ],
     "feedbackIncorrecto": {
-      "Periodo refractario absoluto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Fase de reposo estable": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Fase de despolarización máxima": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Periodo refractario absoluto": "No es correcta porque «Periodo refractario absoluto» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Fase de reposo estable": "No es correcta porque «Fase de reposo estable» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
+      "Fase de despolarización máxima": "No es correcta porque «Fase de despolarización máxima» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
     },
     "ideaClave": "En el periodo relativo la excitabilidad está reducida, pero puede recuperarse con estímulos mayores."
   },
@@ -1285,9 +1285,9 @@
       "La bomba Na⁺/K⁺ genera directamente cada potencial"
     ],
     "feedbackIncorrecto": {
-      "La señal se desplaza sin necesidad de activar canales adicionales": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El neurotransmisor difunde dentro del axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La bomba Na⁺/K⁺ genera directamente cada potencial": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La señal se desplaza sin necesidad de activar canales adicionales": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "El neurotransmisor difunde dentro del axón": "No es correcta porque «El neurotransmisor difunde dentro del axón» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "La bomba Na⁺/K⁺ genera directamente cada potencial": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
     },
     "ideaClave": "La propagación depende de la regeneración secuencial del potencial."
   },
@@ -1304,9 +1304,9 @@
       "La amplitud dependerá linealmente del estímulo"
     ],
     "feedbackIncorrecto": {
-      "El estímulo intenso duplicará la amplitud": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El estímulo moderado producirá un potencial incompleto": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La amplitud dependerá linealmente del estímulo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El estímulo intenso duplicará la amplitud": "No es correcta porque «El estímulo intenso duplicará la amplitud» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "El estímulo moderado producirá un potencial incompleto": "No es correcta porque «El estímulo moderado producirá un potencial incompleto» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "La amplitud dependerá linealmente del estímulo": "No es correcta porque «La amplitud dependerá linealmente del estímulo» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
     },
     "ideaClave": "La ley del todo o nada mantiene una amplitud estereotipada una vez superado el umbral."
   },
@@ -1323,9 +1323,9 @@
       "Porque los neurotransmisores solo viajan hacia adelante dentro del axón"
     ],
     "feedbackIncorrecto": {
-      "Porque ya no contiene K⁺": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque la bomba Na⁺/K⁺ bloquea el axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Porque los neurotransmisores solo viajan hacia adelante dentro del axón": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Porque ya no contiene K⁺": "No es correcta porque «Porque ya no contiene K⁺» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "Porque la bomba Na⁺/K⁺ bloquea el axón": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "Porque los neurotransmisores solo viajan hacia adelante dentro del axón": "No es correcta porque «Porque los neurotransmisores solo viajan hacia adelante dentro del axón» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "La refractariedad evita la reexcitación inmediata."
   },
@@ -1342,9 +1342,9 @@
       "La membrana postsináptica alcanzará +40 mV automáticamente"
     ],
     "feedbackIncorrecto": {
-      "El potencial de acción saltará directamente al citoplasma postsináptico": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La neurona postsináptica se despolarizará igual por contacto físico": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana postsináptica alcanzará +40 mV automáticamente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El potencial de acción saltará directamente al citoplasma postsináptico": "No es correcta porque «El potencial de acción saltará directamente al citoplasma postsináptico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "La neurona postsináptica se despolarizará igual por contacto físico": "No es correcta porque «La neurona postsináptica se despolarizará igual por contacto físico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
+      "La membrana postsináptica alcanzará +40 mV automáticamente": "No es correcta porque «La membrana postsináptica alcanzará +40 mV automáticamente» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
     },
     "ideaClave": "En una sinapsis química, la liberación de neurotransmisor es necesaria para transmitir la señal."
   },
@@ -1361,9 +1361,9 @@
       "La unión del neurotransmisor a su receptor"
     ],
     "feedbackIncorrecto": {
-      "La apertura instantánea de canales de Na⁺ por voltaje": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La existencia del periodo refractario absoluto en un único potencial aislado": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La unión del neurotransmisor a su receptor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La apertura instantánea de canales de Na⁺ por voltaje": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
+      "La existencia del periodo refractario absoluto en un único potencial aislado": "No es correcta porque «La existencia del periodo refractario absoluto en un único potencial aislado» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La unión del neurotransmisor a su receptor": "No es correcta porque «La unión del neurotransmisor a su receptor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La bomba mantiene los gradientes que sostienen la excitabilidad a largo plazo."
   },
@@ -1380,9 +1380,9 @@
       "Entrará directamente en hiperpolarización"
     ],
     "feedbackIncorrecto": {
-      "Necesitará una despolarización mayor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "No podrá generar potenciales de acción": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Entrará directamente en hiperpolarización": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Necesitará una despolarización mayor": "No es correcta porque «Necesitará una despolarización mayor» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "No podrá generar potenciales de acción": "No es correcta porque «No podrá generar potenciales de acción» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
+      "Entrará directamente en hiperpolarización": "No es correcta porque «Entrará directamente en hiperpolarización» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
     },
     "ideaClave": "Estar más cerca del umbral facilita alcanzar el disparo."
   },
@@ -1399,9 +1399,9 @@
       "Ningún estímulo porque ya superó el umbral"
     ],
     "feedbackIncorrecto": {
-      "Un estímulo menor": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El mismo estímulo siempre": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Ningún estímulo porque ya superó el umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Un estímulo menor": "No es correcta porque «Un estímulo menor» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "El mismo estímulo siempre": "No es correcta porque «El mismo estímulo siempre» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
+      "Ningún estímulo porque ya superó el umbral": "No es correcta porque «Ningún estímulo porque ya superó el umbral» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
     },
     "ideaClave": "Una membrana más negativa está más alejada del umbral."
   },
@@ -1418,9 +1418,9 @@
       "La membrana se hiperpolariza"
     ],
     "feedbackIncorrecto": {
-      "El interior se vuelve más negativo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "El voltaje permanece en −70 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana se hiperpolariza": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El interior se vuelve más negativo": "No es correcta porque «El interior se vuelve más negativo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "El voltaje permanece en −70 mV": "No es correcta porque «El voltaje permanece en −70 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La membrana se hiperpolariza": "No es correcta porque «La membrana se hiperpolariza» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La entrada de cargas positivas produce despolarización."
   },
@@ -1437,9 +1437,9 @@
       "Se pierde toda separación de cargas"
     ],
     "feedbackIncorrecto": {
-      "El interior se hace aún más positivo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se mantiene exactamente en +40 mV": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Se pierde toda separación de cargas": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El interior se hace aún más positivo": "No es correcta porque «El interior se hace aún más positivo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Se mantiene exactamente en +40 mV": "No es correcta porque «Se mantiene exactamente en +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Se pierde toda separación de cargas": "No es correcta porque «Se pierde toda separación de cargas» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La salida de K⁺ favorece la repolarización."
   },
@@ -1456,9 +1456,9 @@
       "La membrana perdió todos sus canales iónicos"
     ],
     "feedbackIncorrecto": {
-      "El primer estímulo agotó permanentemente el Na⁺ extracelular": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La bomba Na⁺/K⁺ se detuvo de forma irreversible": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana perdió todos sus canales iónicos": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "El primer estímulo agotó permanentemente el Na⁺ extracelular": "No es correcta porque «El primer estímulo agotó permanentemente el Na⁺ extracelular» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La bomba Na⁺/K⁺ se detuvo de forma irreversible": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
+      "La membrana perdió todos sus canales iónicos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
     },
     "ideaClave": "Durante el periodo absoluto no puede generarse otro potencial."
   },
@@ -1475,9 +1475,9 @@
       "La membrana está en el pico de despolarización"
     ],
     "feedbackIncorrecto": {
-      "La neurona se encuentra en reposo completo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La amplitud del potencial depende del estímulo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La membrana está en el pico de despolarización": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "La neurona se encuentra en reposo completo": "No es correcta porque «La neurona se encuentra en reposo completo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La amplitud del potencial depende del estímulo": "No es correcta porque «La amplitud del potencial depende del estímulo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La membrana está en el pico de despolarización": "No es correcta porque «La membrana está en el pico de despolarización» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "En el periodo relativo el umbral efectivo es más difícil de alcanzar."
   },
@@ -1494,9 +1494,9 @@
       "Reposo → repolarización → liberación de neurotransmisor → umbral"
     ],
     "feedbackIncorrecto": {
-      "Reposo → hiperpolarización → entrada de K⁺ → +40 mV → umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Umbral → salida de Na⁺ → despolarización → entrada de K⁺ → reposo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Reposo → repolarización → liberación de neurotransmisor → umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Reposo → hiperpolarización → entrada de K⁺ → +40 mV → umbral": "No es correcta porque «Reposo → hiperpolarización → entrada de K⁺ → +40 mV → umbral» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "Umbral → salida de Na⁺ → despolarización → entrada de K⁺ → reposo": "No es correcta porque «Umbral → salida de Na⁺ → despolarización → entrada de K⁺ → reposo» no corresponde al flujo iónico característico del fenómeno planteado.",
+      "Reposo → repolarización → liberación de neurotransmisor → umbral": "No es correcta porque «Reposo → repolarización → liberación de neurotransmisor → umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "El potencial de acción sigue una secuencia organizada de cambios de conductancia iónica."
   },
@@ -1513,9 +1513,9 @@
       "La hiperpolarización se convertirá en despolarización permanente"
     ],
     "feedbackIncorrecto": {
-      "Aumentará la frecuencia máxima de disparo": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "Desaparecerá la necesidad de alcanzar el umbral": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta.",
-      "La hiperpolarización se convertirá en despolarización permanente": "La alternativa no corresponde al mecanismo fisiológico evaluado en esta pregunta."
+      "Aumentará la frecuencia máxima de disparo": "No es correcta porque «Aumentará la frecuencia máxima de disparo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "Desaparecerá la necesidad de alcanzar el umbral": "No es correcta porque «Desaparecerá la necesidad de alcanzar el umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
+      "La hiperpolarización se convertirá en despolarización permanente": "No es correcta porque «La hiperpolarización se convertirá en despolarización permanente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
     },
     "ideaClave": "La recuperación de canales de Na⁺ es esencial para recuperar excitabilidad."
   }
