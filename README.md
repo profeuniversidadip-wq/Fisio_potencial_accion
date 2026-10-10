@@ -1,24 +1,16 @@
-# FisioPotencialAccion IA — versión reconstruida
+# FisioPotencialAccion IA — v8 clínica y variada
 
 Aplicación adaptativa de fisiología del potencial de membrana y potencial de acción.
 
-## Banco
-- 80 preguntas completamente reconstruidas.
-- 20 preguntas por cada uno de 4 niveles.
-- Nivel 1: conceptos fisiológicos con distractores plausibles.
-- Nivel 2: interpretación de voltaje, flujos y conductancias.
-- Nivel 3: relaciones mecanísticas entre gradientes, canales, umbral, refractariedad y propagación.
-- Nivel 4: situaciones integradas y casos fisiológicos.
-
-## Lógica pedagógica
-- 10 preguntas por sesión.
-- 2 intentos por pregunta.
-- Primer error: explica específicamente por qué la alternativa seleccionada es incorrecta, sin revelar la respuesta.
-- Segundo intento: las alternativas se reordenan y el orden debe ser distinto del mostrado inmediatamente antes.
-- Si acierta en cualquier intento: muestra Correcto + Respuesta correcta + Idea clave.
-- Si falla el segundo intento: explica el error + Respuesta correcta + Idea clave.
-- La app conserva IDs ya utilizados durante la misma ejecución y selecciona preguntas nuevas hasta agotar las 80.
-- Tras agotar el banco completo, comienza un nuevo ciclo.
-- Cerrar/reiniciar completamente la ejecución de Streamlit puede borrar ese historial, salvo que se incorpore almacenamiento externo.
+## Cambios principales
+- Banco de 80 preguntas con mayor contexto clínico y neurofisiológico.
+- Los niveles 2–4 privilegian interpretación de registros, pruebas de excitabilidad y situaciones fisiológicas aplicadas.
+- La selección evita preguntas consecutivas del mismo tema.
+- Además agrupa temas relacionados en familias: por ejemplo, periodo refractario absoluto y relativo pertenecen a la misma familia y no aparecen consecutivamente mientras existan alternativas disponibles.
+- Se conserva el historial de IDs para evitar repetir preguntas hasta agotar el banco disponible.
+- Segundo intento: alternativas en orden diferente al mostrado inmediatamente antes.
+- Primer error: explicación específica del error sin revelar la respuesta.
+- Acierto: Correcto + Respuesta correcta + Idea clave.
+- Segundo error: explicación + Respuesta correcta + Idea clave.
 
 Creado por Cristian Barahona Videla · Uso educativo · © 2026

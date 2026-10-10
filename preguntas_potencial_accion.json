@@ -383,7 +383,7 @@
     "id": 121,
     "nivel": 2,
     "tema": "Umbral",
-    "pregunta": "Una neurona pasa de −70 mV a −60 mV después de un estímulo. Si su umbral es −55 mV, ¿qué conclusión es más adecuada?",
+    "pregunta": "Durante una evaluación neurofisiológica de una fibra nerviosa, el estímulo cambia el potencial desde −70 mV a −60 mV y luego la membrana vuelve al reposo. Si el umbral es cercano a −55 mV, ¿qué mecanismo explica mejor que no aparezca un potencial de acción completo?",
     "correcta_texto": "La despolarización fue subumbral y no debería generar un potencial completo",
     "alternativas": [
       "La despolarización fue subumbral y no debería generar un potencial completo",
@@ -402,7 +402,7 @@
     "id": 122,
     "nivel": 2,
     "tema": "Umbral",
-    "pregunta": "Una neurona se despolariza desde −70 mV hasta −52 mV. ¿Qué evento es más probable a continuación?",
+    "pregunta": "Durante una evaluación neurofisiológica, una fibra pasa desde −70 mV a −52 mV y, pocos milisegundos después, el voltaje asciende con rapidez. ¿Qué evento de membrana explica mejor este cambio?",
     "correcta_texto": "Activación regenerativa de canales de Na⁺ dependientes de voltaje",
     "alternativas": [
       "Inactivación de todos los canales antes de abrirse",
@@ -421,7 +421,7 @@
     "id": 123,
     "nivel": 2,
     "tema": "Bloqueo de Na⁺",
-    "pregunta": "Un fármaco reduce la conductancia de los canales de Na⁺ dependientes de voltaje. ¿Qué cambio es más probable?",
+    "pregunta": "En una prueba de conducción nerviosa se reduce selectivamente la corriente de Na⁺ dependiente de voltaje. El potencial aún puede iniciarse, pero la fase ascendente cambia. ¿Qué modificación es la más esperable?",
     "correcta_texto": "La fase ascendente será más lenta y menos pronunciada",
     "alternativas": [
       "La hiperpolarización será más profunda por salida de Na⁺",
@@ -440,7 +440,7 @@
     "id": 124,
     "nivel": 2,
     "tema": "Bloqueo de K⁺",
-    "pregunta": "Si disminuye mucho la conductancia al K⁺ durante un potencial de acción, ¿qué cambio es esperable?",
+    "pregunta": "Durante un registro electrofisiológico se observa una reducción importante de la corriente de K⁺. La despolarización inicial se conserva. ¿Qué patrón posterior sería el más coherente?",
     "correcta_texto": "Repolarización más lenta y menor poshiperpolarización",
     "alternativas": [
       "Pico necesariamente más negativo que el reposo",
@@ -459,7 +459,7 @@
     "id": 125,
     "nivel": 2,
     "tema": "Hiperpolarización",
-    "pregunta": "Después de un potencial, la membrana alcanza −85 mV. ¿Qué efecto funcional inmediato es más probable?",
+    "pregunta": "Tras estimular repetidamente una fibra nerviosa, después de un potencial, la membrana alcanza −85 mV. ¿Qué efecto funcional inmediato es más probable?",
     "correcta_texto": "Se necesita una despolarización mayor para alcanzar nuevamente el umbral",
     "alternativas": [
       "El siguiente potencial tendrá mayor amplitud",
@@ -478,7 +478,7 @@
     "id": 126,
     "nivel": 2,
     "tema": "Refractario absoluto",
-    "pregunta": "Durante el periodo refractario absoluto se aplica un estímulo muy intenso. ¿Qué ocurre?",
+    "pregunta": "Durante una prueba de doble estímulo, el segundo estímulo es mucho más intenso que el primero pero no genera respuesta cuando se aplica inmediatamente después. ¿Qué propiedad de la membrana explica mejor este hallazgo?",
     "correcta_texto": "No se genera un nuevo potencial de acción",
     "alternativas": [
       "Se genera un potencial parcial",
@@ -497,7 +497,7 @@
     "id": 127,
     "nivel": 2,
     "tema": "Refractario relativo",
-    "pregunta": "Un segundo estímulo produce respuesta solo cuando es más intenso que el habitual. ¿Qué estado explica mejor este hallazgo?",
+    "pregunta": "En una prueba con dos estímulos sucesivos, el segundo solo logra generar respuesta cuando su intensidad aumenta. ¿Qué estado funcional de la membrana explica mejor este comportamiento?",
     "correcta_texto": "Periodo refractario relativo",
     "alternativas": [
       "Periodo refractario absoluto",
@@ -516,7 +516,7 @@
     "id": 128,
     "nivel": 2,
     "tema": "Bomba Na/K",
-    "pregunta": "Si la bomba Na⁺/K⁺ se inhibe durante varios minutos, ¿qué cambio aparecerá progresivamente?",
+    "pregunta": "En una preparación de tejido excitable sometida a estimulación repetida, si la bomba Na⁺/K⁺ se inhibe durante varios minutos, ¿qué cambio aparecerá progresivamente?",
     "correcta_texto": "Disminución de los gradientes de Na⁺ y K⁺",
     "alternativas": [
       "Apertura permanente de los canales de Na⁺",
@@ -535,7 +535,7 @@
     "id": 129,
     "nivel": 2,
     "tema": "Permeabilidad al K⁺",
-    "pregunta": "Si aumenta la permeabilidad al K⁺ en una neurona en reposo, ¿qué tendencia se espera?",
+    "pregunta": "En un registro de membrana, si aumenta la permeabilidad al K⁺ en una neurona en reposo, ¿qué tendencia se espera?",
     "correcta_texto": "El potencial se vuelve más negativo",
     "alternativas": [
       "El voltaje necesariamente queda en 0 mV",
@@ -554,7 +554,7 @@
     "id": 130,
     "nivel": 2,
     "tema": "Permeabilidad al Na⁺",
-    "pregunta": "Si aumenta la permeabilidad al Na⁺ en reposo, ¿qué tendencia es más probable?",
+    "pregunta": "Durante una evaluación de excitabilidad, si aumenta la permeabilidad al Na⁺ en reposo, ¿qué tendencia es más probable?",
     "correcta_texto": "Despolarización hacia valores menos negativos",
     "alternativas": [
       "Hiperpolarización",
@@ -573,7 +573,7 @@
     "id": 131,
     "nivel": 2,
     "tema": "Na⁺ persistente",
-    "pregunta": "Si los canales de Na⁺ no se inactivaran adecuadamente después del pico, ¿qué ocurriría?",
+    "pregunta": "En una fibra nerviosa se detecta una alteración en la inactivación de canales de Na⁺. si los canales de Na⁺ no se inactivaran adecuadamente después del pico, ¿qué ocurriría?",
     "correcta_texto": "La repolarización se retrasaría",
     "alternativas": [
       "La repolarización se retrasaría",
@@ -592,7 +592,7 @@
     "id": 132,
     "nivel": 2,
     "tema": "K⁺ prolongado",
-    "pregunta": "Si los canales de K⁺ permanecen abiertos más tiempo de lo normal, ¿qué cambio es probable?",
+    "pregunta": "En una fibra nerviosa, si los canales de K⁺ permanecen abiertos más tiempo de lo normal, ¿qué cambio es probable?",
     "correcta_texto": "Hiperpolarización más profunda o prolongada",
     "alternativas": [
       "Pico de despolarización más alto",
@@ -611,7 +611,7 @@
     "id": 133,
     "nivel": 2,
     "tema": "Propagación",
-    "pregunta": "Una región axonal activa despolariza la región vecina hasta el umbral. ¿Qué ocurre en esa región vecina?",
+    "pregunta": "Durante una prueba de conducción axonal, una región axonal activa despolariza la región vecina hasta el umbral. ¿Qué ocurre en esa región vecina?",
     "correcta_texto": "Genera su propio potencial de acción",
     "alternativas": [
       "Aumenta la amplitud del segmento anterior",
@@ -630,7 +630,7 @@
     "id": 134,
     "nivel": 2,
     "tema": "Direccionalidad",
-    "pregunta": "¿Por qué una región que acaba de disparar no suele activar de inmediato un potencial retrógrado?",
+    "pregunta": "Al analizar la propagación de un impulso nervioso, ¿Por qué una región que acaba de disparar no suele activar de inmediato un potencial retrógrado?",
     "correcta_texto": "Porque se encuentra transitoriamente refractaria",
     "alternativas": [
       "Porque el potencial solo puede viajar geométricamente hacia adelante",
@@ -649,7 +649,7 @@
     "id": 135,
     "nivel": 2,
     "tema": "Sinapsis",
-    "pregunta": "Si un potencial llega al terminal axónico pero no se libera neurotransmisor, ¿qué consecuencia es más directa?",
+    "pregunta": "Durante la evaluación de una sinapsis química, si un potencial llega al terminal axónico pero no se libera neurotransmisor, ¿qué consecuencia es más directa?",
     "correcta_texto": "La neurona postsináptica no recibe la señal química necesaria",
     "alternativas": [
       "El potencial cruza el espacio sináptico de todos modos",
@@ -668,7 +668,7 @@
     "id": 136,
     "nivel": 2,
     "tema": "Sinapsis postsináptica",
-    "pregunta": "¿Qué evento permite convertir nuevamente la señal química en eléctrica en la neurona postsináptica?",
+    "pregunta": "En una preparación neuronal, ¿Qué evento permite convertir nuevamente la señal química en eléctrica en la neurona postsináptica?",
     "correcta_texto": "La modificación de conductancias iónicas al activarse receptores",
     "alternativas": [
       "La duplicación instantánea del gradiente de K⁺",
@@ -687,7 +687,7 @@
     "id": 137,
     "nivel": 2,
     "tema": "Todo o nada",
-    "pregunta": "Dos estímulos suprumbrales de diferente intensidad actúan sobre la misma neurona. ¿Qué se espera de la amplitud de cada potencial?",
+    "pregunta": "Durante una prueba de estimulación nerviosa, dos estímulos suprumbrales de diferente intensidad actúan sobre la misma neurona. ¿Qué se espera de la amplitud de cada potencial?",
     "correcta_texto": "Será aproximadamente similar",
     "alternativas": [
       "El estímulo menor producirá medio potencial",
@@ -706,7 +706,7 @@
     "id": 138,
     "nivel": 2,
     "tema": "Frecuencia",
-    "pregunta": "¿Qué factor limita de forma directa la frecuencia máxima de disparo de una neurona?",
+    "pregunta": "En una evaluación de descarga repetitiva, ¿Qué factor limita de forma directa la frecuencia máxima de disparo de una neurona?",
     "correcta_texto": "La duración de los periodos refractarios",
     "alternativas": [
       "La presencia de neurotransmisor dentro del axón",
@@ -725,7 +725,7 @@
     "id": 139,
     "nivel": 2,
     "tema": "Excitabilidad",
-    "pregunta": "Una neurona pasa de −70 a −63 mV sin alcanzar el umbral. ¿Cómo cambia su estado inmediato?",
+    "pregunta": "Durante una exploración de excitabilidad neuronal, una neurona pasa de −70 a −63 mV sin alcanzar el umbral. ¿Cómo cambia su estado inmediato?",
     "correcta_texto": "Queda más cerca del umbral",
     "alternativas": [
       "Queda más lejos del umbral",
@@ -744,7 +744,7 @@
     "id": 140,
     "nivel": 2,
     "tema": "Gradiente de Na⁺",
-    "pregunta": "Si disminuye el gradiente electroquímico que impulsa la entrada de Na⁺, ¿qué efecto se espera sobre la fase ascendente?",
+    "pregunta": "En una fibra excitable con menor fuerza impulsora para Na⁺, si disminuye el gradiente electroquímico que impulsa la entrada de Na⁺, ¿qué efecto se espera sobre la fase ascendente?",
     "correcta_texto": "Menor corriente entrante de Na⁺ y despolarización menos vigorosa",
     "alternativas": [
       "Menor corriente entrante de Na⁺ y despolarización menos vigorosa",
@@ -763,7 +763,7 @@
     "id": 141,
     "nivel": 3,
     "tema": "Retroalimentación positiva",
-    "pregunta": "¿Por qué alcanzar el umbral produce una fase ascendente rápida en vez de una despolarización estable pequeña?",
+    "pregunta": "Durante el registro del inicio de un potencial de acción, una pequeña entrada de Na⁺ es seguida por una entrada mucho mayor del mismo ion. ¿Qué propiedad de los canales explica esta aceleración de la despolarización?",
     "correcta_texto": "Porque la entrada inicial de Na⁺ abre más canales de Na⁺ dependientes de voltaje",
     "alternativas": [
       "Porque la salida de K⁺ aumenta de forma regenerativa",
@@ -782,7 +782,7 @@
     "id": 142,
     "nivel": 3,
     "tema": "Equilibrio de K⁺",
-    "pregunta": "Una membrana permeable solo a K⁺ desarrolla negatividad interna. ¿Por qué el K⁺ deja de salir netamente antes de igualar las concentraciones?",
+    "pregunta": "En una preparación donde la membrana es selectivamente permeable a K⁺, una membrana permeable solo a K⁺ desarrolla negatividad interna. ¿Por qué el K⁺ deja de salir netamente antes de igualar las concentraciones?",
     "correcta_texto": "Porque el gradiente eléctrico creciente se opone al gradiente químico",
     "alternativas": [
       "Porque el Na⁺ extracelular entra por esos mismos canales",
@@ -801,7 +801,7 @@
     "id": 143,
     "nivel": 3,
     "tema": "Repolarización",
-    "pregunta": "¿Qué cambio en corrientes explica mejor el paso desde el pico hacia la repolarización?",
+    "pregunta": "En un trazado electrofisiológico, ¿Qué cambio en corrientes explica mejor el paso desde el pico hacia la repolarización?",
     "correcta_texto": "Disminución de corriente entrante de Na⁺ y aumento de corriente saliente de K⁺",
     "alternativas": [
       "Aumento de Na⁺ entrante y disminución de K⁺ saliente",
@@ -820,7 +820,7 @@
     "id": 144,
     "nivel": 3,
     "tema": "Refractariedad absoluta",
-    "pregunta": "¿Por qué la recuperación de canales de Na⁺ es necesaria para terminar el periodo refractario absoluto?",
+    "pregunta": "Durante una prueba de doble estímulo, un segundo estímulo aplicado muy pronto no genera respuesta. ¿Por qué la recuperación de los canales de Na⁺ es necesaria para que vuelva la excitabilidad?",
     "correcta_texto": "Porque un canal recuperado puede volver a activarse ante una nueva despolarización",
     "alternativas": [
       "Porque un canal inactivado conduce más Na⁺",
@@ -839,7 +839,7 @@
     "id": 145,
     "nivel": 3,
     "tema": "Periodo relativo",
-    "pregunta": "¿Qué combinación explica que durante el periodo refractario relativo se necesite un estímulo mayor?",
+    "pregunta": "En una evaluación de recuperación de excitabilidad, ¿Qué combinación explica que durante el periodo refractario relativo se necesite un estímulo mayor?",
     "correcta_texto": "Recuperación incompleta de canales de Na⁺ y membrana todavía hiperpolarizada",
     "alternativas": [
       "Recuperación incompleta de canales de Na⁺ y membrana todavía hiperpolarizada",
@@ -858,7 +858,7 @@
     "id": 146,
     "nivel": 3,
     "tema": "Propagación",
-    "pregunta": "¿Cómo se relacionan corriente local y umbral durante la propagación axonal?",
+    "pregunta": "Durante una prueba de conducción axonal, ¿Cómo se relacionan corriente local y umbral durante la propagación axonal?",
     "correcta_texto": "La corriente local despolariza la región vecina hasta que esta genera su propio potencial",
     "alternativas": [
       "Los gradientes iónicos migran a lo largo de la membrana",
@@ -877,7 +877,7 @@
     "id": 147,
     "nivel": 3,
     "tema": "Direccionalidad",
-    "pregunta": "Las corrientes locales pueden extenderse hacia ambos lados desde una zona activa. ¿Por qué la propagación neta sigue siendo unidireccional?",
+    "pregunta": "Al analizar la propagación de un impulso nervioso, las corrientes locales pueden extenderse hacia ambos lados desde una zona activa. ¿Por qué la propagación neta sigue siendo unidireccional?",
     "correcta_texto": "La región posterior permanece temporalmente refractaria",
     "alternativas": [
       "La región posterior permanece temporalmente refractaria",
@@ -896,7 +896,7 @@
     "id": 148,
     "nivel": 3,
     "tema": "Bomba y canales",
-    "pregunta": "¿Qué relación entre canales iónicos y bomba Na⁺/K⁺ es fisiológicamente correcta?",
+    "pregunta": "Durante estimulación repetitiva de una célula excitable, ¿Qué relación entre canales iónicos y bomba Na⁺/K⁺ es fisiológicamente correcta?",
     "correcta_texto": "Los canales producen cambios rápidos de voltaje y la bomba mantiene gradientes a largo plazo",
     "alternativas": [
       "Ambos realizan transporte activo con ATP",
@@ -915,7 +915,7 @@
     "id": 149,
     "nivel": 3,
     "tema": "Codificación",
-    "pregunta": "Si la amplitud de los potenciales individuales es prácticamente constante, ¿cómo puede una neurona representar un estímulo más intenso?",
+    "pregunta": "En un registro de respuesta a estímulos de intensidad creciente, si la amplitud de los potenciales individuales es prácticamente constante, ¿cómo puede una neurona representar un estímulo más intenso?",
     "correcta_texto": "Aumentando la frecuencia de potenciales de acción",
     "alternativas": [
       "Aumentando indefinidamente la amplitud de cada potencial",
@@ -934,7 +934,7 @@
     "id": 150,
     "nivel": 3,
     "tema": "Distancia al umbral",
-    "pregunta": "Dos neuronas comparten un umbral de −55 mV; una está en −68 mV y otra en −82 mV. ¿Cuál necesita una mayor despolarización?",
+    "pregunta": "Al comparar dos fibras nerviosas con el mismo umbral, dos neuronas comparten un umbral de −55 mV; una está en −68 mV y otra en −82 mV. ¿Cuál necesita una mayor despolarización?",
     "correcta_texto": "La neurona a −82 mV",
     "alternativas": [
       "La neurona a −68 mV",
@@ -953,7 +953,7 @@
     "id": 151,
     "nivel": 3,
     "tema": "Na⁺ y fuerza impulsora",
-    "pregunta": "¿Por qué una reducción del gradiente electroquímico de Na⁺ puede disminuir la velocidad de despolarización aun si los canales se abren?",
+    "pregunta": "Durante un registro de la fase ascendente, ¿Por qué una reducción del gradiente electroquímico de Na⁺ puede disminuir la velocidad de despolarización aun si los canales se abren?",
     "correcta_texto": "Porque disminuye la fuerza impulsora para la corriente de Na⁺",
     "alternativas": [
       "Porque los canales pierden su selectividad",
@@ -972,7 +972,7 @@
     "id": 152,
     "nivel": 3,
     "tema": "K⁺ y poshiperpolarización",
-    "pregunta": "¿Por qué una conductancia al K⁺ más prolongada aumenta la poshiperpolarización?",
+    "pregunta": "Al analizar la poshiperpolarización de una fibra nerviosa, ¿Por qué una conductancia al K⁺ más prolongada aumenta la poshiperpolarización?",
     "correcta_texto": "Porque mantiene una salida de carga positiva durante más tiempo",
     "alternativas": [
       "Porque transforma el K⁺ en un anión",
@@ -991,7 +991,7 @@
     "id": 153,
     "nivel": 3,
     "tema": "Sinapsis química",
-    "pregunta": "¿Por qué se habla de conversión eléctrica-química-eléctrica en una sinapsis química?",
+    "pregunta": "Durante una evaluación electrofisiológica, ¿Por qué se habla de conversión eléctrica-química-eléctrica en una sinapsis química?",
     "correcta_texto": "El potencial presináptico libera neurotransmisor y este modifica conductancias postsinápticas",
     "alternativas": [
       "El potencial se convierte materialmente en una molécula",
@@ -1010,7 +1010,7 @@
     "id": 154,
     "nivel": 3,
     "tema": "Subumbral",
-    "pregunta": "¿Por qué una despolarización hasta −58 mV no genera un potencial completo si el umbral está alrededor de −55 mV?",
+    "pregunta": "Durante una prueba de estimulación, ¿Por qué una despolarización hasta −58 mV no genera un potencial completo si el umbral está alrededor de −55 mV?",
     "correcta_texto": "Porque no activa suficiente retroalimentación regenerativa de Na⁺",
     "alternativas": [
       "Porque no activa suficiente retroalimentación regenerativa de Na⁺",
@@ -1029,7 +1029,7 @@
     "id": 155,
     "nivel": 3,
     "tema": "Potencial transitorio",
-    "pregunta": "¿Qué secuencia explica que el potencial de acción sea rápido y transitorio?",
+    "pregunta": "En un registro de potencial de acción, ¿Qué secuencia explica que el potencial de acción sea rápido y transitorio?",
     "correcta_texto": "Activación rápida de Na⁺ seguida por inactivación de Na⁺ y activación de K⁺",
     "alternativas": [
       "Activación rápida de Na⁺ seguida por inactivación de Na⁺ y activación de K⁺",
@@ -1048,7 +1048,7 @@
     "id": 156,
     "nivel": 3,
     "tema": "Frecuencia máxima",
-    "pregunta": "¿Cómo limita el periodo refractario absoluto la frecuencia máxima de disparo?",
+    "pregunta": "En una prueba de estimulación repetitiva, ¿Cómo limita el periodo refractario absoluto la frecuencia máxima de disparo?",
     "correcta_texto": "Impone un intervalo mínimo durante el cual no puede iniciarse otro potencial",
     "alternativas": [
       "Aumenta la amplitud del siguiente potencial",
@@ -1067,7 +1067,7 @@
     "id": 157,
     "nivel": 3,
     "tema": "Na⁺ inactivado y K⁺ reducido",
-    "pregunta": "Si los canales de Na⁺ se inactivan normalmente pero la conductancia al K⁺ es baja, ¿qué patrón se espera?",
+    "pregunta": "En una fibra con cinética normal de Na⁺ pero menor corriente de K⁺, si los canales de Na⁺ se inactivan normalmente pero la conductancia al K⁺ es baja, ¿qué patrón se espera?",
     "correcta_texto": "Fase ascendente relativamente conservada y repolarización lenta",
     "alternativas": [
       "Ausencia total de despolarización",
@@ -1086,7 +1086,7 @@
     "id": 158,
     "nivel": 3,
     "tema": "Bomba breve",
-    "pregunta": "¿Por qué una inhibición muy breve de la bomba Na⁺/K⁺ no necesariamente impide un potencial de acción aislado?",
+    "pregunta": "Durante una inhibición breve del transporte activo, ¿Por qué una inhibición muy breve de la bomba Na⁺/K⁺ no necesariamente impide un potencial de acción aislado?",
     "correcta_texto": "Porque los gradientes iónicos preexistentes no desaparecen de inmediato",
     "alternativas": [
       "Porque los gradientes iónicos preexistentes no desaparecen de inmediato",
@@ -1105,7 +1105,7 @@
     "id": 159,
     "nivel": 3,
     "tema": "Conducción fallida",
-    "pregunta": "¿Qué condición puede detener la propagación aun si un segmento axonal genera un potencial normal?",
+    "pregunta": "En una prueba de conducción nerviosa, ¿Qué condición puede detener la propagación aun si un segmento axonal genera un potencial normal?",
     "correcta_texto": "Que la corriente local no lleve al segmento vecino hasta su umbral",
     "alternativas": [
       "Que no se libere neurotransmisor entre segmentos",
@@ -1124,7 +1124,7 @@
     "id": 160,
     "nivel": 3,
     "tema": "Estado de canales",
-    "pregunta": "¿Qué diferencia funcional existe entre un canal de Na⁺ cerrado y disponible y uno inactivado?",
+    "pregunta": "Durante el análisis de recuperación de canales de Na⁺, ¿Qué diferencia funcional existe entre un canal de Na⁺ cerrado y disponible y uno inactivado?",
     "correcta_texto": "El cerrado disponible puede abrirse ante despolarización; el inactivado no puede hacerlo de inmediato",
     "alternativas": [
       "Ambos conducen Na⁺ de forma continua",
@@ -1143,7 +1143,7 @@
     "id": 161,
     "nivel": 4,
     "tema": "Bloqueo de Na⁺",
-    "pregunta": "Un anestésico local bloquea canales de Na⁺ dependientes de voltaje en un axón. ¿Qué consecuencia funcional es más probable?",
+    "pregunta": "En una prueba de conducción nerviosa se bloquean canales de Na⁺ dependientes de voltaje en un segmento axonal. ¿Qué alteración funcional se espera en la señal registrada distalmente?",
     "correcta_texto": "Disminución de la generación y propagación de potenciales de acción",
     "alternativas": [
       "Disminución de la generación y propagación de potenciales de acción",
@@ -1162,7 +1162,7 @@
     "id": 162,
     "nivel": 4,
     "tema": "K⁺ prolongado",
-    "pregunta": "Un fármaco prolonga la apertura de canales de K⁺ después de cada potencial. ¿Qué combinación es más probable?",
+    "pregunta": "En una fibra nerviosa, un fármaco prolonga la apertura de canales de K⁺ después de cada potencial. ¿Qué combinación es más probable?",
     "correcta_texto": "Hiperpolarización prolongada y menor excitabilidad transitoria",
     "alternativas": [
       "Desaparición del periodo refractario absoluto",
@@ -1181,7 +1181,7 @@
     "id": 163,
     "nivel": 4,
     "tema": "Excitabilidad comparada",
-    "pregunta": "Dos neuronas tienen el mismo umbral; una está en −64 mV y otra en −79 mV. Ante el mismo estímulo excitador, ¿cuál tiene mayor probabilidad de disparar?",
+    "pregunta": "Durante una evaluación de dos fibras nerviosas, dos neuronas tienen el mismo umbral; una está en −64 mV y otra en −79 mV. Ante el mismo estímulo excitador, ¿cuál tiene mayor probabilidad de disparar?",
     "correcta_texto": "La neurona a −64 mV",
     "alternativas": [
       "Ambas necesariamente igual",
@@ -1200,7 +1200,7 @@
     "id": 164,
     "nivel": 4,
     "tema": "Refractario absoluto",
-    "pregunta": "Una neurona responde al primer estímulo pero no a otro estímulo intenso 1 ms después. Más tarde vuelve a responder. ¿Qué explica mejor el fallo transitorio?",
+    "pregunta": "Durante una evaluación de doble estímulo, una fibra responde al primero, no responde a un segundo estímulo intenso aplicado 1 ms después y recupera la respuesta unos milisegundos más tarde. ¿Qué mecanismo explica mejor este patrón?",
     "correcta_texto": "Inactivación temporal de una fracción importante de canales de Na⁺",
     "alternativas": [
       "Inactivación temporal de una fracción importante de canales de Na⁺",
@@ -1219,7 +1219,7 @@
     "id": 165,
     "nivel": 4,
     "tema": "Refractario relativo",
-    "pregunta": "Un segundo estímulo solo desencadena un potencial si su intensidad es mayor que la del primero. ¿Qué combinación es más coherente?",
+    "pregunta": "En una prueba con dos estímulos sucesivos, un segundo estímulo solo desencadena un potencial si su intensidad es mayor que la del primero. ¿Qué combinación es más coherente?",
     "correcta_texto": "Recuperación parcial de Na⁺ y persistencia de hiperpolarización",
     "alternativas": [
       "El umbral dejó de existir",
@@ -1238,7 +1238,7 @@
     "id": 166,
     "nivel": 4,
     "tema": "Inhibición de bomba",
-    "pregunta": "Una neurona mantiene actividad durante un corto tiempo tras inhibir la bomba Na⁺/K⁺, pero luego pierde excitabilidad. ¿Cuál es la explicación más coherente?",
+    "pregunta": "En una preparación neuronal estimulada durante varios minutos, una neurona mantiene actividad durante un corto tiempo tras inhibir la bomba Na⁺/K⁺, pero luego pierde excitabilidad. ¿Cuál es la explicación más coherente?",
     "correcta_texto": "Los gradientes preexistentes sostienen actividad inicial y se deterioran progresivamente",
     "alternativas": [
       "Na⁺ y K⁺ dejan de cruzar la membrana al detenerse la bomba",
@@ -1257,7 +1257,7 @@
     "id": 167,
     "nivel": 4,
     "tema": "Umbral elevado",
-    "pregunta": "Un segmento axonal tiene un umbral anormalmente alto. El segmento previo genera un potencial normal. ¿Qué puede ocurrir?",
+    "pregunta": "Durante una prueba de conducción, un segmento axonal tiene un umbral anormalmente alto. El segmento previo genera un potencial normal. ¿Qué puede ocurrir?",
     "correcta_texto": "La corriente local puede ser insuficiente para activar el segmento siguiente",
     "alternativas": [
       "La corriente local puede ser insuficiente para activar el segmento siguiente",
@@ -1276,7 +1276,7 @@
     "id": 168,
     "nivel": 4,
     "tema": "Sinapsis postsináptica",
-    "pregunta": "La neurona presináptica genera y conduce normalmente, pero el neurotransmisor no puede activar receptores postsinápticos. ¿Qué falla?",
+    "pregunta": "En una preparación neuronal, la neurona presináptica genera y conduce normalmente, pero el neurotransmisor no puede activar receptores postsinápticos. ¿Qué falla?",
     "correcta_texto": "La conversión de la señal química en una respuesta eléctrica postsináptica",
     "alternativas": [
       "La generación del potencial presináptico",
@@ -1295,7 +1295,7 @@
     "id": 169,
     "nivel": 4,
     "tema": "Na⁺ sin inactivación",
-    "pregunta": "Una toxina impide la inactivación normal de canales de Na⁺. ¿Qué patrón es más probable?",
+    "pregunta": "En una fibra nerviosa con alteración de la compuerta de inactivación de Na⁺, una toxina impide la inactivación normal de canales de Na⁺. ¿Qué patrón es más probable?",
     "correcta_texto": "Despolarización prolongada y repolarización retardada",
     "alternativas": [
       "Despolarización prolongada y repolarización retardada",
@@ -1314,7 +1314,7 @@
     "id": 170,
     "nivel": 4,
     "tema": "K⁺ reducido",
-    "pregunta": "Una mutación disminuye notablemente la conductancia al K⁺ durante el potencial. ¿Qué patrón se espera?",
+    "pregunta": "En un registro de una fibra con menor conductancia al K⁺, la fase ascendente conserva una forma cercana a lo normal. ¿Qué cambio posterior sería más coherente con esa alteración?",
     "correcta_texto": "Repolarización lenta y poshiperpolarización reducida",
     "alternativas": [
       "Retorno al reposo más rápido",
@@ -1333,7 +1333,7 @@
     "id": 171,
     "nivel": 4,
     "tema": "Periodo absoluto prolongado",
-    "pregunta": "Una neurona presenta un periodo refractario absoluto más largo que lo normal. ¿Qué consecuencia funcional es esperable?",
+    "pregunta": "En una evaluación de frecuencia de descarga neuronal, una neurona presenta un periodo refractario absoluto más largo que lo normal. ¿Qué consecuencia funcional es esperable?",
     "correcta_texto": "Menor frecuencia máxima de disparo",
     "alternativas": [
       "Mayor velocidad de conducción necesariamente",
@@ -1352,7 +1352,7 @@
     "id": 172,
     "nivel": 4,
     "tema": "Na⁺ en reposo",
-    "pregunta": "Una intervención aumenta selectivamente la permeabilidad al Na⁺ en reposo. ¿Qué cambio aparece antes de alcanzar el umbral?",
+    "pregunta": "Durante una prueba de excitabilidad de membrana, una intervención aumenta selectivamente la permeabilidad al Na⁺ en reposo. ¿Qué cambio aparece antes de alcanzar el umbral?",
     "correcta_texto": "Despolarización progresiva",
     "alternativas": [
       "Hiperpolarización progresiva",
@@ -1371,7 +1371,7 @@
     "id": 173,
     "nivel": 4,
     "tema": "Gradiente de K⁺",
-    "pregunta": "Si disminuye la diferencia de concentración de K⁺ entre interior y exterior, ¿qué ocurre con la fuerza química que impulsa su salida?",
+    "pregunta": "En una preparación donde disminuye la diferencia de concentración de K⁺, si disminuye la diferencia de concentración de K⁺ entre interior y exterior, ¿qué ocurre con la fuerza química que impulsa su salida?",
     "correcta_texto": "Disminuye",
     "alternativas": [
       "Se invierte obligatoriamente",
@@ -1390,7 +1390,7 @@
     "id": 174,
     "nivel": 4,
     "tema": "Todo o nada",
-    "pregunta": "Una neurona recibe un estímulo apenas suprumbral y luego uno mucho más intenso. Ambos producen potenciales completos. ¿Qué hallazgo es coherente?",
+    "pregunta": "Durante una prueba de estimulación nerviosa, una neurona recibe un estímulo apenas suprumbral y luego uno mucho más intenso. Ambos producen potenciales completos. ¿Qué hallazgo es coherente?",
     "correcta_texto": "Amplitudes individuales similares",
     "alternativas": [
       "El estímulo menor genera medio potencial",
@@ -1409,7 +1409,7 @@
     "id": 175,
     "nivel": 4,
     "tema": "Fallo de corriente local",
-    "pregunta": "Un segmento axonal genera un potencial normal, pero la corriente local hacia el siguiente segmento es insuficiente. ¿Qué resultado se espera?",
+    "pregunta": "Durante una prueba de conducción axonal, un segmento axonal genera un potencial normal, pero la corriente local hacia el siguiente segmento es insuficiente. ¿Qué resultado se espera?",
     "correcta_texto": "El siguiente segmento no alcanza el umbral y la propagación se interrumpe",
     "alternativas": [
       "El segmento previo aumenta automáticamente su amplitud",
@@ -1428,7 +1428,7 @@
     "id": 176,
     "nivel": 4,
     "tema": "Canal sin inactivación",
-    "pregunta": "Un canal de Na⁺ puede activarse, pero no puede pasar al estado inactivado. ¿Qué propiedad se altera además de la repolarización?",
+    "pregunta": "En una fibra con canales de Na⁺ que no logran inactivarse, un canal de Na⁺ puede activarse, pero no puede pasar al estado inactivado. ¿Qué propiedad se altera además de la repolarización?",
     "correcta_texto": "La refractariedad normal",
     "alternativas": [
       "La refractariedad normal",
@@ -1447,7 +1447,7 @@
     "id": 177,
     "nivel": 4,
     "tema": "Secuencia integrada",
-    "pregunta": "¿Qué secuencia representa mejor un potencial de acción neuronal completo?",
+    "pregunta": "Al interpretar un trazado de potencial de acción neuronal, ¿Qué secuencia representa mejor un potencial de acción neuronal completo?",
     "correcta_texto": "Umbral → aumento de Na⁺ → pico → inactivación de Na⁺ y aumento de K⁺ → hiperpolarización → recuperación",
     "alternativas": [
       "Umbral → aumento de Na⁺ → pico → inactivación de Na⁺ y aumento de K⁺ → hiperpolarización → recuperación",
@@ -1466,7 +1466,7 @@
     "id": 178,
     "nivel": 4,
     "tema": "Localización del defecto",
-    "pregunta": "Una neurona conduce normalmente el potencial hasta el terminal, pero la neurona siguiente no cambia su potencial. ¿Dónde es más probable la alteración?",
+    "pregunta": "En un estudio de transmisión neuronal, una neurona conduce normalmente el potencial hasta el terminal, pero la neurona siguiente no cambia su potencial. ¿Dónde es más probable la alteración?",
     "correcta_texto": "En la transmisión sináptica o en la respuesta postsináptica",
     "alternativas": [
       "En la propagación axonal presináptica",
@@ -1485,7 +1485,7 @@
     "id": 179,
     "nivel": 4,
     "tema": "Despolarización basal",
-    "pregunta": "Una neurona se mantiene más despolarizada de lo habitual y cercana al umbral. ¿Qué cambio inicial de excitabilidad se espera?",
+    "pregunta": "En una neurona cuyo potencial basal está más próximo al umbral, una neurona se mantiene más despolarizada de lo habitual y cercana al umbral. ¿Qué cambio inicial de excitabilidad se espera?",
     "correcta_texto": "Puede disparar con estímulos menores",
     "alternativas": [
       "No puede disparar hasta volver exactamente a −70 mV",
@@ -1504,7 +1504,7 @@
     "id": 180,
     "nivel": 4,
     "tema": "Caso integrador",
-    "pregunta": "Un axón presenta despolarización inicial normal, repolarización lenta y poshiperpolarización escasa. ¿Qué alteración explica mejor el patrón?",
+    "pregunta": "En un registro electrofisiológico se observa una fase ascendente prácticamente normal, seguida de repolarización lenta y poshiperpolarización escasa. ¿Qué alteración de conductancia explica mejor el conjunto?",
     "correcta_texto": "Disminución de la conductancia al K⁺",
     "alternativas": [
       "Aumento aislado de Na⁺ solo durante reposo",
