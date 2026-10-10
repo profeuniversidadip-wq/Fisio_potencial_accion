@@ -1,1522 +1,1522 @@
 [
   {
-    "id": 1,
-    "nivel": 1,
-    "tema": "Conceptos básicos",
-    "pregunta": "¿Qué es un canal iónico?",
-    "correcta_texto": "Una proteína de membrana que permite el flujo pasivo de iones según su gradiente electroquímico",
-    "alternativas": [
-      "Una proteína de membrana que permite el flujo pasivo de iones según su gradiente electroquímico",
-      "Una enzima que sintetiza iones",
-      "Una bomba que siempre utiliza ATP",
-      "Un receptor que solo transporta neurotransmisores"
-    ],
-    "feedbackIncorrecto": {
-      "Una enzima que sintetiza iones": "No es correcta porque los iones no son sintetizados por enzimas; son partículas con carga que ya están presentes en los medios intra y extracelular.",
-      "Una bomba que siempre utiliza ATP": "No es correcta porque una bomba realiza transporte activo y utiliza energía; eso corresponde a un mecanismo distinto al de un canal iónico.",
-      "Un receptor que solo transporta neurotransmisores": "No es correcta porque un receptor reconoce señales químicas; no se define por transportar neurotransmisores a través de la membrana."
-    },
-    "ideaClave": "Los canales iónicos permiten el movimiento pasivo de iones a través de la membrana."
-  },
-  {
-    "id": 2,
+    "id": 101,
     "nivel": 1,
     "tema": "Potencial de membrana",
-    "pregunta": "¿Qué define mejor el potencial de membrana?",
-    "correcta_texto": "La diferencia de carga eléctrica entre el interior y el exterior de la célula",
+    "pregunta": "¿Qué condición permite que una célula mantenga una diferencia de potencial entre ambos lados de su membrana?",
+    "correcta_texto": "Distribución desigual de iones y permeabilidad selectiva de la membrana",
     "alternativas": [
-      "La diferencia de carga eléctrica entre el interior y el exterior de la célula",
-      "La cantidad total de ATP almacenada en la célula",
-      "La concentración de sodio dentro del núcleo",
-      "La velocidad de conducción del impulso nervioso"
+      "Apertura simultánea de todos los canales iónicos",
+      "Igual concentración de todos los iones a ambos lados",
+      "Ausencia completa de movimiento iónico",
+      "Distribución desigual de iones y permeabilidad selectiva de la membrana"
     ],
     "feedbackIncorrecto": {
-      "La cantidad total de ATP almacenada en la célula": "No es correcta porque la cantidad de ATP no define una diferencia de voltaje entre ambos lados de la membrana.",
-      "La concentración de sodio dentro del núcleo": "No es correcta porque el fenómeno consultado depende de la separación de cargas a través de la membrana plasmática, no del contenido iónico del núcleo.",
-      "La velocidad de conducción del impulso nervioso": "No es correcta porque la velocidad de conducción describe qué tan rápido se propaga una señal, no una diferencia eléctrica entre ambos lados de la membrana."
+      "Igual concentración de todos los iones a ambos lados": "Si las concentraciones fueran iguales, desaparecería gran parte de la fuerza química que contribuye al voltaje transmembrana.",
+      "Apertura simultánea de todos los canales iónicos": "Abrir indiscriminadamente todos los canales tendería a disipar los gradientes en vez de mantener una diferencia estable.",
+      "Ausencia completa de movimiento iónico": "El reposo no implica inmovilidad iónica; existen flujos basales a través de canales selectivos."
     },
-    "ideaClave": "El potencial de membrana corresponde a una diferencia de voltaje a través de la membrana."
+    "ideaClave": "El potencial de membrana depende de gradientes iónicos y permeabilidad selectiva."
   },
   {
-    "id": 3,
+    "id": 102,
     "nivel": 1,
     "tema": "Distribución iónica",
-    "pregunta": "¿Qué ion se encuentra en mayor concentración en el líquido extracelular?",
-    "correcta_texto": "Na⁺",
+    "pregunta": "En una neurona en reposo, ¿qué patrón de distribución iónica es el más característico?",
+    "correcta_texto": "Na⁺ predominante en el medio extracelular y K⁺ predominante en el intracelular",
     "alternativas": [
-      "Na⁺",
-      "K⁺",
-      "Proteínas⁻",
-      "Aminoácidos con carga negativa"
+      "Na⁺ y K⁺ predominantes ambos en el medio extracelular",
+      "K⁺ predominante fuera y Na⁺ predominante dentro",
+      "Na⁺ predominante en el medio extracelular y K⁺ predominante en el intracelular",
+      "Na⁺ y K⁺ en concentraciones prácticamente idénticas"
     ],
     "feedbackIncorrecto": {
-      "K⁺": "No es correcta en este contexto porque este ion se encuentra en mayor proporción en el compartimento intracelular.",
-      "Proteínas⁻": "No es correcta porque «Proteínas⁻» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Aminoácidos con carga negativa": "No es correcta porque «Aminoácidos con carga negativa» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
+      "Na⁺ y K⁺ en concentraciones prácticamente idénticas": "La excitabilidad requiere gradientes; concentraciones equivalentes reducirían las fuerzas impulsoras.",
+      "K⁺ predominante fuera y Na⁺ predominante dentro": "Esta opción invierte la distribución habitual de los principales cationes.",
+      "Na⁺ y K⁺ predominantes ambos en el medio extracelular": "El K⁺ es predominantemente intracelular, no extracelular."
     },
-    "ideaClave": "El Na⁺ predomina en el medio extracelular."
+    "ideaClave": "Na⁺ y K⁺ presentan distribuciones asimétricas a ambos lados de la membrana."
   },
   {
-    "id": 4,
-    "nivel": 1,
-    "tema": "Distribución iónica",
-    "pregunta": "¿Qué ion se encuentra en mayor concentración en el líquido intracelular?",
-    "correcta_texto": "K⁺",
-    "alternativas": [
-      "K⁺",
-      "Na⁺",
-      "Cl⁻",
-      "Ca²⁺ extracelular"
-    ],
-    "feedbackIncorrecto": {
-      "Na⁺": "No es correcta en este contexto porque este ion se encuentra en mayor proporción en el compartimento extracelular.",
-      "Cl⁻": "No es correcta porque «Cl⁻» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Ca²⁺ extracelular": "No es correcta porque «Ca²⁺ extracelular» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "El K⁺ predomina en el medio intracelular."
-  },
-  {
-    "id": 5,
+    "id": 103,
     "nivel": 1,
     "tema": "Potencial de reposo",
-    "pregunta": "¿De qué ion depende principalmente el potencial de reposo de una neurona?",
-    "correcta_texto": "K⁺",
+    "pregunta": "¿Qué propiedad contribuye de forma importante a que el interior neuronal sea negativo en reposo?",
+    "correcta_texto": "La elevada permeabilidad basal al K⁺",
     "alternativas": [
-      "K⁺",
-      "Na⁺",
-      "Ca²⁺",
-      "Cl⁻ exclusivamente"
+      "La impermeabilidad total al K⁺",
+      "La elevada permeabilidad basal al K⁺",
+      "Una elevada permeabilidad basal al Na⁺",
+      "La apertura máxima de canales de Ca²⁺"
     ],
     "feedbackIncorrecto": {
-      "Na⁺": "No es correcta en este contexto porque este ion se encuentra en mayor proporción en el compartimento extracelular.",
-      "Ca²⁺": "No es correcta porque «Ca²⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Cl⁻ exclusivamente": "No es correcta porque «Cl⁻ exclusivamente» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
+      "Una elevada permeabilidad basal al Na⁺": "Una permeabilidad alta al Na⁺ favorecería entrada de carga positiva y despolarización.",
+      "La apertura máxima de canales de Ca²⁺": "Una entrada intensa de Ca²⁺ también desplazaría el voltaje hacia valores más positivos.",
+      "La impermeabilidad total al K⁺": "Si el K⁺ no pudiera atravesar la membrana, se perdería un mecanismo central de la negatividad en reposo."
     },
-    "ideaClave": "La alta permeabilidad al K⁺ es central para el potencial de reposo."
+    "ideaClave": "La permeabilidad al K⁺ tiene un papel dominante en el potencial de reposo."
   },
   {
-    "id": 6,
+    "id": 104,
     "nivel": 1,
-    "tema": "Células excitables",
-    "pregunta": "¿Qué tipo de células se describen como excitables?",
-    "correcta_texto": "Neuronas y células musculares",
+    "tema": "Gradiente electroquímico",
+    "pregunta": "¿Qué componentes determinan el gradiente electroquímico de un ion?",
+    "correcta_texto": "La diferencia de concentración y la diferencia de voltaje",
     "alternativas": [
-      "Neuronas y células musculares",
-      "Eritrocitos y adipocitos",
-      "Plaquetas y osteocitos",
-      "Hepatocitos y queratinocitos exclusivamente"
+      "La diferencia de concentración y la diferencia de voltaje",
+      "Solo la diferencia de voltaje",
+      "La actividad de la bomba Na⁺/K⁺ de manera exclusiva",
+      "Solo la diferencia de concentración"
     ],
     "feedbackIncorrecto": {
-      "Eritrocitos y adipocitos": "No es correcta porque «Eritrocitos y adipocitos» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Plaquetas y osteocitos": "No es correcta porque «Plaquetas y osteocitos» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Hepatocitos y queratinocitos exclusivamente": "No es correcta porque «Hepatocitos y queratinocitos exclusivamente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Solo la diferencia de concentración": "Un ion cargado también responde al campo eléctrico, no solo a su concentración.",
+      "Solo la diferencia de voltaje": "La fuerza química generada por la diferencia de concentración también influye en su movimiento.",
+      "La actividad de la bomba Na⁺/K⁺ de manera exclusiva": "La bomba mantiene gradientes, pero el gradiente electroquímico describe fuerzas químicas y eléctricas sobre el ion."
     },
-    "ideaClave": "Neuronas y células musculares pueden modificar su potencial de membrana en respuesta a estímulos."
+    "ideaClave": "El movimiento iónico resulta de fuerzas químicas y eléctricas combinadas."
   },
   {
-    "id": 7,
-    "nivel": 1,
-    "tema": "Potencial de acción",
-    "pregunta": "¿Qué es un potencial de acción?",
-    "correcta_texto": "Una onda eléctrica rápida y transitoria que se propaga por la membrana de una célula excitable",
-    "alternativas": [
-      "Una onda eléctrica rápida y transitoria que se propaga por la membrana de una célula excitable",
-      "Una diferencia fija de concentración que nunca cambia",
-      "Un fenómeno exclusivo de la membrana nuclear",
-      "Una señal química que no modifica el voltaje"
-    ],
-    "feedbackIncorrecto": {
-      "Una diferencia fija de concentración que nunca cambia": "No es correcta porque «Una diferencia fija de concentración que nunca cambia» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Un fenómeno exclusivo de la membrana nuclear": "No es correcta porque «Un fenómeno exclusivo de la membrana nuclear» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Una señal química que no modifica el voltaje": "No es correcta porque «Una señal química que no modifica el voltaje» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "El potencial de acción es una señal eléctrica transitoria de células excitables."
-  },
-  {
-    "id": 8,
-    "nivel": 1,
-    "tema": "Reposo",
-    "pregunta": "¿Cuál es el valor aproximado del potencial de reposo de una neurona típica?",
-    "correcta_texto": "−70 mV",
-    "alternativas": [
-      "−70 mV",
-      "+40 mV",
-      "−10 mV",
-      "+61 mV"
-    ],
-    "feedbackIncorrecto": {
-      "+40 mV": "No es correcta porque este valor corresponde aproximadamente al máximo de despolarización, no al estado consultado.",
-      "−10 mV": "No es correcta porque «−10 mV» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "+61 mV": "No es correcta porque «+61 mV» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "El estado de reposo se representa aproximadamente en −70 mV."
-  },
-  {
-    "id": 9,
+    "id": 105,
     "nivel": 1,
     "tema": "Umbral",
-    "pregunta": "¿Cuál es el valor aproximado del umbral para iniciar un potencial de acción neuronal?",
-    "correcta_texto": "−55 mV",
+    "pregunta": "¿Qué significa que una membrana excitable alcance el umbral?",
+    "correcta_texto": "Que se inicia una activación regenerativa suficiente para disparar un potencial de acción",
     "alternativas": [
-      "−55 mV",
-      "−90 mV",
-      "0 mV",
-      "+40 mV"
+      "Que alcanzó el voltaje máximo del potencial de acción",
+      "Que todos los canales iónicos se cerraron",
+      "Que entró directamente en hiperpolarización",
+      "Que se inicia una activación regenerativa suficiente para disparar un potencial de acción"
     ],
     "feedbackIncorrecto": {
-      "−90 mV": "No es correcta porque corresponde a un valor más negativo que el potencial de reposo neuronal típico considerado en esta actividad.",
-      "0 mV": "No es correcta porque ese valor representa ausencia de diferencia de potencial y no corresponde al estado fisiológico consultado.",
-      "+40 mV": "No es correcta porque este valor corresponde aproximadamente al máximo de despolarización, no al estado consultado."
+      "Que alcanzó el voltaje máximo del potencial de acción": "El pico ocurre después del umbral, no en el momento de alcanzarlo.",
+      "Que entró directamente en hiperpolarización": "La hiperpolarización es una fase posterior a la repolarización.",
+      "Que todos los canales iónicos se cerraron": "El disparo requiere apertura coordinada de canales dependientes de voltaje, no cierre global."
     },
-    "ideaClave": "Alcanzar el umbral activa la respuesta de todo o nada."
+    "ideaClave": "El umbral marca el punto de inicio de la respuesta regenerativa."
   },
   {
-    "id": 10,
+    "id": 106,
     "nivel": 1,
     "tema": "Todo o nada",
-    "pregunta": "¿Qué expresa la ley del todo o nada?",
-    "correcta_texto": "Si se alcanza el umbral, el potencial de acción se genera por completo",
+    "pregunta": "¿Qué expresa correctamente la ley del todo o nada?",
+    "correcta_texto": "Al superar el umbral, el potencial de acción se genera con amplitud estereotipada",
     "alternativas": [
-      "Si se alcanza el umbral, el potencial de acción se genera por completo",
-      "La amplitud del potencial aumenta proporcionalmente con cada estímulo",
-      "Todo estímulo genera un potencial de acción",
-      "El potencial de acción disminuye progresivamente por el axón"
+      "La amplitud aumenta de forma proporcional a la intensidad del estímulo",
+      "Cada potencial es más pequeño que el anterior",
+      "Al superar el umbral, el potencial de acción se genera con amplitud estereotipada",
+      "Un estímulo subumbral genera medio potencial de acción"
     ],
     "feedbackIncorrecto": {
-      "La amplitud del potencial aumenta proporcionalmente con cada estímulo": "No es correcta porque «La amplitud del potencial aumenta proporcionalmente con cada estímulo» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "Todo estímulo genera un potencial de acción": "No es correcta porque «Todo estímulo genera un potencial de acción» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "El potencial de acción disminuye progresivamente por el axón": "No es correcta porque «El potencial de acción disminuye progresivamente por el axón» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
+      "La amplitud aumenta de forma proporcional a la intensidad del estímulo": "La intensidad suprumbral no se codifica mediante una amplitud proporcional del potencial individual.",
+      "Un estímulo subumbral genera medio potencial de acción": "Un potencial de acción no se genera parcialmente; si no se alcanza el umbral no aparece la respuesta completa.",
+      "Cada potencial es más pequeño que el anterior": "La amplitud se regenera a lo largo de la membrana y no disminuye progresivamente en condiciones normales."
     },
-    "ideaClave": "El umbral determina si se dispara o no el potencial de acción."
+    "ideaClave": "Una vez alcanzado el umbral, el potencial individual no es graduado."
   },
   {
-    "id": 11,
+    "id": 107,
     "nivel": 1,
     "tema": "Despolarización",
-    "pregunta": "¿Qué canal se abre principalmente durante la fase de despolarización?",
-    "correcta_texto": "Canales de Na⁺ dependientes de voltaje",
+    "pregunta": "¿Qué cambio de conductancia domina la fase ascendente rápida de un potencial de acción neuronal?",
+    "correcta_texto": "Aumento transitorio de la conductancia al Na⁺",
     "alternativas": [
-      "Canales de Na⁺ dependientes de voltaje",
-      "Canales de K⁺ de fuga exclusivamente",
-      "Canales de Cl⁻ regulados por ligando",
-      "Bombas de Ca²⁺"
+      "Aumento predominante de la conductancia al K⁺",
+      "Disminución simultánea de todas las conductancias",
+      "Aumento predominante de la conductancia al Cl⁻",
+      "Aumento transitorio de la conductancia al Na⁺"
     ],
     "feedbackIncorrecto": {
-      "Canales de K⁺ de fuga exclusivamente": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Canales de Cl⁻ regulados por ligando": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Bombas de Ca²⁺": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
+      "Aumento predominante de la conductancia al K⁺": "Una mayor conductancia al K⁺ favorece salida de carga positiva y se asocia más con repolarización.",
+      "Aumento predominante de la conductancia al Cl⁻": "Una mayor conductancia al Cl⁻ tiende a oponerse a la despolarización en condiciones habituales.",
+      "Disminución simultánea de todas las conductancias": "La fase ascendente requiere aumento de permeabilidad, no una reducción general de conductancias."
     },
-    "ideaClave": "La entrada rápida de Na⁺ produce la despolarización."
+    "ideaClave": "La entrada rápida de Na⁺ impulsa la fase ascendente."
   },
   {
-    "id": 12,
-    "nivel": 1,
-    "tema": "Despolarización",
-    "pregunta": "¿Qué movimiento iónico predomina durante la despolarización?",
-    "correcta_texto": "Entrada de Na⁺ a la célula",
-    "alternativas": [
-      "Entrada de Na⁺ a la célula",
-      "Salida de Na⁺",
-      "Entrada de K⁺",
-      "Salida masiva de Cl⁻"
-    ],
-    "feedbackIncorrecto": {
-      "Salida de Na⁺": "No es correcta porque «Salida de Na⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
-      "Entrada de K⁺": "No es correcta porque «Entrada de K⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
-      "Salida masiva de Cl⁻": "No es correcta porque «Salida masiva de Cl⁻» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
-    },
-    "ideaClave": "La entrada de Na⁺ vuelve el interior menos negativo y luego positivo."
-  },
-  {
-    "id": 13,
-    "nivel": 1,
-    "tema": "Pico del potencial",
-    "pregunta": "¿Qué voltaje aproximado alcanza el interior celular en el pico del potencial de acción?",
-    "correcta_texto": "+40 mV",
-    "alternativas": [
-      "+40 mV",
-      "−70 mV",
-      "−90 mV",
-      "−55 mV"
-    ],
-    "feedbackIncorrecto": {
-      "−70 mV": "No es correcta en este contexto porque corresponde aproximadamente al potencial de reposo, no a la fase o valor consultado.",
-      "−90 mV": "No es correcta porque corresponde a un valor más negativo que el potencial de reposo neuronal típico considerado en esta actividad.",
-      "−55 mV": "No es correcta en este contexto porque corresponde aproximadamente al umbral de disparo, no a la fase o valor consultado."
-    },
-    "ideaClave": "Durante el pico ocurre una inversión transitoria de la polaridad."
-  },
-  {
-    "id": 14,
+    "id": 108,
     "nivel": 1,
     "tema": "Repolarización",
-    "pregunta": "¿Qué movimiento iónico predomina durante la repolarización?",
-    "correcta_texto": "Salida de K⁺ de la célula",
+    "pregunta": "¿Qué combinación de eventos favorece el inicio de la repolarización?",
+    "correcta_texto": "Inactivación de Na⁺ y aumento de la conductancia al K⁺",
     "alternativas": [
-      "Salida de K⁺ de la célula",
-      "Entrada de K⁺",
-      "Entrada sostenida de Na⁺",
-      "Salida de Ca²⁺ como mecanismo principal"
+      "Cierre de todos los canales sin corriente neta",
+      "Inactivación de Na⁺ y aumento de la conductancia al K⁺",
+      "Aumento simultáneo de entrada de Na⁺ y Ca²⁺",
+      "Apertura sostenida de Na⁺ y cierre de K⁺"
     ],
     "feedbackIncorrecto": {
-      "Entrada de K⁺": "No es correcta porque «Entrada de K⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
-      "Entrada sostenida de Na⁺": "No es correcta porque «Entrada sostenida de Na⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
-      "Salida de Ca²⁺ como mecanismo principal": "No es correcta porque «Salida de Ca²⁺ como mecanismo principal» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
+      "Apertura sostenida de Na⁺ y cierre de K⁺": "Mantener una corriente entrante de Na⁺ prolongaría la despolarización.",
+      "Aumento simultáneo de entrada de Na⁺ y Ca²⁺": "Aumentar corrientes positivas entrantes se opone al retorno hacia valores negativos.",
+      "Cierre de todos los canales sin corriente neta": "La repolarización requiere una corriente neta que haga el interior más negativo, no ausencia total de flujo."
     },
-    "ideaClave": "La salida de K⁺ devuelve el interior hacia valores negativos."
+    "ideaClave": "La repolarización combina menor entrada de Na⁺ con mayor salida de K⁺."
   },
   {
-    "id": 15,
+    "id": 109,
     "nivel": 1,
-    "tema": "Repolarización",
-    "pregunta": "¿Qué ocurre con los canales de Na⁺ durante la repolarización?",
-    "correcta_texto": "Se inactivan rápidamente",
+    "tema": "Hiperpolarización",
+    "pregunta": "¿Cuál es la explicación más probable de la poshiperpolarización?",
+    "correcta_texto": "La conductancia al K⁺ permanece aumentada durante un breve periodo adicional",
     "alternativas": [
-      "Se inactivan rápidamente",
-      "Permanecen totalmente abiertos",
-      "Se transforman en canales de K⁺",
-      "Bombean Na⁺ hacia afuera usando ATP"
+      "La conductancia al K⁺ permanece aumentada durante un breve periodo adicional",
+      "Los canales de Na⁺ permanecen completamente abiertos",
+      "La bomba Na⁺/K⁺ produce de forma instantánea todo el cambio de voltaje",
+      "La concentración intracelular de K⁺ cae a cero"
     ],
     "feedbackIncorrecto": {
-      "Permanecen totalmente abiertos": "No es correcta porque «Permanecen totalmente abiertos» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Se transforman en canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Bombean Na⁺ hacia afuera usando ATP": "No es correcta porque «Bombean Na⁺ hacia afuera usando ATP» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Los canales de Na⁺ permanecen completamente abiertos": "Una corriente persistente de Na⁺ mantendría el interior más positivo.",
+      "La concentración intracelular de K⁺ cae a cero": "Un solo potencial no vacía el K⁺ intracelular.",
+      "La bomba Na⁺/K⁺ produce de forma instantánea todo el cambio de voltaje": "La bomba contribuye a mantener gradientes, pero no explica por sí sola un cambio rápido de milisegundos."
+    },
+    "ideaClave": "La salida prolongada de K⁺ puede llevar el voltaje por debajo del reposo."
+  },
+  {
+    "id": 110,
+    "nivel": 1,
+    "tema": "Refractariedad absoluta",
+    "pregunta": "¿Qué estado de los canales de Na⁺ explica principalmente el periodo refractario absoluto?",
+    "correcta_texto": "Una proporción importante permanece inactivada",
+    "alternativas": [
+      "Todos están abiertos de forma estable",
+      "Todos se convierten transitoriamente en canales de K⁺",
+      "Una proporción importante permanece inactivada",
+      "Todos están cerrados pero disponibles"
+    ],
+    "feedbackIncorrecto": {
+      "Todos están cerrados pero disponibles": "Un canal cerrado pero disponible puede abrirse si el voltaje alcanza el nivel apropiado.",
+      "Todos están abiertos de forma estable": "La apertura estable no define la refractariedad; el punto clave es la indisponibilidad por inactivación.",
+      "Todos se convierten transitoriamente en canales de K⁺": "Los canales no cambian su selectividad iónica al pasar por sus estados funcionales."
+    },
+    "ideaClave": "La inactivación impide que muchos canales de Na⁺ vuelvan a abrirse de inmediato."
+  },
+  {
+    "id": 111,
+    "nivel": 1,
+    "tema": "Refractariedad relativa",
+    "pregunta": "¿Qué caracteriza mejor al periodo refractario relativo?",
+    "correcta_texto": "Puede generarse otro potencial, pero requiere un estímulo mayor",
+    "alternativas": [
+      "Ningún estímulo puede generar un potencial",
+      "Puede generarse otro potencial, pero requiere un estímulo mayor",
+      "La membrana está completamente recuperada",
+      "Todos los canales de Na⁺ siguen inactivos"
+    ],
+    "feedbackIncorrecto": {
+      "Ningún estímulo puede generar un potencial": "La imposibilidad absoluta de responder corresponde al periodo refractario absoluto.",
+      "La membrana está completamente recuperada": "Si la membrana estuviera completamente recuperada, el estímulo necesario volvería a su condición basal.",
+      "Todos los canales de Na⁺ siguen inactivos": "Durante el periodo relativo ya se ha recuperado una parte de los canales."
+    },
+    "ideaClave": "La excitabilidad se recupera progresivamente después del periodo absoluto."
+  },
+  {
+    "id": 112,
+    "nivel": 1,
+    "tema": "Bomba Na/K",
+    "pregunta": "¿Cuál es la función más importante de la bomba Na⁺/K⁺ para la excitabilidad?",
+    "correcta_texto": "Mantener a largo plazo los gradientes de Na⁺ y K⁺",
+    "alternativas": [
+      "Mantener a largo plazo los gradientes de Na⁺ y K⁺",
+      "Generar directamente el pico de despolarización",
+      "Abrir los canales de Na⁺ dependientes de voltaje",
+      "Producir por sí sola la repolarización rápida"
+    ],
+    "feedbackIncorrecto": {
+      "Generar directamente el pico de despolarización": "El pico ocurre por corrientes rápidas a través de canales, no por la velocidad de la bomba.",
+      "Abrir los canales de Na⁺ dependientes de voltaje": "Los canales dependientes de voltaje responden al voltaje; la bomba no actúa como su compuerta.",
+      "Producir por sí sola la repolarización rápida": "La repolarización rápida depende principalmente de corrientes de K⁺ por canales."
+    },
+    "ideaClave": "La bomba conserva los gradientes que hacen posible la excitabilidad repetida."
+  },
+  {
+    "id": 113,
+    "nivel": 1,
+    "tema": "Propagación",
+    "pregunta": "¿Por qué un potencial de acción mantiene su amplitud a lo largo de un axón?",
+    "correcta_texto": "Porque se regenera en regiones sucesivas de la membrana",
+    "alternativas": [
+      "Porque la misma corriente inicial viaja intacta hasta el terminal",
+      "Porque la amplitud aumenta a medida que avanza",
+      "Porque un neurotransmisor transporta la señal dentro del axón",
+      "Porque se regenera en regiones sucesivas de la membrana"
+    ],
+    "feedbackIncorrecto": {
+      "Porque la misma corriente inicial viaja intacta hasta el terminal": "Las corrientes locales se atenúan; la amplitud se conserva porque cada región genera un nuevo potencial.",
+      "Porque la amplitud aumenta a medida que avanza": "La amplitud del potencial individual es estereotipada y no aumenta progresivamente.",
+      "Porque un neurotransmisor transporta la señal dentro del axón": "La conducción axonal es eléctrica; los neurotransmisores actúan en las sinapsis."
+    },
+    "ideaClave": "La propagación es regenerativa."
+  },
+  {
+    "id": 114,
+    "nivel": 1,
+    "tema": "Direccionalidad",
+    "pregunta": "¿Qué fenómeno favorece que la propagación avance preferentemente en una dirección?",
+    "correcta_texto": "La refractariedad de la región que acaba de activarse",
+    "alternativas": [
+      "La acción direccional de la bomba Na⁺/K⁺",
+      "La apertura simultánea de todos los canales del axón",
+      "La refractariedad de la región que acaba de activarse",
+      "La ausencia de Na⁺ detrás del frente de onda"
+    ],
+    "feedbackIncorrecto": {
+      "La ausencia de Na⁺ detrás del frente de onda": "El Na⁺ extracelular sigue presente en la región ya activada.",
+      "La apertura simultánea de todos los canales del axón": "La conducción ocurre de manera secuencial, no por apertura simultánea de todo el axón.",
+      "La acción direccional de la bomba Na⁺/K⁺": "La bomba no determina la dirección instantánea de propagación."
+    },
+    "ideaClave": "La región recién activada no puede reexcitarse inmediatamente."
+  },
+  {
+    "id": 115,
+    "nivel": 1,
+    "tema": "Sinapsis química",
+    "pregunta": "¿Qué evento convierte la señal eléctrica presináptica en una señal química?",
+    "correcta_texto": "La liberación de neurotransmisor desde el terminal axónico",
+    "alternativas": [
+      "El paso directo del potencial de acción por el espacio sináptico",
+      "La liberación de neurotransmisor desde el terminal axónico",
+      "La bomba Na⁺/K⁺ de la membrana postsináptica",
+      "La difusión de K⁺ desde una neurona a la siguiente"
+    ],
+    "feedbackIncorrecto": {
+      "El paso directo del potencial de acción por el espacio sináptico": "En una sinapsis química el potencial no atraviesa físicamente el espacio sináptico.",
+      "La difusión de K⁺ desde una neurona a la siguiente": "El K⁺ no funciona como mensajero químico entre ambas neuronas en este mecanismo.",
+      "La bomba Na⁺/K⁺ de la membrana postsináptica": "La bomba mantiene gradientes, pero no realiza la conversión de señal eléctrica a química."
+    },
+    "ideaClave": "El neurotransmisor es el intermediario químico de la sinapsis."
+  },
+  {
+    "id": 116,
+    "nivel": 1,
+    "tema": "Células excitables",
+    "pregunta": "¿Qué propiedad comparten neuronas y fibras musculares?",
+    "correcta_texto": "Pueden responder a estímulos con cambios rápidos del potencial de membrana",
+    "alternativas": [
+      "Carecen de canales dependientes de voltaje",
+      "Mantienen siempre un voltaje fijo",
+      "Pueden responder a estímulos con cambios rápidos del potencial de membrana",
+      "Solo responden a estímulos químicos"
+    ],
+    "feedbackIncorrecto": {
+      "Mantienen siempre un voltaje fijo": "La excitabilidad implica precisamente la capacidad de modificar rápidamente el voltaje.",
+      "Carecen de canales dependientes de voltaje": "Los canales dependientes de voltaje son esenciales para sus potenciales de acción.",
+      "Solo responden a estímulos químicos": "También pueden responder a estímulos eléctricos o mecánicos que modifiquen su potencial."
+    },
+    "ideaClave": "La excitabilidad es la capacidad de convertir estímulos en cambios eléctricos de membrana."
+  },
+  {
+    "id": 117,
+    "nivel": 1,
+    "tema": "Potencial de difusión",
+    "pregunta": "Cuando K⁺ sale de una célula a través de canales selectivos, ¿qué ocurre con el interior?",
+    "correcta_texto": "Se vuelve relativamente más negativo",
+    "alternativas": [
+      "Se vuelve más positivo",
+      "El Na⁺ intracelular se vuelve negativo",
+      "Se vuelve relativamente más negativo",
+      "Permanece exactamente neutro"
+    ],
+    "feedbackIncorrecto": {
+      "Se vuelve más positivo": "La salida de un catión reduce la carga positiva del interior.",
+      "Permanece exactamente neutro": "El movimiento selectivo de cargas produce separación eléctrica; no deja necesariamente voltaje cero.",
+      "El Na⁺ intracelular se vuelve negativo": "La carga del Na⁺ no cambia por el movimiento del K⁺."
+    },
+    "ideaClave": "La salida de cargas positivas favorece negatividad intracelular."
+  },
+  {
+    "id": 118,
+    "nivel": 1,
+    "tema": "Equilibrio electroquímico",
+    "pregunta": "¿Por qué la difusión neta de un ion puede disminuir aun cuando persista una diferencia de concentración?",
+    "correcta_texto": "Porque la fuerza eléctrica puede oponerse a la fuerza química",
+    "alternativas": [
+      "Porque todos los canales se transforman en bombas",
+      "Porque el ion pierde su carga",
+      "Porque la fuerza eléctrica puede oponerse a la fuerza química",
+      "Porque la concentración deja de influir en los iones"
+    ],
+    "feedbackIncorrecto": {
+      "Porque el ion pierde su carga": "La carga del ion permanece constante.",
+      "Porque la concentración deja de influir en los iones": "La concentración sigue formando parte de la fuerza impulsora; lo que cambia es el balance con la fuerza eléctrica.",
+      "Porque todos los canales se transforman en bombas": "Los canales no cambian su naturaleza para detener la difusión neta."
+    },
+    "ideaClave": "El equilibrio aparece cuando las fuerzas química y eléctrica se compensan."
+  },
+  {
+    "id": 119,
+    "nivel": 1,
+    "tema": "Reposo dinámico",
+    "pregunta": "¿Por qué el potencial de reposo se considera un estado dinámico?",
+    "correcta_texto": "Porque existen flujos iónicos basales aunque el voltaje promedio sea estable",
+    "alternativas": [
+      "Porque la membrana alterna espontáneamente entre +40 y −70 mV",
+      "Porque todos los iones dejan de moverse",
+      "Porque existen flujos iónicos basales aunque el voltaje promedio sea estable",
+      "Porque los gradientes desaparecen temporalmente"
+    ],
+    "feedbackIncorrecto": {
+      "Porque todos los iones dejan de moverse": "Los canales de fuga permiten movimiento iónico incluso en reposo.",
+      "Porque los gradientes desaparecen temporalmente": "Los gradientes se mantienen precisamente durante el reposo.",
+      "Porque la membrana alterna espontáneamente entre +40 y −70 mV": "Una neurona en reposo no oscila espontáneamente entre el pico y el potencial basal."
+    },
+    "ideaClave": "Reposo no significa ausencia de transporte iónico."
+  },
+  {
+    "id": 120,
+    "nivel": 1,
+    "tema": "Canales de voltaje",
+    "pregunta": "¿Qué propiedad distingue a un canal dependiente de voltaje?",
+    "correcta_texto": "Su probabilidad de apertura cambia con el potencial de membrana",
+    "alternativas": [
+      "Solo puede abrirse por unión de neurotransmisores",
+      "Transporta iones contra su gradiente usando ATP",
+      "Permanece siempre abierto en reposo",
+      "Su probabilidad de apertura cambia con el potencial de membrana"
+    ],
+    "feedbackIncorrecto": {
+      "Solo puede abrirse por unión de neurotransmisores": "La unión de neurotransmisores caracteriza a canales regulados por ligando, no necesariamente a canales de voltaje.",
+      "Transporta iones contra su gradiente usando ATP": "Los canales permiten flujo pasivo; el transporte contra gradiente corresponde a mecanismos activos.",
+      "Permanece siempre abierto en reposo": "Un canal dependiente de voltaje puede cambiar de estado según el voltaje y no permanece necesariamente abierto."
+    },
+    "ideaClave": "Los canales dependientes de voltaje responden a cambios eléctricos de la membrana."
+  },
+  {
+    "id": 121,
+    "nivel": 2,
+    "tema": "Umbral",
+    "pregunta": "Una neurona pasa de −70 mV a −60 mV después de un estímulo. Si su umbral es −55 mV, ¿qué conclusión es más adecuada?",
+    "correcta_texto": "La despolarización fue subumbral y no debería generar un potencial completo",
+    "alternativas": [
+      "La despolarización fue subumbral y no debería generar un potencial completo",
+      "Se generará un potencial de menor amplitud",
+      "La membrana alcanzó el pico",
+      "La neurona está necesariamente en periodo refractario absoluto"
+    ],
+    "feedbackIncorrecto": {
+      "Se generará un potencial de menor amplitud": "Un potencial de acción no aparece como una respuesta parcial proporcional a un estímulo subumbral.",
+      "La membrana alcanzó el pico": "El pico ocurre después de alcanzar el umbral y desarrollar la fase ascendente.",
+      "La neurona está necesariamente en periodo refractario absoluto": "La refractariedad absoluta aparece tras activación e inactivación de canales durante un potencial de acción."
+    },
+    "ideaClave": "Una despolarización puede ocurrir sin alcanzar el umbral."
+  },
+  {
+    "id": 122,
+    "nivel": 2,
+    "tema": "Umbral",
+    "pregunta": "Una neurona se despolariza desde −70 mV hasta −52 mV. ¿Qué evento es más probable a continuación?",
+    "correcta_texto": "Activación regenerativa de canales de Na⁺ dependientes de voltaje",
+    "alternativas": [
+      "Inactivación de todos los canales antes de abrirse",
+      "Retorno al reposo sin modificar conductancias",
+      "Activación regenerativa de canales de Na⁺ dependientes de voltaje",
+      "Apertura predominante de K⁺ con hiperpolarización inmediata"
+    ],
+    "feedbackIncorrecto": {
+      "Apertura predominante de K⁺ con hiperpolarización inmediata": "La apertura de K⁺ no es el evento dominante al inicio de la fase ascendente.",
+      "Retorno al reposo sin modificar conductancias": "Superar el umbral desencadena cambios activos de conductancia.",
+      "Inactivación de todos los canales antes de abrirse": "Los canales deben activarse antes de pasar al estado inactivado."
+    },
+    "ideaClave": "Superar el umbral inicia una retroalimentación positiva de entrada de Na⁺."
+  },
+  {
+    "id": 123,
+    "nivel": 2,
+    "tema": "Bloqueo de Na⁺",
+    "pregunta": "Un fármaco reduce la conductancia de los canales de Na⁺ dependientes de voltaje. ¿Qué cambio es más probable?",
+    "correcta_texto": "La fase ascendente será más lenta y menos pronunciada",
+    "alternativas": [
+      "La hiperpolarización será más profunda por salida de Na⁺",
+      "El pico aumentará por mayor entrada de carga positiva",
+      "La fase ascendente será más lenta y menos pronunciada",
+      "La repolarización será más rápida por aumento directo de K⁺"
+    ],
+    "feedbackIncorrecto": {
+      "La repolarización será más rápida por aumento directo de K⁺": "Reducir Na⁺ no aumenta de forma directa la conductancia al K⁺.",
+      "La hiperpolarización será más profunda por salida de Na⁺": "El Na⁺ no sale de manera dominante para producir hiperpolarización.",
+      "El pico aumentará por mayor entrada de carga positiva": "Reducir la conductancia al Na⁺ disminuye, no aumenta, la entrada de carga positiva."
+    },
+    "ideaClave": "La fase ascendente depende de la magnitud de la corriente de Na⁺."
+  },
+  {
+    "id": 124,
+    "nivel": 2,
+    "tema": "Bloqueo de K⁺",
+    "pregunta": "Si disminuye mucho la conductancia al K⁺ durante un potencial de acción, ¿qué cambio es esperable?",
+    "correcta_texto": "Repolarización más lenta y menor poshiperpolarización",
+    "alternativas": [
+      "Pico necesariamente más negativo que el reposo",
+      "Despolarización inicial abolida por completo",
+      "Repolarización más lenta y menor poshiperpolarización",
+      "Periodo refractario absoluto eliminado"
+    ],
+    "feedbackIncorrecto": {
+      "Despolarización inicial abolida por completo": "La fase ascendente puede mantenerse si los canales de Na⁺ funcionan.",
+      "Pico necesariamente más negativo que el reposo": "El pico no se desplaza por debajo del reposo por reducir la salida de K⁺.",
+      "Periodo refractario absoluto eliminado": "La refractariedad absoluta depende en gran medida de la inactivación de Na⁺."
+    },
+    "ideaClave": "El K⁺ participa de forma central en repolarización e hiperpolarización."
+  },
+  {
+    "id": 125,
+    "nivel": 2,
+    "tema": "Hiperpolarización",
+    "pregunta": "Después de un potencial, la membrana alcanza −85 mV. ¿Qué efecto funcional inmediato es más probable?",
+    "correcta_texto": "Se necesita una despolarización mayor para alcanzar nuevamente el umbral",
+    "alternativas": [
+      "El siguiente potencial tendrá mayor amplitud",
+      "Se necesita una despolarización mayor para alcanzar nuevamente el umbral",
+      "El umbral se desplaza obligatoriamente a +40 mV",
+      "La neurona queda permanentemente inexitable"
+    ],
+    "feedbackIncorrecto": {
+      "El siguiente potencial tendrá mayor amplitud": "La amplitud del potencial individual no aumenta por comenzar desde un voltaje más negativo.",
+      "La neurona queda permanentemente inexitable": "La hiperpolarización fisiológica es transitoria.",
+      "El umbral se desplaza obligatoriamente a +40 mV": "El umbral no se redefine de esa manera por una poshiperpolarización breve."
+    },
+    "ideaClave": "Estar más lejos del umbral reduce temporalmente la excitabilidad."
+  },
+  {
+    "id": 126,
+    "nivel": 2,
+    "tema": "Refractario absoluto",
+    "pregunta": "Durante el periodo refractario absoluto se aplica un estímulo muy intenso. ¿Qué ocurre?",
+    "correcta_texto": "No se genera un nuevo potencial de acción",
+    "alternativas": [
+      "Se genera un potencial parcial",
+      "El estímulo abre todos los canales inactivados",
+      "No se genera un nuevo potencial de acción",
+      "Se genera uno de mayor amplitud"
+    ],
+    "feedbackIncorrecto": {
+      "Se genera uno de mayor amplitud": "La amplitud no aumenta con la intensidad suprumbral y muchos canales aún no están disponibles.",
+      "Se genera un potencial parcial": "El potencial de acción no se genera parcialmente.",
+      "El estímulo abre todos los canales inactivados": "Los canales inactivados deben recuperarse antes de volver a activarse."
+    },
+    "ideaClave": "La intensidad del estímulo no puede superar la indisponibilidad de canales inactivados."
+  },
+  {
+    "id": 127,
+    "nivel": 2,
+    "tema": "Refractario relativo",
+    "pregunta": "Un segundo estímulo produce respuesta solo cuando es más intenso que el habitual. ¿Qué estado explica mejor este hallazgo?",
+    "correcta_texto": "Periodo refractario relativo",
+    "alternativas": [
+      "Periodo refractario absoluto",
+      "Reposo completamente recuperado",
+      "Pico de despolarización",
+      "Periodo refractario relativo"
+    ],
+    "feedbackIncorrecto": {
+      "Periodo refractario absoluto": "En el periodo absoluto ningún estímulo puede generar otro potencial.",
+      "Reposo completamente recuperado": "En reposo recuperado la exigencia de estímulo vuelve a su condición basal.",
+      "Pico de despolarización": "Durante el pico la membrana no se encuentra en la fase típica de recuperación parcial descrita."
+    },
+    "ideaClave": "El periodo relativo permite respuesta, pero con un umbral funcional más difícil de alcanzar."
+  },
+  {
+    "id": 128,
+    "nivel": 2,
+    "tema": "Bomba Na/K",
+    "pregunta": "Si la bomba Na⁺/K⁺ se inhibe durante varios minutos, ¿qué cambio aparecerá progresivamente?",
+    "correcta_texto": "Disminución de los gradientes de Na⁺ y K⁺",
+    "alternativas": [
+      "Apertura permanente de los canales de Na⁺",
+      "Aumento inmediato de la amplitud de cada potencial",
+      "Disminución de los gradientes de Na⁺ y K⁺",
+      "Repolarización instantáneamente más rápida"
+    ],
+    "feedbackIncorrecto": {
+      "Aumento inmediato de la amplitud de cada potencial": "La bomba no aumenta directamente el pico de un potencial aislado.",
+      "Apertura permanente de los canales de Na⁺": "La apertura de canales depende del voltaje, no de que la bomba esté activa.",
+      "Repolarización instantáneamente más rápida": "La repolarización rápida depende principalmente de canales de K⁺."
+    },
+    "ideaClave": "La pérdida de la bomba deteriora los gradientes de forma gradual."
+  },
+  {
+    "id": 129,
+    "nivel": 2,
+    "tema": "Permeabilidad al K⁺",
+    "pregunta": "Si aumenta la permeabilidad al K⁺ en una neurona en reposo, ¿qué tendencia se espera?",
+    "correcta_texto": "El potencial se vuelve más negativo",
+    "alternativas": [
+      "El voltaje necesariamente queda en 0 mV",
+      "Se genera una despolarización por entrada de K⁺",
+      "El potencial se aproxima a +40 mV",
+      "El potencial se vuelve más negativo"
+    ],
+    "feedbackIncorrecto": {
+      "El potencial se aproxima a +40 mV": "La salida de K⁺ favorece negatividad, no un pico positivo.",
+      "Se genera una despolarización por entrada de K⁺": "En una neurona típica el gradiente impulsa K⁺ principalmente hacia afuera.",
+      "El voltaje necesariamente queda en 0 mV": "Aumentar una permeabilidad selectiva no obliga a eliminar toda diferencia de potencial."
+    },
+    "ideaClave": "Mayor conductancia al K⁺ tiende a hiperpolarizar."
+  },
+  {
+    "id": 130,
+    "nivel": 2,
+    "tema": "Permeabilidad al Na⁺",
+    "pregunta": "Si aumenta la permeabilidad al Na⁺ en reposo, ¿qué tendencia es más probable?",
+    "correcta_texto": "Despolarización hacia valores menos negativos",
+    "alternativas": [
+      "Hiperpolarización",
+      "Despolarización hacia valores menos negativos",
+      "Repolarización desde un pico positivo",
+      "Ausencia de cambio porque el Na⁺ no influye en el voltaje"
+    ],
+    "feedbackIncorrecto": {
+      "Hiperpolarización": "La entrada de carga positiva no produce hiperpolarización.",
+      "Repolarización desde un pico positivo": "La situación parte desde reposo, no desde el pico de un potencial.",
+      "Ausencia de cambio porque el Na⁺ no influye en el voltaje": "Modificar la conductancia al Na⁺ sí cambia el potencial de membrana."
+    },
+    "ideaClave": "La entrada de Na⁺ desplaza el potencial hacia valores positivos."
+  },
+  {
+    "id": 131,
+    "nivel": 2,
+    "tema": "Na⁺ persistente",
+    "pregunta": "Si los canales de Na⁺ no se inactivaran adecuadamente después del pico, ¿qué ocurriría?",
+    "correcta_texto": "La repolarización se retrasaría",
+    "alternativas": [
+      "La repolarización se retrasaría",
+      "La salida de K⁺ sería innecesaria",
+      "El retorno al reposo sería más rápido",
+      "La hiperpolarización aparecería antes"
+    ],
+    "feedbackIncorrecto": {
+      "La hiperpolarización aparecería antes": "Mantener entrada de Na⁺ se opone a hacer el interior más negativo.",
+      "La salida de K⁺ sería innecesaria": "La salida de K⁺ sigue siendo necesaria para recuperar negatividad.",
+      "El retorno al reposo sería más rápido": "Una corriente positiva persistente retrasa el retorno."
     },
     "ideaClave": "La inactivación de Na⁺ ayuda a terminar la fase ascendente."
   },
   {
-    "id": 16,
-    "nivel": 1,
-    "tema": "Hiperpolarización",
-    "pregunta": "¿Qué explica la hiperpolarización posterior al potencial de acción?",
-    "correcta_texto": "Continúa saliendo K⁺ por un tiempo mayor al necesario para volver al reposo",
-    "alternativas": [
-      "Continúa saliendo K⁺ por un tiempo mayor al necesario para volver al reposo",
-      "Entrada sostenida de Na⁺",
-      "Cierre total de todos los canales iónicos",
-      "Entrada masiva de proteínas negativas"
-    ],
-    "feedbackIncorrecto": {
-      "Entrada sostenida de Na⁺": "No es correcta porque «Entrada sostenida de Na⁺» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta.",
-      "Cierre total de todos los canales iónicos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Entrada masiva de proteínas negativas": "No es correcta porque «Entrada masiva de proteínas negativas» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
-    },
-    "ideaClave": "La salida prolongada de K⁺ lleva el voltaje por debajo del reposo."
-  },
-  {
-    "id": 17,
-    "nivel": 1,
-    "tema": "Periodo refractario",
-    "pregunta": "¿Qué caracteriza al periodo refractario absoluto?",
-    "correcta_texto": "No puede generarse un nuevo potencial de acción mientras suficientes canales de Na⁺ permanecen inactivos",
-    "alternativas": [
-      "No puede generarse un nuevo potencial de acción mientras suficientes canales de Na⁺ permanecen inactivos",
-      "Siempre puede generarse otro potencial con un estímulo débil",
-      "Solo ocurre durante el reposo estable",
-      "Depende exclusivamente de la bomba Na⁺/K⁺"
-    ],
-    "feedbackIncorrecto": {
-      "Siempre puede generarse otro potencial con un estímulo débil": "No es correcta porque «Siempre puede generarse otro potencial con un estímulo débil» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Solo ocurre durante el reposo estable": "No es correcta porque «Solo ocurre durante el reposo estable» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Depende exclusivamente de la bomba Na⁺/K⁺": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
-    },
-    "ideaClave": "La inactivación de canales de Na⁺ impide un nuevo potencial durante el periodo absoluto."
-  },
-  {
-    "id": 18,
-    "nivel": 1,
-    "tema": "Periodo refractario",
-    "pregunta": "¿Qué caracteriza al periodo refractario relativo?",
-    "correcta_texto": "Puede generarse un nuevo potencial, pero requiere un estímulo mayor al habitual",
-    "alternativas": [
-      "Puede generarse un nuevo potencial, pero requiere un estímulo mayor al habitual",
-      "Nunca puede generarse un potencial",
-      "Solo ocurre antes del umbral",
-      "La membrana está exactamente en reposo"
-    ],
-    "feedbackIncorrecto": {
-      "Nunca puede generarse un potencial": "No es correcta porque «Nunca puede generarse un potencial» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Solo ocurre antes del umbral": "No es correcta porque «Solo ocurre antes del umbral» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "La membrana está exactamente en reposo": "No es correcta porque «La membrana está exactamente en reposo» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
-    },
-    "ideaClave": "Durante el periodo relativo la excitabilidad está disminuida, pero no abolida."
-  },
-  {
-    "id": 19,
-    "nivel": 1,
-    "tema": "Bomba Na⁺/K⁺",
-    "pregunta": "¿Qué función se atribuye a la bomba Na⁺/K⁺ en la clase?",
-    "correcta_texto": "Contribuir a mantener y restaurar los gradientes iónicos",
-    "alternativas": [
-      "Contribuir a mantener y restaurar los gradientes iónicos",
-      "Generar directamente el pico de +40 mV",
-      "Abrir canales de Na⁺ por voltaje",
-      "Liberar neurotransmisores en la sinapsis"
-    ],
-    "feedbackIncorrecto": {
-      "Generar directamente el pico de +40 mV": "No es correcta porque «Generar directamente el pico de +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Abrir canales de Na⁺ por voltaje": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Liberar neurotransmisores en la sinapsis": "No es correcta porque «Liberar neurotransmisores en la sinapsis» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "La bomba contribuye al mantenimiento de los gradientes de Na⁺ y K⁺."
-  },
-  {
-    "id": 20,
-    "nivel": 1,
-    "tema": "Propagación",
-    "pregunta": "¿Qué característica del potencial de acción permite que la señal conserve su amplitud a lo largo del axón?",
-    "correcta_texto": "Se regenera sucesivamente sin perder intensidad",
-    "alternativas": [
-      "Se regenera sucesivamente sin perder intensidad",
-      "Se difunde de forma pasiva y cada vez más débil",
-      "Aumenta de amplitud con la distancia",
-      "Depende de la concentración de neurotransmisor en todo el axón"
-    ],
-    "feedbackIncorrecto": {
-      "Se difunde de forma pasiva y cada vez más débil": "No es correcta porque «Se difunde de forma pasiva y cada vez más débil» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "Aumenta de amplitud con la distancia": "No es correcta porque «Aumenta de amplitud con la distancia» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "Depende de la concentración de neurotransmisor en todo el axón": "No es correcta porque «Depende de la concentración de neurotransmisor en todo el axón» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
-    },
-    "ideaClave": "El potencial de acción se propaga manteniendo su amplitud."
-  },
-  {
-    "id": 21,
+    "id": 132,
     "nivel": 2,
-    "tema": "Gradientes iónicos",
-    "pregunta": "Si una membrana fuera permeable solo al K⁺, ¿en qué dirección tendería inicialmente a difundirse el K⁺?",
-    "correcta_texto": "Desde el interior hacia el exterior",
+    "tema": "K⁺ prolongado",
+    "pregunta": "Si los canales de K⁺ permanecen abiertos más tiempo de lo normal, ¿qué cambio es probable?",
+    "correcta_texto": "Hiperpolarización más profunda o prolongada",
     "alternativas": [
-      "Desde el interior hacia el exterior",
-      "Desde el exterior hacia el interior",
-      "No existiría movimiento neto",
-      "Solo hacia el núcleo"
+      "Pico de despolarización más alto",
+      "Hiperpolarización más profunda o prolongada",
+      "Aumento permanente del umbral a +40 mV",
+      "Mayor entrada de Na⁺ por definición"
     ],
     "feedbackIncorrecto": {
-      "Desde el exterior hacia el interior": "No es correcta porque «Desde el exterior hacia el interior» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "No existiría movimiento neto": "No es correcta porque «No existiría movimiento neto» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "Solo hacia el núcleo": "No es correcta porque «Solo hacia el núcleo» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
+      "Pico de despolarización más alto": "Una salida prolongada de K⁺ favorece voltajes más negativos, no un pico mayor.",
+      "Aumento permanente del umbral a +40 mV": "La conductancia al K⁺ no redefine permanentemente el umbral de esa manera.",
+      "Mayor entrada de Na⁺ por definición": "Una mayor salida de K⁺ no obliga por sí sola a aumentar la entrada de Na⁺."
     },
-    "ideaClave": "El K⁺ está más concentrado dentro de la célula y tiende a salir por su gradiente químico."
+    "ideaClave": "La persistencia de K⁺ extiende la poshiperpolarización."
   },
   {
-    "id": 22,
-    "nivel": 2,
-    "tema": "Gradientes iónicos",
-    "pregunta": "Si una membrana fuera permeable solo al Na⁺, ¿en qué dirección tendería inicialmente a difundirse el Na⁺?",
-    "correcta_texto": "Desde el exterior hacia el interior",
-    "alternativas": [
-      "Desde el exterior hacia el interior",
-      "Desde el interior hacia el exterior",
-      "No existiría movimiento neto",
-      "Solo hacia el espacio sináptico"
-    ],
-    "feedbackIncorrecto": {
-      "Desde el interior hacia el exterior": "No es correcta porque «Desde el interior hacia el exterior» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "No existiría movimiento neto": "No es correcta porque «No existiría movimiento neto» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "Solo hacia el espacio sináptico": "No es correcta porque «Solo hacia el espacio sináptico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
-    },
-    "ideaClave": "El Na⁺ está más concentrado fuera y tiende a entrar."
-  },
-  {
-    "id": 23,
-    "nivel": 2,
-    "tema": "Potencial de difusión",
-    "pregunta": "Cuando K⁺ sale de una célula y quedan aniones intracelulares no difusibles, ¿qué ocurre con el interior?",
-    "correcta_texto": "Se vuelve más negativo",
-    "alternativas": [
-      "Se vuelve más negativo",
-      "Se vuelve más positivo",
-      "Pierde toda diferencia eléctrica",
-      "Se vuelve eléctricamente neutro de inmediato"
-    ],
-    "feedbackIncorrecto": {
-      "Se vuelve más positivo": "No es correcta porque «Se vuelve más positivo» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Pierde toda diferencia eléctrica": "No es correcta porque «Pierde toda diferencia eléctrica» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Se vuelve eléctricamente neutro de inmediato": "No es correcta porque «Se vuelve eléctricamente neutro de inmediato» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "La salida de cargas positivas deja un exceso relativo de cargas negativas dentro."
-  },
-  {
-    "id": 24,
-    "nivel": 2,
-    "tema": "Potencial de difusión",
-    "pregunta": "Cuando Na⁺ entra a una célula permeable principalmente a Na⁺, ¿qué ocurre con el interior?",
-    "correcta_texto": "Se vuelve más positivo",
-    "alternativas": [
-      "Se vuelve más positivo",
-      "Se vuelve más negativo",
-      "No cambia el voltaje",
-      "Se hiperpolariza inmediatamente"
-    ],
-    "feedbackIncorrecto": {
-      "Se vuelve más negativo": "No es correcta porque «Se vuelve más negativo» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "No cambia el voltaje": "No es correcta porque «No cambia el voltaje» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Se hiperpolariza inmediatamente": "No es correcta porque «Se hiperpolariza inmediatamente» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "La entrada de cargas positivas produce positividad intracelular."
-  },
-  {
-    "id": 25,
-    "nivel": 2,
-    "tema": "Umbral",
-    "pregunta": "Un estímulo lleva la membrana desde −70 mV hasta −60 mV. ¿Qué resultado es más probable?",
-    "correcta_texto": "No se genera un potencial de acción completo porque no se alcanzó el umbral",
-    "alternativas": [
-      "No se genera un potencial de acción completo porque no se alcanzó el umbral",
-      "Se genera un potencial de acción completo",
-      "La membrana alcanza +40 mV automáticamente",
-      "La célula entra en periodo refractario absoluto"
-    ],
-    "feedbackIncorrecto": {
-      "Se genera un potencial de acción completo": "No es correcta porque «Se genera un potencial de acción completo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La membrana alcanza +40 mV automáticamente": "No es correcta porque «La membrana alcanza +40 mV automáticamente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La célula entra en periodo refractario absoluto": "No es correcta porque «La célula entra en periodo refractario absoluto» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "El umbral descrito es cercano a −55 mV."
-  },
-  {
-    "id": 26,
-    "nivel": 2,
-    "tema": "Umbral",
-    "pregunta": "Un estímulo despolariza la membrana hasta −50 mV. ¿Qué ocurre con mayor probabilidad?",
-    "correcta_texto": "Se alcanza el umbral y se dispara un potencial de acción",
-    "alternativas": [
-      "Se alcanza el umbral y se dispara un potencial de acción",
-      "La célula vuelve inmediatamente a −90 mV sin respuesta",
-      "Se cierran todos los canales de Na⁺",
-      "No ocurre ningún cambio porque −50 mV sigue siendo negativo"
-    ],
-    "feedbackIncorrecto": {
-      "La célula vuelve inmediatamente a −90 mV sin respuesta": "No es correcta porque «La célula vuelve inmediatamente a −90 mV sin respuesta» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Se cierran todos los canales de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "No ocurre ningún cambio porque −50 mV sigue siendo negativo": "No es correcta porque «No ocurre ningún cambio porque −50 mV sigue siendo negativo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "Superar el umbral activa la respuesta de todo o nada."
-  },
-  {
-    "id": 27,
-    "nivel": 2,
-    "tema": "Despolarización",
-    "pregunta": "Si se impide la apertura de canales de Na⁺ dependientes de voltaje, ¿qué fase se afectará principalmente?",
-    "correcta_texto": "Despolarización rápida",
-    "alternativas": [
-      "Despolarización rápida",
-      "Hiperpolarización tardía",
-      "Restauración de gradientes por la bomba",
-      "Salida basal de K⁺ por canales de fuga"
-    ],
-    "feedbackIncorrecto": {
-      "Hiperpolarización tardía": "No es correcta porque «Hiperpolarización tardía» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Restauración de gradientes por la bomba": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "Salida basal de K⁺ por canales de fuga": "No es correcta porque «Salida basal de K⁺ por canales de fuga» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
-    },
-    "ideaClave": "La fase ascendente depende de la entrada rápida de Na⁺."
-  },
-  {
-    "id": 28,
-    "nivel": 2,
-    "tema": "Repolarización",
-    "pregunta": "Si se impide la apertura de canales de K⁺ dependientes de voltaje, ¿qué fase se altera principalmente?",
-    "correcta_texto": "Repolarización",
-    "alternativas": [
-      "Repolarización",
-      "Inicio del potencial de reposo por Na⁺",
-      "Liberación de neurotransmisor como primer evento",
-      "Reconocimiento sináptico del neurotransmisor"
-    ],
-    "feedbackIncorrecto": {
-      "Inicio del potencial de reposo por Na⁺": "No es correcta porque «Inicio del potencial de reposo por Na⁺» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Liberación de neurotransmisor como primer evento": "No es correcta porque «Liberación de neurotransmisor como primer evento» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Reconocimiento sináptico del neurotransmisor": "No es correcta porque «Reconocimiento sináptico del neurotransmisor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "La salida de K⁺ es clave para recuperar la negatividad."
-  },
-  {
-    "id": 29,
-    "nivel": 2,
-    "tema": "Hiperpolarización",
-    "pregunta": "Una membrana cae a un valor más negativo que −70 mV después de un potencial. ¿Cómo se denomina esta fase?",
-    "correcta_texto": "Hiperpolarización",
-    "alternativas": [
-      "Hiperpolarización",
-      "Despolarización",
-      "Umbral",
-      "Meseta"
-    ],
-    "feedbackIncorrecto": {
-      "Despolarización": "No es correcta porque «Despolarización» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Umbral": "No es correcta porque «Umbral» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Meseta": "No es correcta porque «Meseta» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "La hiperpolarización ocurre cuando el voltaje cae por debajo del reposo."
-  },
-  {
-    "id": 30,
-    "nivel": 2,
-    "tema": "Periodo refractario",
-    "pregunta": "Durante el periodo refractario absoluto se aplica un estímulo muy intenso. ¿Qué ocurre?",
-    "correcta_texto": "No se genera otro potencial de acción",
-    "alternativas": [
-      "No se genera otro potencial de acción",
-      "Se genera un potencial más grande",
-      "Se genera un potencial de acción de menor amplitud",
-      "Solo aumenta la salida de neurotransmisor"
-    ],
-    "feedbackIncorrecto": {
-      "Se genera un potencial más grande": "No es correcta porque «Se genera un potencial más grande» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Se genera un potencial de acción de menor amplitud": "No es correcta porque «Se genera un potencial de acción de menor amplitud» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Solo aumenta la salida de neurotransmisor": "No es correcta porque «Solo aumenta la salida de neurotransmisor» no corresponde al flujo iónico característico del fenómeno planteado."
-    },
-    "ideaClave": "Mientras los canales de Na⁺ están inactivos, no puede dispararse otro potencial."
-  },
-  {
-    "id": 31,
-    "nivel": 2,
-    "tema": "Periodo refractario",
-    "pregunta": "Durante el periodo refractario relativo, un estímulo supranormal alcanza la membrana. ¿Qué puede ocurrir?",
-    "correcta_texto": "Puede generarse un nuevo potencial de acción",
-    "alternativas": [
-      "Puede generarse un nuevo potencial de acción",
-      "Nunca puede generarse otro potencial",
-      "Solo se produce hiperpolarización sin señal",
-      "La bomba Na⁺/K⁺ se detiene"
-    ],
-    "feedbackIncorrecto": {
-      "Nunca puede generarse otro potencial": "No es correcta porque «Nunca puede generarse otro potencial» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Solo se produce hiperpolarización sin señal": "No es correcta porque «Solo se produce hiperpolarización sin señal» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "La bomba Na⁺/K⁺ se detiene": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
-    },
-    "ideaClave": "Durante el periodo relativo puede responder si el estímulo es suficientemente intenso."
-  },
-  {
-    "id": 32,
+    "id": 133,
     "nivel": 2,
     "tema": "Propagación",
-    "pregunta": "¿Por qué el potencial de acción no disminuye de amplitud a medida que avanza por el axón?",
-    "correcta_texto": "Porque se regenera en regiones sucesivas de la membrana",
+    "pregunta": "Una región axonal activa despolariza la región vecina hasta el umbral. ¿Qué ocurre en esa región vecina?",
+    "correcta_texto": "Genera su propio potencial de acción",
     "alternativas": [
-      "Porque se regenera en regiones sucesivas de la membrana",
-      "Porque cada zona recibe neurotransmisores desde el soma",
-      "Porque la bomba Na⁺/K⁺ produce directamente cada pico",
-      "Porque el K⁺ extracelular aumenta progresivamente"
+      "Aumenta la amplitud del segmento anterior",
+      "Libera neurotransmisor dentro del axón",
+      "Genera su propio potencial de acción",
+      "Recibe el potencial completo ya formado"
     ],
     "feedbackIncorrecto": {
-      "Porque cada zona recibe neurotransmisores desde el soma": "No es correcta porque «Porque cada zona recibe neurotransmisores desde el soma» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "Porque la bomba Na⁺/K⁺ produce directamente cada pico": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "Porque el K⁺ extracelular aumenta progresivamente": "No es correcta porque «Porque el K⁺ extracelular aumenta progresivamente» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
+      "Recibe el potencial completo ya formado": "El potencial se regenera localmente; no se traslada físicamente intacto.",
+      "Libera neurotransmisor dentro del axón": "La conducción entre segmentos del axón no utiliza neurotransmisores.",
+      "Aumenta la amplitud del segmento anterior": "La amplitud del segmento previo no aumenta para impulsar al siguiente."
     },
-    "ideaClave": "La señal activa canales en segmentos vecinos y mantiene su amplitud."
+    "ideaClave": "Cada región del axón genera una nueva respuesta al alcanzar el umbral."
   },
   {
-    "id": 33,
+    "id": 134,
     "nivel": 2,
     "tema": "Direccionalidad",
-    "pregunta": "¿Qué fenómeno ayuda a que el impulso avance preferentemente en una dirección?",
-    "correcta_texto": "El periodo refractario de la región que acaba de activarse",
+    "pregunta": "¿Por qué una región que acaba de disparar no suele activar de inmediato un potencial retrógrado?",
+    "correcta_texto": "Porque se encuentra transitoriamente refractaria",
     "alternativas": [
-      "El periodo refractario de la región que acaba de activarse",
-      "La entrada de Cl⁻ en todo el axón",
-      "La disminución progresiva de Na⁺ extracelular",
-      "La liberación constante de neurotransmisores a lo largo del axón"
+      "Porque el potencial solo puede viajar geométricamente hacia adelante",
+      "Porque se encuentra transitoriamente refractaria",
+      "Porque la bomba bloquea selectivamente la dirección inversa",
+      "Porque perdió todo su Na⁺ extracelular"
     ],
     "feedbackIncorrecto": {
-      "La entrada de Cl⁻ en todo el axón": "No es correcta porque «La entrada de Cl⁻ en todo el axón» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "La disminución progresiva de Na⁺ extracelular": "No es correcta porque «La disminución progresiva de Na⁺ extracelular» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "La liberación constante de neurotransmisores a lo largo del axón": "No es correcta porque «La liberación constante de neurotransmisores a lo largo del axón» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
+      "Porque perdió todo su Na⁺ extracelular": "El Na⁺ extracelular no se agota con un único potencial.",
+      "Porque el potencial solo puede viajar geométricamente hacia adelante": "Las corrientes locales pueden propagarse en más de una dirección; la refractariedad determina la respuesta.",
+      "Porque la bomba bloquea selectivamente la dirección inversa": "La bomba no actúa como un interruptor direccional de propagación."
     },
-    "ideaClave": "La zona recién activada no puede reexcitarse de inmediato."
+    "ideaClave": "La refractariedad favorece la propagación neta unidireccional."
   },
   {
-    "id": 34,
+    "id": 135,
     "nivel": 2,
-    "tema": "Sinapsis química",
-    "pregunta": "Cuando el potencial de acción llega al terminal axónico, ¿qué evento ocurre a continuación?",
-    "correcta_texto": "Se liberan neurotransmisores",
-    "alternativas": [
-      "Se liberan neurotransmisores",
-      "Se cierran todos los canales de la neurona postsináptica",
-      "El potencial de acción cruza físicamente el espacio sináptico",
-      "La neurona receptora libera primero K⁺"
-    ],
-    "feedbackIncorrecto": {
-      "Se cierran todos los canales de la neurona postsináptica": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "El potencial de acción cruza físicamente el espacio sináptico": "No es correcta porque «El potencial de acción cruza físicamente el espacio sináptico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "La neurona receptora libera primero K⁺": "No es correcta porque «La neurona receptora libera primero K⁺» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
-    },
-    "ideaClave": "La señal eléctrica presináptica se convierte en una señal química."
-  },
-  {
-    "id": 35,
-    "nivel": 2,
-    "tema": "Sinapsis química",
-    "pregunta": "¿Qué ocurre cuando un neurotransmisor se une a su receptor postsináptico?",
-    "correcta_texto": "Puede abrir compuertas iónicas y modificar el potencial de membrana",
-    "alternativas": [
-      "Puede abrir compuertas iónicas y modificar el potencial de membrana",
-      "Se transforma directamente en ATP",
-      "Se convierte en un canal de Na⁺",
-      "Hace desaparecer el gradiente electroquímico"
-    ],
-    "feedbackIncorrecto": {
-      "Se transforma directamente en ATP": "No es correcta porque «Se transforma directamente en ATP» no corresponde al orden de eventos de una transmisión sináptica química.",
-      "Se convierte en un canal de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Hace desaparecer el gradiente electroquímico": "No es correcta porque «Hace desaparecer el gradiente electroquímico» no corresponde al orden de eventos de una transmisión sináptica química."
-    },
-    "ideaClave": "La unión del neurotransmisor puede cambiar la conductancia iónica postsináptica."
-  },
-  {
-    "id": 36,
-    "nivel": 2,
-    "tema": "Reposo",
-    "pregunta": "Una neurona en reposo presenta mayor Na⁺ fuera y mayor K⁺ dentro. ¿Qué fenómeno contribuye a mantener esta distribución?",
-    "correcta_texto": "La bomba Na⁺/K⁺",
-    "alternativas": [
-      "La bomba Na⁺/K⁺",
-      "Solo la difusión libre de Na⁺",
-      "Apertura permanente de canales de Na⁺ por voltaje",
-      "Inactivación completa de todos los canales"
-    ],
-    "feedbackIncorrecto": {
-      "Solo la difusión libre de Na⁺": "No es correcta porque «Solo la difusión libre de Na⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Apertura permanente de canales de Na⁺ por voltaje": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Inactivación completa de todos los canales": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
-    },
-    "ideaClave": "La bomba ayuda a sostener los gradientes iónicos."
-  },
-  {
-    "id": 37,
-    "nivel": 2,
-    "tema": "Repolarización",
-    "pregunta": "Durante la repolarización, la entrada de Na⁺ disminuye y aumenta la salida de K⁺. ¿Qué efecto eléctrico produce esto?",
-    "correcta_texto": "El interior vuelve hacia valores negativos",
-    "alternativas": [
-      "El interior vuelve hacia valores negativos",
-      "El interior se hace progresivamente más positivo",
-      "El voltaje permanece fijo en +40 mV",
-      "La membrana pierde toda diferencia de carga"
-    ],
-    "feedbackIncorrecto": {
-      "El interior se hace progresivamente más positivo": "No es correcta porque «El interior se hace progresivamente más positivo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "El voltaje permanece fijo en +40 mV": "No es correcta porque «El voltaje permanece fijo en +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La membrana pierde toda diferencia de carga": "No es correcta porque «La membrana pierde toda diferencia de carga» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "La salida de cargas positivas favorece la recuperación de la negatividad interna."
-  },
-  {
-    "id": 38,
-    "nivel": 2,
-    "tema": "Todo o nada",
-    "pregunta": "Dos estímulos suprumbrales de distinta intensidad activan la misma neurona. ¿Qué ocurre con la amplitud del potencial de acción?",
-    "correcta_texto": "La amplitud es esencialmente la misma",
-    "alternativas": [
-      "La amplitud es esencialmente la misma",
-      "El estímulo más intenso produce un potencial de doble amplitud",
-      "El estímulo más débil produce un potencial incompleto",
-      "La amplitud depende linealmente de la intensidad del estímulo"
-    ],
-    "feedbackIncorrecto": {
-      "El estímulo más intenso produce un potencial de doble amplitud": "No es correcta porque «El estímulo más intenso produce un potencial de doble amplitud» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "El estímulo más débil produce un potencial incompleto": "No es correcta porque «El estímulo más débil produce un potencial incompleto» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "La amplitud depende linealmente de la intensidad del estímulo": "No es correcta porque «La amplitud depende linealmente de la intensidad del estímulo» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
-    },
-    "ideaClave": "Una vez superado el umbral, el potencial se genera con amplitud estereotipada."
-  },
-  {
-    "id": 39,
-    "nivel": 2,
-    "tema": "Canales de Na⁺",
-    "pregunta": "¿Qué cambio en los canales de Na⁺ ayuda a terminar la fase de despolarización?",
-    "correcta_texto": "Su inactivación",
-    "alternativas": [
-      "Su inactivación",
-      "Su apertura sostenida",
-      "Su conversión en canales de K⁺",
-      "Su bombeo activo de Na⁺ hacia afuera"
-    ],
-    "feedbackIncorrecto": {
-      "Su apertura sostenida": "No es correcta porque «Su apertura sostenida» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Su conversión en canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Su bombeo activo de Na⁺ hacia afuera": "No es correcta porque «Su bombeo activo de Na⁺ hacia afuera» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "La inactivación de Na⁺ limita la entrada de carga positiva."
-  },
-  {
-    "id": 40,
-    "nivel": 2,
-    "tema": "Excitabilidad",
-    "pregunta": "¿Qué condición hace que una membrana sea menos excitable durante la hiperpolarización?",
-    "correcta_texto": "Está más lejos del umbral",
-    "alternativas": [
-      "Está más lejos del umbral",
-      "Está más cerca de +40 mV",
-      "Tiene todos los canales de Na⁺ abiertos",
-      "Ha perdido su gradiente de K⁺ por completo"
-    ],
-    "feedbackIncorrecto": {
-      "Está más cerca de +40 mV": "No es correcta porque «Está más cerca de +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Tiene todos los canales de Na⁺ abiertos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Ha perdido su gradiente de K⁺ por completo": "No es correcta porque «Ha perdido su gradiente de K⁺ por completo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "Un voltaje más negativo requiere una despolarización mayor para alcanzar el umbral."
-  },
-  {
-    "id": 41,
-    "nivel": 3,
-    "tema": "Gradiente electroquímico",
-    "pregunta": "¿Qué explica mejor que la salida de K⁺ disminuya a medida que el interior se vuelve más negativo?",
-    "correcta_texto": "El gradiente eléctrico comienza a oponerse al gradiente químico",
-    "alternativas": [
-      "El gradiente eléctrico comienza a oponerse al gradiente químico",
-      "El gradiente químico desaparece porque se acaba el K⁺ intracelular",
-      "Los canales de K⁺ se convierten en bombas",
-      "El Na⁺ extracelular bloquea físicamente al K⁺"
-    ],
-    "feedbackIncorrecto": {
-      "El gradiente químico desaparece porque se acaba el K⁺ intracelular": "No es correcta porque «El gradiente químico desaparece porque se acaba el K⁺ intracelular» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Los canales de K⁺ se convierten en bombas": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "El Na⁺ extracelular bloquea físicamente al K⁺": "No es correcta porque «El Na⁺ extracelular bloquea físicamente al K⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "El equilibrio surge cuando las fuerzas química y eléctrica se contrarrestan."
-  },
-  {
-    "id": 42,
-    "nivel": 3,
-    "tema": "Potencial de difusión",
-    "pregunta": "¿Por qué una membrana permeable solo a K⁺ desarrolla un interior negativo?",
-    "correcta_texto": "El K⁺ sale dejando aniones intracelulares no difusibles",
-    "alternativas": [
-      "El K⁺ sale dejando aniones intracelulares no difusibles",
-      "El Na⁺ entra y neutraliza el citoplasma",
-      "Los aniones salen con mayor rapidez que K⁺",
-      "La bomba expulsa proteínas negativas"
-    ],
-    "feedbackIncorrecto": {
-      "El Na⁺ entra y neutraliza el citoplasma": "No es correcta porque «El Na⁺ entra y neutraliza el citoplasma» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Los aniones salen con mayor rapidez que K⁺": "No es correcta porque «Los aniones salen con mayor rapidez que K⁺» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "La bomba expulsa proteínas negativas": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
-    },
-    "ideaClave": "La separación de cargas origina el potencial de difusión."
-  },
-  {
-    "id": 43,
-    "nivel": 3,
-    "tema": "Potencial de difusión",
-    "pregunta": "¿Por qué una membrana permeable solo a Na⁺ tiende a hacer positivo el interior?",
-    "correcta_texto": "El Na⁺ entra siguiendo su gradiente de concentración",
-    "alternativas": [
-      "El Na⁺ entra siguiendo su gradiente de concentración",
-      "El K⁺ entra en mayor cantidad",
-      "Las proteínas intracelulares se vuelven positivas",
-      "El Cl⁻ abandona completamente la célula"
-    ],
-    "feedbackIncorrecto": {
-      "El K⁺ entra en mayor cantidad": "No es correcta porque «El K⁺ entra en mayor cantidad» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Las proteínas intracelulares se vuelven positivas": "No es correcta porque «Las proteínas intracelulares se vuelven positivas» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "El Cl⁻ abandona completamente la célula": "No es correcta porque «El Cl⁻ abandona completamente la célula» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "La entrada de Na⁺ aporta cargas positivas al interior."
-  },
-  {
-    "id": 44,
-    "nivel": 3,
-    "tema": "Reposo y acción",
-    "pregunta": "¿Qué relación existe entre potencial de reposo y potencial de acción?",
-    "correcta_texto": "El potencial de acción es una modificación transitoria del potencial de membrana de una célula excitable",
-    "alternativas": [
-      "El potencial de acción es una modificación transitoria del potencial de membrana de una célula excitable",
-      "Son fenómenos independientes sin relación eléctrica",
-      "El potencial de reposo aparece solo después de cada sinapsis",
-      "El potencial de acción elimina de forma permanente el potencial de reposo"
-    ],
-    "feedbackIncorrecto": {
-      "Son fenómenos independientes sin relación eléctrica": "No es correcta porque «Son fenómenos independientes sin relación eléctrica» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "El potencial de reposo aparece solo después de cada sinapsis": "No es correcta porque «El potencial de reposo aparece solo después de cada sinapsis» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "El potencial de acción elimina de forma permanente el potencial de reposo": "No es correcta porque «El potencial de acción elimina de forma permanente el potencial de reposo» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
-    },
-    "ideaClave": "El potencial de acción parte desde un estado eléctrico basal y luego retorna a él."
-  },
-  {
-    "id": 45,
-    "nivel": 3,
-    "tema": "Umbral y canales",
-    "pregunta": "¿Qué secuencia representa mejor el inicio del potencial de acción?",
-    "correcta_texto": "Despolarización hasta umbral → apertura de canales de Na⁺ → entrada rápida de Na⁺",
-    "alternativas": [
-      "Despolarización hasta umbral → apertura de canales de Na⁺ → entrada rápida de Na⁺",
-      "Apertura de K⁺ → hiperpolarización → umbral",
-      "Bomba Na⁺/K⁺ → +40 mV → entrada de Na⁺",
-      "Salida de Cl⁻ → repolarización → umbral"
-    ],
-    "feedbackIncorrecto": {
-      "Apertura de K⁺ → hiperpolarización → umbral": "No es correcta porque «Apertura de K⁺ → hiperpolarización → umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Bomba Na⁺/K⁺ → +40 mV → entrada de Na⁺": "No es correcta porque «Bomba Na⁺/K⁺ → +40 mV → entrada de Na⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "Salida de Cl⁻ → repolarización → umbral": "No es correcta porque «Salida de Cl⁻ → repolarización → umbral» no corresponde al flujo iónico característico del fenómeno planteado."
-    },
-    "ideaClave": "El umbral desencadena la apertura regenerativa de canales de Na⁺."
-  },
-  {
-    "id": 46,
-    "nivel": 3,
-    "tema": "Pico y repolarización",
-    "pregunta": "¿Qué transición explica el paso desde el pico del potencial hacia la repolarización?",
-    "correcta_texto": "Inactivación de canales de Na⁺ y apertura de canales de K⁺",
-    "alternativas": [
-      "Inactivación de canales de Na⁺ y apertura de canales de K⁺",
-      "Apertura sostenida de canales de Na⁺",
-      "Cierre de todos los canales de K⁺",
-      "Entrada simultánea de Na⁺ y K⁺ en grandes cantidades"
-    ],
-    "feedbackIncorrecto": {
-      "Apertura sostenida de canales de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Cierre de todos los canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Entrada simultánea de Na⁺ y K⁺ en grandes cantidades": "No es correcta porque «Entrada simultánea de Na⁺ y K⁺ en grandes cantidades» produciría un efecto eléctrico distinto al de la fase descrita en la pregunta."
-    },
-    "ideaClave": "La disminución de entrada de Na⁺ y aumento de salida de K⁺ invierten la tendencia del voltaje."
-  },
-  {
-    "id": 47,
-    "nivel": 3,
-    "tema": "Hiperpolarización",
-    "pregunta": "¿Qué relación explica que la hiperpolarización siga a la repolarización?",
-    "correcta_texto": "Los canales de K⁺ permanecen abiertos un tiempo adicional",
-    "alternativas": [
-      "Los canales de K⁺ permanecen abiertos un tiempo adicional",
-      "Los canales de Na⁺ se mantienen abiertos por más tiempo",
-      "La bomba introduce K⁺ tan rápido que vuelve positivo el interior",
-      "El Cl⁻ sale masivamente al exterior"
-    ],
-    "feedbackIncorrecto": {
-      "Los canales de Na⁺ se mantienen abiertos por más tiempo": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "La bomba introduce K⁺ tan rápido que vuelve positivo el interior": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "El Cl⁻ sale masivamente al exterior": "No es correcta porque «El Cl⁻ sale masivamente al exterior» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "La conductancia persistente al K⁺ lleva el voltaje por debajo del reposo."
-  },
-  {
-    "id": 48,
-    "nivel": 3,
-    "tema": "Periodo refractario",
-    "pregunta": "¿Cómo se relaciona la inactivación de canales de Na⁺ con el periodo refractario absoluto?",
-    "correcta_texto": "Mientras permanecen inactivos no pueden reabrirse para generar otro potencial",
-    "alternativas": [
-      "Mientras permanecen inactivos no pueden reabrirse para generar otro potencial",
-      "La inactivación facilita potenciales de mayor frecuencia",
-      "La inactivación solo afecta a canales de K⁺",
-      "La inactivación aumenta la amplitud del potencial siguiente"
-    ],
-    "feedbackIncorrecto": {
-      "La inactivación facilita potenciales de mayor frecuencia": "No es correcta porque «La inactivación facilita potenciales de mayor frecuencia» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "La inactivación solo afecta a canales de K⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "La inactivación aumenta la amplitud del potencial siguiente": "No es correcta porque «La inactivación aumenta la amplitud del potencial siguiente» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
-    },
-    "ideaClave": "La recuperación de los canales de Na⁺ es necesaria para recuperar excitabilidad."
-  },
-  {
-    "id": 49,
-    "nivel": 3,
-    "tema": "Periodo refractario relativo",
-    "pregunta": "¿Qué combinación explica el periodo refractario relativo?",
-    "correcta_texto": "Parte de los canales de Na⁺ se ha recuperado, pero la membrana aún puede estar hiperpolarizada",
-    "alternativas": [
-      "Parte de los canales de Na⁺ se ha recuperado, pero la membrana aún puede estar hiperpolarizada",
-      "Todos los canales de Na⁺ siguen inactivos y la membrana está en +40 mV",
-      "La membrana está exactamente en reposo y todos los canales están cerrados",
-      "No existen gradientes iónicos durante este periodo"
-    ],
-    "feedbackIncorrecto": {
-      "Todos los canales de Na⁺ siguen inactivos y la membrana está en +40 mV": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "La membrana está exactamente en reposo y todos los canales están cerrados": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "No existen gradientes iónicos durante este periodo": "No es correcta porque «No existen gradientes iónicos durante este periodo» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
-    },
-    "ideaClave": "La excitabilidad vuelve gradualmente y puede requerirse un estímulo mayor."
-  },
-  {
-    "id": 50,
-    "nivel": 3,
-    "tema": "Todo o nada",
-    "pregunta": "¿Por qué un estímulo subumbral no produce un potencial de acción completo?",
-    "correcta_texto": "No activa suficientes canales de Na⁺ dependientes de voltaje para iniciar la respuesta regenerativa",
-    "alternativas": [
-      "No activa suficientes canales de Na⁺ dependientes de voltaje para iniciar la respuesta regenerativa",
-      "Porque abre demasiados canales de K⁺ de inmediato",
-      "Porque la bomba Na⁺/K⁺ bloquea todo cambio de voltaje",
-      "Porque el interior ya está a +40 mV"
-    ],
-    "feedbackIncorrecto": {
-      "Porque abre demasiados canales de K⁺ de inmediato": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Porque la bomba Na⁺/K⁺ bloquea todo cambio de voltaje": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "Porque el interior ya está a +40 mV": "No es correcta porque «Porque el interior ya está a +40 mV» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
-    },
-    "ideaClave": "La respuesta regenerativa comienza al alcanzar el umbral."
-  },
-  {
-    "id": 51,
-    "nivel": 3,
-    "tema": "Propagación",
-    "pregunta": "¿Qué relación permite que el potencial de acción avance sin perder amplitud?",
-    "correcta_texto": "La despolarización de una región lleva a la siguiente región al umbral",
-    "alternativas": [
-      "La despolarización de una región lleva a la siguiente región al umbral",
-      "La misma corriente viaja intacta hasta el final sin activar canales nuevos",
-      "La bomba Na⁺/K⁺ genera un nuevo potencial en cada punto",
-      "El neurotransmisor circula por el interior del axón"
-    ],
-    "feedbackIncorrecto": {
-      "La misma corriente viaja intacta hasta el final sin activar canales nuevos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "La bomba Na⁺/K⁺ genera un nuevo potencial en cada punto": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "El neurotransmisor circula por el interior del axón": "No es correcta porque «El neurotransmisor circula por el interior del axón» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
-    },
-    "ideaClave": "Cada segmento activado desencadena el siguiente."
-  },
-  {
-    "id": 52,
-    "nivel": 3,
-    "tema": "Direccionalidad",
-    "pregunta": "¿Cómo contribuye el periodo refractario a la propagación unidireccional?",
-    "correcta_texto": "Impide que la región recién activada responda inmediatamente otra vez",
-    "alternativas": [
-      "Impide que la región recién activada responda inmediatamente otra vez",
-      "Aumenta la permeabilidad al Na⁺ detrás del frente de onda",
-      "Mantiene todos los canales de Na⁺ abiertos hacia atrás",
-      "Elimina el gradiente eléctrico en la región previa"
-    ],
-    "feedbackIncorrecto": {
-      "Aumenta la permeabilidad al Na⁺ detrás del frente de onda": "No es correcta porque «Aumenta la permeabilidad al Na⁺ detrás del frente de onda» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Mantiene todos los canales de Na⁺ abiertos hacia atrás": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Elimina el gradiente eléctrico en la región previa": "No es correcta porque «Elimina el gradiente eléctrico en la región previa» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
-    },
-    "ideaClave": "La región posterior queda temporalmente inexitable."
-  },
-  {
-    "id": 53,
-    "nivel": 3,
     "tema": "Sinapsis",
-    "pregunta": "¿Qué secuencia describe mejor la transmisión química entre neuronas?",
-    "correcta_texto": "Potencial de acción terminal → liberación de neurotransmisor → unión a receptor → cambio iónico postsináptico",
+    "pregunta": "Si un potencial llega al terminal axónico pero no se libera neurotransmisor, ¿qué consecuencia es más directa?",
+    "correcta_texto": "La neurona postsináptica no recibe la señal química necesaria",
     "alternativas": [
-      "Potencial de acción terminal → liberación de neurotransmisor → unión a receptor → cambio iónico postsináptico",
-      "Neurotransmisor → potencial presináptico → fusión nuclear → señal",
-      "Potencial postsináptico → liberación presináptica → receptor",
-      "K⁺ extracelular → neurotransmisor → potencial de acción terminal"
+      "El potencial cruza el espacio sináptico de todos modos",
+      "El neurotransmisor aparece espontáneamente en la célula receptora",
+      "La neurona postsináptica alcanza el umbral automáticamente",
+      "La neurona postsináptica no recibe la señal química necesaria"
     ],
     "feedbackIncorrecto": {
-      "Neurotransmisor → potencial presináptico → fusión nuclear → señal": "No es correcta porque «Neurotransmisor → potencial presináptico → fusión nuclear → señal» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Potencial postsináptico → liberación presináptica → receptor": "No es correcta porque «Potencial postsináptico → liberación presináptica → receptor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "K⁺ extracelular → neurotransmisor → potencial de acción terminal": "No es correcta porque «K⁺ extracelular → neurotransmisor → potencial de acción terminal» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "El potencial cruza el espacio sináptico de todos modos": "En una sinapsis química el voltaje no atraviesa físicamente el espacio sináptico.",
+      "La neurona postsináptica alcanza el umbral automáticamente": "Sin señal química no existe razón para asumir que la célula receptora alcance el umbral.",
+      "El neurotransmisor aparece espontáneamente en la célula receptora": "El neurotransmisor debe provenir de la terminal presináptica."
     },
-    "ideaClave": "La señal cambia de eléctrica a química y luego vuelve a eléctrica."
+    "ideaClave": "La transmisión química requiere liberación presináptica."
   },
   {
-    "id": 54,
-    "nivel": 3,
-    "tema": "Na⁺/K⁺",
-    "pregunta": "¿Qué relación entre canales y bomba Na⁺/K⁺ es correcta?",
-    "correcta_texto": "Los canales generan cambios rápidos de voltaje y la bomba mantiene gradientes a largo plazo",
+    "id": 136,
+    "nivel": 2,
+    "tema": "Sinapsis postsináptica",
+    "pregunta": "¿Qué evento permite convertir nuevamente la señal química en eléctrica en la neurona postsináptica?",
+    "correcta_texto": "La modificación de conductancias iónicas al activarse receptores",
     "alternativas": [
-      "Los canales generan cambios rápidos de voltaje y la bomba mantiene gradientes a largo plazo",
-      "La bomba genera directamente la fase ascendente y los canales restauran gradientes",
-      "Ambos cumplen exactamente la misma función",
-      "Los canales consumen ATP y la bomba funciona de manera pasiva"
+      "La duplicación instantánea del gradiente de K⁺",
+      "La modificación de conductancias iónicas al activarse receptores",
+      "El ingreso del neurotransmisor al núcleo",
+      "La conversión del neurotransmisor en ATP"
     ],
     "feedbackIncorrecto": {
-      "La bomba genera directamente la fase ascendente y los canales restauran gradientes": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Ambos cumplen exactamente la misma función": "No es correcta porque «Ambos cumplen exactamente la misma función» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Los canales consumen ATP y la bomba funciona de manera pasiva": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
+      "El ingreso del neurotransmisor al núcleo": "La respuesta postsináptica ocurre principalmente en la membrana, no por entrada del mensajero al núcleo.",
+      "La conversión del neurotransmisor en ATP": "El neurotransmisor funciona como señal, no como combustible para crear voltaje.",
+      "La duplicación instantánea del gradiente de K⁺": "No es necesario duplicar gradientes para generar un cambio postsináptico."
     },
-    "ideaClave": "Canales y bomba cumplen funciones complementarias."
+    "ideaClave": "Los receptores modifican flujos iónicos y, con ello, el voltaje."
   },
   {
-    "id": 55,
-    "nivel": 3,
-    "tema": "Reposo",
-    "pregunta": "¿Por qué el potencial de reposo es negativo si existe mucho K⁺ dentro de la célula?",
-    "correcta_texto": "Porque la membrana es altamente permeable al K⁺ y su salida deja cargas negativas no difusibles",
+    "id": 137,
+    "nivel": 2,
+    "tema": "Todo o nada",
+    "pregunta": "Dos estímulos suprumbrales de diferente intensidad actúan sobre la misma neurona. ¿Qué se espera de la amplitud de cada potencial?",
+    "correcta_texto": "Será aproximadamente similar",
     "alternativas": [
-      "Porque la membrana es altamente permeable al K⁺ y su salida deja cargas negativas no difusibles",
-      "Porque el Na⁺ entra de manera continua y vuelve negativo el interior",
-      "Porque las proteínas negativas salen por canales de fuga",
-      "Porque el Cl⁻ intracelular es el único ion relevante"
+      "El estímulo menor producirá medio potencial",
+      "El estímulo mayor cambiará el ion que genera la despolarización",
+      "Será aproximadamente similar",
+      "Será proporcional a la intensidad del estímulo"
     ],
     "feedbackIncorrecto": {
-      "Porque el Na⁺ entra de manera continua y vuelve negativo el interior": "No es correcta porque «Porque el Na⁺ entra de manera continua y vuelve negativo el interior» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Porque las proteínas negativas salen por canales de fuga": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Porque el Cl⁻ intracelular es el único ion relevante": "No es correcta porque «Porque el Cl⁻ intracelular es el único ion relevante» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
+      "Será proporcional a la intensidad del estímulo": "La intensidad suprumbral no se codifica linealmente en la amplitud del potencial individual.",
+      "El estímulo menor producirá medio potencial": "No existe un potencial de acción parcial una vez superado el umbral.",
+      "El estímulo mayor cambiará el ion que genera la despolarización": "El mecanismo iónico básico no cambia por usar un estímulo más intenso."
     },
-    "ideaClave": "La combinación de gradientes y permeabilidad selectiva explica la negatividad en reposo."
+    "ideaClave": "La amplitud individual es estereotipada una vez alcanzado el umbral."
   },
   {
-    "id": 56,
-    "nivel": 3,
-    "tema": "Excitabilidad",
-    "pregunta": "Una célula pasa de −70 mV a −80 mV. ¿Cómo cambia su excitabilidad respecto al umbral de −55 mV?",
-    "correcta_texto": "Disminuye porque queda más lejos del umbral",
-    "alternativas": [
-      "Disminuye porque queda más lejos del umbral",
-      "Aumenta porque queda más cerca del umbral",
-      "No cambia porque solo importa el Na⁺ extracelular",
-      "Aumenta porque los canales de K⁺ se inactivan"
-    ],
-    "feedbackIncorrecto": {
-      "Aumenta porque queda más cerca del umbral": "No es correcta porque «Aumenta porque queda más cerca del umbral» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "No cambia porque solo importa el Na⁺ extracelular": "No es correcta porque «No cambia porque solo importa el Na⁺ extracelular» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "Aumenta porque los canales de K⁺ se inactivan": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
-    },
-    "ideaClave": "Cuanto más negativa está la membrana, mayor despolarización necesita para alcanzar el umbral."
-  },
-  {
-    "id": 57,
-    "nivel": 3,
+    "id": 138,
+    "nivel": 2,
     "tema": "Frecuencia",
-    "pregunta": "¿Qué limita la frecuencia máxima con que una neurona puede generar potenciales de acción?",
+    "pregunta": "¿Qué factor limita de forma directa la frecuencia máxima de disparo de una neurona?",
     "correcta_texto": "La duración de los periodos refractarios",
     "alternativas": [
+      "La presencia de neurotransmisor dentro del axón",
       "La duración de los periodos refractarios",
-      "El valor del potencial de reposo por sí solo",
-      "La presencia de Cl⁻ extracelular",
-      "La cantidad total de proteínas citoplasmáticas"
+      "La cantidad total de K⁺ intracelular",
+      "La amplitud del primer potencial"
     ],
     "feedbackIncorrecto": {
-      "El valor del potencial de reposo por sí solo": "No es correcta porque «El valor del potencial de reposo por sí solo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La presencia de Cl⁻ extracelular": "No es correcta porque «La presencia de Cl⁻ extracelular» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La cantidad total de proteínas citoplasmáticas": "No es correcta porque «La cantidad total de proteínas citoplasmáticas» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "La amplitud del primer potencial": "La amplitud del primer potencial no determina cuánto tarda la membrana en recuperar excitabilidad.",
+      "La cantidad total de K⁺ intracelular": "Cada potencial moviliza una fracción pequeña del K⁺ total.",
+      "La presencia de neurotransmisor dentro del axón": "El neurotransmisor no circula dentro del axón como limitante de la frecuencia."
     },
-    "ideaClave": "Los periodos refractarios establecen un intervalo mínimo entre potenciales."
+    "ideaClave": "La recuperación de excitabilidad establece un intervalo mínimo entre potenciales."
   },
   {
-    "id": 58,
+    "id": 139,
+    "nivel": 2,
+    "tema": "Excitabilidad",
+    "pregunta": "Una neurona pasa de −70 a −63 mV sin alcanzar el umbral. ¿Cómo cambia su estado inmediato?",
+    "correcta_texto": "Queda más cerca del umbral",
+    "alternativas": [
+      "Queda más lejos del umbral",
+      "Entra automáticamente en periodo refractario absoluto",
+      "Queda más cerca del umbral",
+      "Pierde permanentemente el gradiente de Na⁺"
+    ],
+    "feedbackIncorrecto": {
+      "Queda más lejos del umbral": "−63 mV es menos negativo que −70 mV y por tanto está más próximo al umbral.",
+      "Entra automáticamente en periodo refractario absoluto": "La refractariedad absoluta requiere activación e inactivación de canales durante un potencial.",
+      "Pierde permanentemente el gradiente de Na⁺": "Una despolarización subumbral no elimina los gradientes iónicos."
+    },
+    "ideaClave": "Una despolarización subumbral puede aumentar temporalmente la excitabilidad."
+  },
+  {
+    "id": 140,
+    "nivel": 2,
+    "tema": "Gradiente de Na⁺",
+    "pregunta": "Si disminuye el gradiente electroquímico que impulsa la entrada de Na⁺, ¿qué efecto se espera sobre la fase ascendente?",
+    "correcta_texto": "Menor corriente entrante de Na⁺ y despolarización menos vigorosa",
+    "alternativas": [
+      "Menor corriente entrante de Na⁺ y despolarización menos vigorosa",
+      "Conversión de canales de Na⁺ en canales de K⁺",
+      "Ausencia total de efecto",
+      "Mayor entrada de Na⁺"
+    ],
+    "feedbackIncorrecto": {
+      "Mayor entrada de Na⁺": "Reducir la fuerza impulsora no aumenta la entrada del mismo ion.",
+      "Ausencia total de efecto": "La fase ascendente depende del flujo de Na⁺ y por tanto sí se ve afectada.",
+      "Conversión de canales de Na⁺ en canales de K⁺": "Cambiar un gradiente no modifica la selectividad estructural del canal."
+    },
+    "ideaClave": "La corriente depende de conductancia y fuerza impulsora."
+  },
+  {
+    "id": 141,
+    "nivel": 3,
+    "tema": "Retroalimentación positiva",
+    "pregunta": "¿Por qué alcanzar el umbral produce una fase ascendente rápida en vez de una despolarización estable pequeña?",
+    "correcta_texto": "Porque la entrada inicial de Na⁺ abre más canales de Na⁺ dependientes de voltaje",
+    "alternativas": [
+      "Porque la salida de K⁺ aumenta de forma regenerativa",
+      "Porque los canales de Na⁺ dejan de responder al voltaje",
+      "Porque la bomba Na⁺/K⁺ se detiene",
+      "Porque la entrada inicial de Na⁺ abre más canales de Na⁺ dependientes de voltaje"
+    ],
+    "feedbackIncorrecto": {
+      "Porque la bomba Na⁺/K⁺ se detiene": "La bomba no necesita detenerse para que aparezca la fase ascendente.",
+      "Porque la salida de K⁺ aumenta de forma regenerativa": "Una salida creciente de K⁺ se opone a la despolarización.",
+      "Porque los canales de Na⁺ dejan de responder al voltaje": "La sensibilidad al voltaje de los canales de Na⁺ es precisamente la base del mecanismo regenerativo."
+    },
+    "ideaClave": "La fase ascendente utiliza retroalimentación positiva de Na⁺."
+  },
+  {
+    "id": 142,
+    "nivel": 3,
+    "tema": "Equilibrio de K⁺",
+    "pregunta": "Una membrana permeable solo a K⁺ desarrolla negatividad interna. ¿Por qué el K⁺ deja de salir netamente antes de igualar las concentraciones?",
+    "correcta_texto": "Porque el gradiente eléctrico creciente se opone al gradiente químico",
+    "alternativas": [
+      "Porque el Na⁺ extracelular entra por esos mismos canales",
+      "Porque el gradiente eléctrico creciente se opone al gradiente químico",
+      "Porque el K⁺ pierde su carga",
+      "Porque todos los canales se cierran obligatoriamente"
+    ],
+    "feedbackIncorrecto": {
+      "Porque el K⁺ pierde su carga": "La carga del K⁺ no cambia.",
+      "Porque todos los canales se cierran obligatoriamente": "El equilibrio puede alcanzarse por balance de fuerzas sin que todos los canales se cierren.",
+      "Porque el Na⁺ extracelular entra por esos mismos canales": "Un canal selectivo para K⁺ no se vuelve automáticamente permeable a Na⁺."
+    },
+    "ideaClave": "El equilibrio electroquímico no exige igualar concentraciones."
+  },
+  {
+    "id": 143,
     "nivel": 3,
     "tema": "Repolarización",
-    "pregunta": "Si la salida de K⁺ se prolonga más de lo normal, ¿qué cambio se espera?",
-    "correcta_texto": "Una hiperpolarización más marcada o más prolongada",
+    "pregunta": "¿Qué cambio en corrientes explica mejor el paso desde el pico hacia la repolarización?",
+    "correcta_texto": "Disminución de corriente entrante de Na⁺ y aumento de corriente saliente de K⁺",
     "alternativas": [
-      "Una hiperpolarización más marcada o más prolongada",
-      "Un pico de despolarización mayor",
-      "Pérdida completa del umbral",
-      "Entrada sostenida de Na⁺"
+      "Aumento de Na⁺ entrante y disminución de K⁺ saliente",
+      "Aumento simultáneo de Na⁺ y Ca²⁺ entrantes",
+      "Disminución de corriente entrante de Na⁺ y aumento de corriente saliente de K⁺",
+      "Cese completo de toda corriente iónica"
     ],
     "feedbackIncorrecto": {
-      "Un pico de despolarización mayor": "No es correcta porque «Un pico de despolarización mayor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Pérdida completa del umbral": "No es correcta porque «Pérdida completa del umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Entrada sostenida de Na⁺": "No es correcta porque «Entrada sostenida de Na⁺» no corresponde al flujo iónico característico del fenómeno planteado."
+      "Aumento simultáneo de Na⁺ y Ca²⁺ entrantes": "Aumentar corrientes positivas entrantes mantendría la despolarización.",
+      "Cese completo de toda corriente iónica": "La repolarización requiere una corriente neta que cambie el voltaje, no ausencia total de corriente.",
+      "Aumento de Na⁺ entrante y disminución de K⁺ saliente": "Esta combinación también favorece mantener el interior positivo."
     },
-    "ideaClave": "La salida excesiva de K⁺ vuelve el interior más negativo."
+    "ideaClave": "El balance de corrientes se desplaza hacia salida neta de carga positiva."
   },
   {
-    "id": 59,
+    "id": 144,
     "nivel": 3,
-    "tema": "Na⁺",
-    "pregunta": "Si aumenta la permeabilidad al Na⁺ en una membrana excitable, ¿qué tendencia eléctrica se espera?",
-    "correcta_texto": "Despolarización",
+    "tema": "Refractariedad absoluta",
+    "pregunta": "¿Por qué la recuperación de canales de Na⁺ es necesaria para terminar el periodo refractario absoluto?",
+    "correcta_texto": "Porque un canal recuperado puede volver a activarse ante una nueva despolarización",
     "alternativas": [
-      "Despolarización",
-      "Hiperpolarización",
-      "Ningún cambio",
-      "Repolarización inmediata"
+      "Porque un canal inactivado conduce más Na⁺",
+      "Porque los canales recuperados se transforman en canales de K⁺",
+      "Porque un canal recuperado puede volver a activarse ante una nueva despolarización",
+      "Porque la recuperación elimina el gradiente de Na⁺"
     ],
     "feedbackIncorrecto": {
-      "Hiperpolarización": "No es correcta porque «Hiperpolarización» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Ningún cambio": "No es correcta porque «Ningún cambio» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Repolarización inmediata": "No es correcta porque «Repolarización inmediata» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Porque un canal inactivado conduce más Na⁺": "El estado inactivado es no conductor.",
+      "Porque la recuperación elimina el gradiente de Na⁺": "La recuperación cambia el estado del canal, no elimina el gradiente de concentración.",
+      "Porque los canales recuperados se transforman en canales de K⁺": "La identidad y selectividad del canal no cambian durante su ciclo funcional."
     },
-    "ideaClave": "La entrada de Na⁺ lleva el voltaje hacia valores más positivos."
+    "ideaClave": "La disponibilidad de canales determina la capacidad de disparar nuevamente."
   },
   {
-    "id": 60,
+    "id": 145,
     "nivel": 3,
-    "tema": "K⁺",
-    "pregunta": "Si aumenta la permeabilidad al K⁺, ¿qué tendencia eléctrica general se espera?",
-    "correcta_texto": "El potencial se desplaza hacia valores más negativos",
+    "tema": "Periodo relativo",
+    "pregunta": "¿Qué combinación explica que durante el periodo refractario relativo se necesite un estímulo mayor?",
+    "correcta_texto": "Recuperación incompleta de canales de Na⁺ y membrana todavía hiperpolarizada",
     "alternativas": [
-      "El potencial se desplaza hacia valores más negativos",
-      "El potencial se vuelve más positivo por entrada de K⁺",
-      "El voltaje queda fijado en 0 mV",
-      "Se alcanza automáticamente +40 mV"
+      "Recuperación incompleta de canales de Na⁺ y membrana todavía hiperpolarizada",
+      "Ausencia de gradientes iónicos",
+      "Desaparición del umbral",
+      "Todos los canales de Na⁺ abiertos y membrana positiva"
     ],
     "feedbackIncorrecto": {
-      "El potencial se vuelve más positivo por entrada de K⁺": "No es correcta porque «El potencial se vuelve más positivo por entrada de K⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "El voltaje queda fijado en 0 mV": "No es correcta porque «El voltaje queda fijado en 0 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Se alcanza automáticamente +40 mV": "No es correcta porque «Se alcanza automáticamente +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Todos los canales de Na⁺ abiertos y membrana positiva": "Canales abiertos de forma masiva favorecerían despolarización, no menor excitabilidad.",
+      "Ausencia de gradientes iónicos": "Los gradientes siguen existiendo durante un potencial normal.",
+      "Desaparición del umbral": "El umbral no desaparece; cambia la facilidad para alcanzarlo."
     },
-    "ideaClave": "La salida de K⁺ favorece negatividad intracelular."
+    "ideaClave": "La menor excitabilidad resulta de disponibilidad parcial de canales y mayor distancia al umbral."
   },
   {
-    "id": 61,
-    "nivel": 4,
-    "tema": "Caso umbral",
-    "pregunta": "Una neurona en −70 mV recibe un estímulo que la lleva a −54 mV. ¿Qué evento es más probable a continuación?",
-    "correcta_texto": "Apertura masiva de canales de Na⁺ dependientes de voltaje y despolarización rápida",
+    "id": 146,
+    "nivel": 3,
+    "tema": "Propagación",
+    "pregunta": "¿Cómo se relacionan corriente local y umbral durante la propagación axonal?",
+    "correcta_texto": "La corriente local despolariza la región vecina hasta que esta genera su propio potencial",
     "alternativas": [
-      "Apertura masiva de canales de Na⁺ dependientes de voltaje y despolarización rápida",
-      "Hiperpolarización inmediata por entrada de K⁺",
-      "Cierre de todos los canales iónicos",
-      "Retorno pasivo a reposo sin potencial de acción"
+      "Los gradientes iónicos migran a lo largo de la membrana",
+      "La corriente local despolariza la región vecina hasta que esta genera su propio potencial",
+      "Cada segmento libera neurotransmisor sobre el siguiente",
+      "El potencial completo se desplaza físicamente por el axón"
     ],
     "feedbackIncorrecto": {
-      "Hiperpolarización inmediata por entrada de K⁺": "No es correcta porque «Hiperpolarización inmediata por entrada de K⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "Cierre de todos los canales iónicos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "Retorno pasivo a reposo sin potencial de acción": "No es correcta porque «Retorno pasivo a reposo sin potencial de acción» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "El potencial completo se desplaza físicamente por el axón": "El potencial no es una estructura física que se traslade intacta.",
+      "Los gradientes iónicos migran a lo largo de la membrana": "Los gradientes se mantienen a través de la membrana de cada región.",
+      "Cada segmento libera neurotransmisor sobre el siguiente": "La transmisión entre segmentos axonales es eléctrica, no sináptica."
     },
-    "ideaClave": "Al superar el umbral de aproximadamente −55 mV se inicia el potencial de acción."
+    "ideaClave": "La propagación es activación secuencial de regiones vecinas."
   },
   {
-    "id": 62,
-    "nivel": 4,
-    "tema": "Caso subumbral",
-    "pregunta": "Una neurona pasa de −70 mV a −58 mV y luego vuelve al reposo. ¿Cuál es la mejor explicación?",
-    "correcta_texto": "El estímulo fue subumbral y no activó la respuesta regenerativa de Na⁺",
+    "id": 147,
+    "nivel": 3,
+    "tema": "Direccionalidad",
+    "pregunta": "Las corrientes locales pueden extenderse hacia ambos lados desde una zona activa. ¿Por qué la propagación neta sigue siendo unidireccional?",
+    "correcta_texto": "La región posterior permanece temporalmente refractaria",
     "alternativas": [
-      "El estímulo fue subumbral y no activó la respuesta regenerativa de Na⁺",
-      "Se produjo un potencial de acción completo de baja amplitud",
-      "La membrana entró en periodo refractario absoluto",
-      "Se alcanzó +40 mV pero no se registró"
+      "La región posterior permanece temporalmente refractaria",
+      "El Na⁺ solo existe por delante",
+      "La bomba Na⁺/K⁺ funciona solo hacia el terminal",
+      "La corriente no puede viajar hacia atrás"
     ],
     "feedbackIncorrecto": {
-      "Se produjo un potencial de acción completo de baja amplitud": "No es correcta porque «Se produjo un potencial de acción completo de baja amplitud» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "La membrana entró en periodo refractario absoluto": "No es correcta porque «La membrana entró en periodo refractario absoluto» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Se alcanzó +40 mV pero no se registró": "No es correcta porque «Se alcanzó +40 mV pero no se registró» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
+      "La corriente no puede viajar hacia atrás": "La corriente eléctrica local sí puede extenderse en ambas direcciones.",
+      "El Na⁺ solo existe por delante": "El Na⁺ extracelular está presente a lo largo de todo el axón.",
+      "La bomba Na⁺/K⁺ funciona solo hacia el terminal": "La bomba no cambia su sentido de acción según la dirección del impulso."
     },
-    "ideaClave": "Los estímulos subumbrales no generan un potencial de acción completo."
+    "ideaClave": "La refractariedad impide reexcitar inmediatamente la región posterior."
   },
   {
-    "id": 63,
-    "nivel": 4,
-    "tema": "Caso Na⁺",
-    "pregunta": "Un fármaco bloquea selectivamente canales de Na⁺ dependientes de voltaje. ¿Qué efecto directo se espera?",
-    "correcta_texto": "Disminución o abolición de la fase de despolarización rápida",
+    "id": 148,
+    "nivel": 3,
+    "tema": "Bomba y canales",
+    "pregunta": "¿Qué relación entre canales iónicos y bomba Na⁺/K⁺ es fisiológicamente correcta?",
+    "correcta_texto": "Los canales producen cambios rápidos de voltaje y la bomba mantiene gradientes a largo plazo",
     "alternativas": [
-      "Disminución o abolición de la fase de despolarización rápida",
-      "Aumento de la hiperpolarización por K⁺",
-      "Mayor liberación de neurotransmisor por sí sola",
-      "Aumento del potencial de reposo a +40 mV"
+      "Ambos realizan transporte activo con ATP",
+      "Los canales producen cambios rápidos de voltaje y la bomba mantiene gradientes a largo plazo",
+      "Los canales mantienen gradientes sin flujo neto",
+      "La bomba genera cada fase rápida y los canales restauran gradientes"
     ],
     "feedbackIncorrecto": {
-      "Aumento de la hiperpolarización por K⁺": "No es correcta porque «Aumento de la hiperpolarización por K⁺» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Mayor liberación de neurotransmisor por sí sola": "No es correcta porque «Mayor liberación de neurotransmisor por sí sola» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Aumento del potencial de reposo a +40 mV": "No es correcta porque «Aumento del potencial de reposo a +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "La bomba genera cada fase rápida y los canales restauran gradientes": "La velocidad de las fases rápidas depende de canales, no de la bomba.",
+      "Ambos realizan transporte activo con ATP": "Los canales permiten transporte pasivo a favor del gradiente.",
+      "Los canales mantienen gradientes sin flujo neto": "Los canales tienden a disipar gradientes cuando permiten flujo."
     },
-    "ideaClave": "La fase ascendente depende de la entrada de Na⁺."
+    "ideaClave": "Canales y bomba cumplen funciones distintas pero complementarias."
   },
   {
-    "id": 64,
-    "nivel": 4,
-    "tema": "Caso K⁺",
-    "pregunta": "Un fármaco retrasa la apertura de canales de K⁺ dependientes de voltaje. ¿Qué efecto es más probable?",
-    "correcta_texto": "Repolarización más lenta",
+    "id": 149,
+    "nivel": 3,
+    "tema": "Codificación",
+    "pregunta": "Si la amplitud de los potenciales individuales es prácticamente constante, ¿cómo puede una neurona representar un estímulo más intenso?",
+    "correcta_texto": "Aumentando la frecuencia de potenciales de acción",
     "alternativas": [
-      "Repolarización más lenta",
-      "Despolarización imposible desde el inicio",
-      "Periodo refractario absoluto inexistente",
-      "Potencial de reposo fijado en +61 mV"
+      "Aumentando indefinidamente la amplitud de cada potencial",
+      "Aumentando la frecuencia de potenciales de acción",
+      "Sustituyendo Na⁺ por K⁺ en la fase ascendente",
+      "Cambiando la carga del Na⁺"
     ],
     "feedbackIncorrecto": {
-      "Despolarización imposible desde el inicio": "No es correcta porque «Despolarización imposible desde el inicio» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Periodo refractario absoluto inexistente": "No es correcta porque «Periodo refractario absoluto inexistente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Potencial de reposo fijado en +61 mV": "No es correcta porque «Potencial de reposo fijado en +61 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Aumentando indefinidamente la amplitud de cada potencial": "La ley del todo o nada limita la codificación por amplitud del potencial individual.",
+      "Cambiando la carga del Na⁺": "La valencia del Na⁺ no cambia con la intensidad del estímulo.",
+      "Sustituyendo Na⁺ por K⁺ en la fase ascendente": "El mecanismo iónico básico de la fase ascendente no se reemplaza por otro ion solo por intensificar el estímulo."
     },
-    "ideaClave": "La salida de K⁺ es esencial para la repolarización."
+    "ideaClave": "La frecuencia puede codificar intensidad cuando la amplitud individual es estereotipada."
   },
   {
-    "id": 65,
-    "nivel": 4,
-    "tema": "Caso hiperpolarización",
-    "pregunta": "Una neurona permanece más tiempo de lo normal por debajo de −70 mV después de un potencial. ¿Qué mecanismo es más probable?",
-    "correcta_texto": "Cierre tardío de canales de K⁺",
+    "id": 150,
+    "nivel": 3,
+    "tema": "Distancia al umbral",
+    "pregunta": "Dos neuronas comparten un umbral de −55 mV; una está en −68 mV y otra en −82 mV. ¿Cuál necesita una mayor despolarización?",
+    "correcta_texto": "La neurona a −82 mV",
     "alternativas": [
-      "Cierre tardío de canales de K⁺",
-      "Inactivación precoz de K⁺",
-      "Entrada excesiva de Na⁺",
-      "Apertura permanente de canales de Ca²⁺"
+      "La neurona a −68 mV",
+      "La neurona a −82 mV",
+      "Ambas requieren el mismo cambio",
+      "La neurona a −68 mV porque está más cerca"
     ],
     "feedbackIncorrecto": {
-      "Inactivación precoz de K⁺": "No es correcta porque «Inactivación precoz de K⁺» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Entrada excesiva de Na⁺": "No es correcta porque «Entrada excesiva de Na⁺» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "Apertura permanente de canales de Ca²⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
+      "La neurona a −68 mV": "−68 mV está más próximo al umbral y requiere un cambio menor.",
+      "Ambas requieren el mismo cambio": "Partir de voltajes distintos implica distancias eléctricas diferentes hasta el mismo umbral.",
+      "La neurona a −68 mV porque está más cerca": "Estar más cerca reduce, no aumenta, la despolarización necesaria."
     },
-    "ideaClave": "La salida prolongada de K⁺ prolonga la hiperpolarización."
+    "ideaClave": "La distancia eléctrica hasta el umbral condiciona la excitabilidad."
   },
   {
-    "id": 66,
-    "nivel": 4,
-    "tema": "Caso refractario absoluto",
-    "pregunta": "Durante la fase inmediatamente posterior al pico se aplica un estímulo muy intenso y no aparece otro potencial. ¿Qué explica esto?",
-    "correcta_texto": "Los canales de Na⁺ aún están inactivos",
+    "id": 151,
+    "nivel": 3,
+    "tema": "Na⁺ y fuerza impulsora",
+    "pregunta": "¿Por qué una reducción del gradiente electroquímico de Na⁺ puede disminuir la velocidad de despolarización aun si los canales se abren?",
+    "correcta_texto": "Porque disminuye la fuerza impulsora para la corriente de Na⁺",
     "alternativas": [
-      "Los canales de Na⁺ aún están inactivos",
-      "La neurona perdió permanentemente sus gradientes",
-      "El umbral desapareció",
-      "Los canales de K⁺ se transformaron en canales de Na⁺"
+      "Porque los canales pierden su selectividad",
+      "Porque disminuye la fuerza impulsora para la corriente de Na⁺",
+      "Porque el K⁺ deja de existir intracelularmente",
+      "Porque el Na⁺ cambia su carga"
     ],
     "feedbackIncorrecto": {
-      "La neurona perdió permanentemente sus gradientes": "No es correcta porque «La neurona perdió permanentemente sus gradientes» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "El umbral desapareció": "No es correcta porque «El umbral desapareció» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Los canales de K⁺ se transformaron en canales de Na⁺": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
+      "Porque los canales pierden su selectividad": "El gradiente no determina la identidad estructural del canal.",
+      "Porque el Na⁺ cambia su carga": "El Na⁺ conserva su carga positiva.",
+      "Porque el K⁺ deja de existir intracelularmente": "Modificar el gradiente de Na⁺ no elimina el K⁺ intracelular."
     },
-    "ideaClave": "La inactivación de Na⁺ sustenta el periodo refractario absoluto."
+    "ideaClave": "La corriente depende tanto de la conductancia como de la fuerza impulsora."
   },
   {
-    "id": 67,
-    "nivel": 4,
-    "tema": "Caso refractario relativo",
-    "pregunta": "Una neurona hiperpolarizada genera un segundo potencial solo ante un estímulo muy intenso. ¿Qué periodo atraviesa?",
-    "correcta_texto": "Periodo refractario relativo",
+    "id": 152,
+    "nivel": 3,
+    "tema": "K⁺ y poshiperpolarización",
+    "pregunta": "¿Por qué una conductancia al K⁺ más prolongada aumenta la poshiperpolarización?",
+    "correcta_texto": "Porque mantiene una salida de carga positiva durante más tiempo",
     "alternativas": [
-      "Periodo refractario relativo",
-      "Periodo refractario absoluto",
-      "Fase de reposo estable",
-      "Fase de despolarización máxima"
+      "Porque transforma el K⁺ en un anión",
+      "Porque elimina el gradiente eléctrico",
+      "Porque aumenta la entrada de Na⁺",
+      "Porque mantiene una salida de carga positiva durante más tiempo"
     ],
     "feedbackIncorrecto": {
-      "Periodo refractario absoluto": "No es correcta porque «Periodo refractario absoluto» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Fase de reposo estable": "No es correcta porque «Fase de reposo estable» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito.",
-      "Fase de despolarización máxima": "No es correcta porque «Fase de despolarización máxima» no coincide con el grado de excitabilidad de la membrana durante el periodo refractario descrito."
+      "Porque aumenta la entrada de Na⁺": "Una mayor entrada de Na⁺ tendría el efecto opuesto.",
+      "Porque elimina el gradiente eléctrico": "La hiperpolarización implica una diferencia eléctrica, no su eliminación.",
+      "Porque transforma el K⁺ en un anión": "La carga del K⁺ no cambia."
     },
-    "ideaClave": "En el periodo relativo la excitabilidad está reducida, pero puede recuperarse con estímulos mayores."
+    "ideaClave": "La corriente saliente de K⁺ vuelve el interior más negativo."
   },
   {
-    "id": 68,
-    "nivel": 4,
-    "tema": "Caso propagación",
-    "pregunta": "Un segmento axonal alcanza el umbral y el segmento siguiente se despolariza. ¿Qué principio explica la continuidad del impulso?",
-    "correcta_texto": "La corriente local lleva regiones adyacentes al umbral y regenera el potencial de acción",
+    "id": 153,
+    "nivel": 3,
+    "tema": "Sinapsis química",
+    "pregunta": "¿Por qué se habla de conversión eléctrica-química-eléctrica en una sinapsis química?",
+    "correcta_texto": "El potencial presináptico libera neurotransmisor y este modifica conductancias postsinápticas",
     "alternativas": [
-      "La corriente local lleva regiones adyacentes al umbral y regenera el potencial de acción",
-      "La señal se desplaza sin necesidad de activar canales adicionales",
-      "El neurotransmisor difunde dentro del axón",
-      "La bomba Na⁺/K⁺ genera directamente cada potencial"
+      "El potencial se convierte materialmente en una molécula",
+      "El neurotransmisor transporta electrones a la neurona siguiente",
+      "La membrana postsináptica copia directamente el voltaje presináptico",
+      "El potencial presináptico libera neurotransmisor y este modifica conductancias postsinápticas"
     ],
     "feedbackIncorrecto": {
-      "La señal se desplaza sin necesidad de activar canales adicionales": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "El neurotransmisor difunde dentro del axón": "No es correcta porque «El neurotransmisor difunde dentro del axón» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "La bomba Na⁺/K⁺ genera directamente cada potencial": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado."
+      "El potencial se convierte materialmente en una molécula": "La señal eléctrica desencadena liberación química, no se convierte físicamente en neurotransmisor.",
+      "El neurotransmisor transporta electrones a la neurona siguiente": "Los neurotransmisores se unen a receptores; no actúan como un cable electrónico.",
+      "La membrana postsináptica copia directamente el voltaje presináptico": "La respuesta postsináptica depende de sus propios receptores y canales."
     },
-    "ideaClave": "La propagación depende de la regeneración secuencial del potencial."
+    "ideaClave": "La sinapsis química enlaza un evento eléctrico con señal química y nuevo cambio eléctrico."
   },
   {
-    "id": 69,
-    "nivel": 4,
-    "tema": "Caso amplitud",
-    "pregunta": "Un estímulo suprumbral moderado y otro muy intenso producen potenciales de acción en la misma neurona. ¿Qué diferencia se espera en la amplitud de cada potencial?",
-    "correcta_texto": "La amplitud será esencialmente la misma",
+    "id": 154,
+    "nivel": 3,
+    "tema": "Subumbral",
+    "pregunta": "¿Por qué una despolarización hasta −58 mV no genera un potencial completo si el umbral está alrededor de −55 mV?",
+    "correcta_texto": "Porque no activa suficiente retroalimentación regenerativa de Na⁺",
     "alternativas": [
-      "La amplitud será esencialmente la misma",
-      "El estímulo intenso duplicará la amplitud",
-      "El estímulo moderado producirá un potencial incompleto",
-      "La amplitud dependerá linealmente del estímulo"
+      "Porque no activa suficiente retroalimentación regenerativa de Na⁺",
+      "Porque la bomba bloquea cualquier cambio menor a −55 mV",
+      "Porque activa obligatoriamente el periodo refractario absoluto",
+      "Porque elimina todo el K⁺ extracelular"
     ],
     "feedbackIncorrecto": {
-      "El estímulo intenso duplicará la amplitud": "No es correcta porque «El estímulo intenso duplicará la amplitud» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "El estímulo moderado producirá un potencial incompleto": "No es correcta porque «El estímulo moderado producirá un potencial incompleto» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "La amplitud dependerá linealmente del estímulo": "No es correcta porque «La amplitud dependerá linealmente del estímulo» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
+      "Porque activa obligatoriamente el periodo refractario absoluto": "La refractariedad absoluta aparece tras un potencial, no por no alcanzar el umbral.",
+      "Porque elimina todo el K⁺ extracelular": "Una despolarización subumbral no elimina el K⁺ extracelular.",
+      "Porque la bomba bloquea cualquier cambio menor a −55 mV": "La bomba no actúa como una barrera que prohíba voltajes subumbrales."
     },
-    "ideaClave": "La ley del todo o nada mantiene una amplitud estereotipada una vez superado el umbral."
+    "ideaClave": "El umbral representa el punto en que la activación de Na⁺ se vuelve regenerativa."
   },
   {
-    "id": 70,
-    "nivel": 4,
-    "tema": "Caso dirección",
-    "pregunta": "¿Por qué un potencial de acción que avanza por un axón no activa nuevamente de inmediato la región que acaba de recorrer?",
-    "correcta_texto": "Porque esa región está en periodo refractario",
+    "id": 155,
+    "nivel": 3,
+    "tema": "Potencial transitorio",
+    "pregunta": "¿Qué secuencia explica que el potencial de acción sea rápido y transitorio?",
+    "correcta_texto": "Activación rápida de Na⁺ seguida por inactivación de Na⁺ y activación de K⁺",
     "alternativas": [
-      "Porque esa región está en periodo refractario",
-      "Porque ya no contiene K⁺",
-      "Porque la bomba Na⁺/K⁺ bloquea el axón",
-      "Porque los neurotransmisores solo viajan hacia adelante dentro del axón"
+      "Activación rápida de Na⁺ seguida por inactivación de Na⁺ y activación de K⁺",
+      "Cierre simultáneo de todos los canales",
+      "Apertura permanente de Na⁺ sin cambios de K⁺",
+      "Acción exclusiva de la bomba Na⁺/K⁺"
     ],
     "feedbackIncorrecto": {
-      "Porque ya no contiene K⁺": "No es correcta porque «Porque ya no contiene K⁺» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "Porque la bomba Na⁺/K⁺ bloquea el axón": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "Porque los neurotransmisores solo viajan hacia adelante dentro del axón": "No es correcta porque «Porque los neurotransmisores solo viajan hacia adelante dentro del axón» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
+      "Apertura permanente de Na⁺ sin cambios de K⁺": "Una corriente persistente de Na⁺ impediría terminar la despolarización.",
+      "Cierre simultáneo de todos los canales": "Sin corrientes secuenciales no se producirían las distintas fases.",
+      "Acción exclusiva de la bomba Na⁺/K⁺": "La bomba no tiene la cinética necesaria para explicar cambios de milisegundos."
     },
-    "ideaClave": "La refractariedad evita la reexcitación inmediata."
+    "ideaClave": "La secuencia temporal de conductancias produce una señal breve."
   },
   {
-    "id": 71,
-    "nivel": 4,
-    "tema": "Caso sinapsis",
-    "pregunta": "Un potencial de acción llega al terminal axónico, pero no se liberan neurotransmisores. ¿Qué consecuencia inmediata se espera en la neurona postsináptica?",
-    "correcta_texto": "No se producirá la señal química necesaria para modificar sus canales iónicos",
+    "id": 156,
+    "nivel": 3,
+    "tema": "Frecuencia máxima",
+    "pregunta": "¿Cómo limita el periodo refractario absoluto la frecuencia máxima de disparo?",
+    "correcta_texto": "Impone un intervalo mínimo durante el cual no puede iniciarse otro potencial",
     "alternativas": [
-      "No se producirá la señal química necesaria para modificar sus canales iónicos",
-      "El potencial de acción saltará directamente al citoplasma postsináptico",
-      "La neurona postsináptica se despolarizará igual por contacto físico",
-      "La membrana postsináptica alcanzará +40 mV automáticamente"
+      "Aumenta la amplitud del siguiente potencial",
+      "Impone un intervalo mínimo durante el cual no puede iniciarse otro potencial",
+      "Permite superponer potenciales con estímulos fuertes",
+      "Hace que la frecuencia dependa solo del tamaño del axón"
     ],
     "feedbackIncorrecto": {
-      "El potencial de acción saltará directamente al citoplasma postsináptico": "No es correcta porque «El potencial de acción saltará directamente al citoplasma postsináptico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "La neurona postsináptica se despolarizará igual por contacto físico": "No es correcta porque «La neurona postsináptica se despolarizará igual por contacto físico» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal.",
-      "La membrana postsináptica alcanzará +40 mV automáticamente": "No es correcta porque «La membrana postsináptica alcanzará +40 mV automáticamente» no explica la regeneración secuencial del potencial de acción a lo largo de la membrana axonal."
+      "Aumenta la amplitud del siguiente potencial": "La refractariedad afecta disponibilidad temporal, no amplitud.",
+      "Permite superponer potenciales con estímulos fuertes": "En el periodo absoluto ningún estímulo puede generar un segundo potencial.",
+      "Hace que la frecuencia dependa solo del tamaño del axón": "El tamaño del axón no elimina la necesidad de recuperar canales."
     },
-    "ideaClave": "En una sinapsis química, la liberación de neurotransmisor es necesaria para transmitir la señal."
+    "ideaClave": "No puede existir un nuevo potencial hasta recuperar suficiente disponibilidad de canales."
   },
   {
-    "id": 72,
-    "nivel": 4,
-    "tema": "Caso bomba",
-    "pregunta": "Si la bomba Na⁺/K⁺ se inhibe por un tiempo prolongado, ¿qué proceso se compromete progresivamente?",
-    "correcta_texto": "El mantenimiento de los gradientes de Na⁺ y K⁺",
+    "id": 157,
+    "nivel": 3,
+    "tema": "Na⁺ inactivado y K⁺ reducido",
+    "pregunta": "Si los canales de Na⁺ se inactivan normalmente pero la conductancia al K⁺ es baja, ¿qué patrón se espera?",
+    "correcta_texto": "Fase ascendente relativamente conservada y repolarización lenta",
     "alternativas": [
-      "El mantenimiento de los gradientes de Na⁺ y K⁺",
-      "La apertura instantánea de canales de Na⁺ por voltaje",
-      "La existencia del periodo refractario absoluto en un único potencial aislado",
-      "La unión del neurotransmisor a su receptor"
+      "Ausencia total de despolarización",
+      "Fase ascendente relativamente conservada y repolarización lenta",
+      "Hiperpolarización muy profunda",
+      "Repolarización acelerada"
     ],
     "feedbackIncorrecto": {
-      "La apertura instantánea de canales de Na⁺ por voltaje": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita.",
-      "La existencia del periodo refractario absoluto en un único potencial aislado": "No es correcta porque «La existencia del periodo refractario absoluto en un único potencial aislado» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La unión del neurotransmisor a su receptor": "No es correcta porque «La unión del neurotransmisor a su receptor» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Ausencia total de despolarización": "La fase ascendente puede ocurrir si los canales de Na⁺ se activan correctamente.",
+      "Repolarización acelerada": "Menos salida de K⁺ no acelera el retorno hacia valores negativos.",
+      "Hiperpolarización muy profunda": "Una menor conductancia al K⁺ tiende a reducir, no aumentar, la hiperpolarización."
     },
-    "ideaClave": "La bomba mantiene los gradientes que sostienen la excitabilidad a largo plazo."
+    "ideaClave": "Na⁺ domina la fase ascendente y K⁺ la recuperación hacia voltajes negativos."
   },
   {
-    "id": 73,
-    "nivel": 4,
-    "tema": "Caso reposo",
-    "pregunta": "Una neurona tiene el interior menos negativo de lo habitual y se encuentra más cerca de −55 mV. ¿Qué cambio funcional es esperable?",
-    "correcta_texto": "Necesitará una despolarización menor para alcanzar el umbral",
+    "id": 158,
+    "nivel": 3,
+    "tema": "Bomba breve",
+    "pregunta": "¿Por qué una inhibición muy breve de la bomba Na⁺/K⁺ no necesariamente impide un potencial de acción aislado?",
+    "correcta_texto": "Porque los gradientes iónicos preexistentes no desaparecen de inmediato",
     "alternativas": [
-      "Necesitará una despolarización menor para alcanzar el umbral",
-      "Necesitará una despolarización mayor",
-      "No podrá generar potenciales de acción",
-      "Entrará directamente en hiperpolarización"
+      "Porque los gradientes iónicos preexistentes no desaparecen de inmediato",
+      "Porque los canales crean nuevos gradientes usando ATP",
+      "Porque el K⁺ deja de atravesar la membrana",
+      "Porque la bomba no tiene ninguna función neuronal"
     ],
     "feedbackIncorrecto": {
-      "Necesitará una despolarización mayor": "No es correcta porque «Necesitará una despolarización mayor» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "No podrá generar potenciales de acción": "No es correcta porque «No podrá generar potenciales de acción» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación.",
-      "Entrará directamente en hiperpolarización": "No es correcta porque «Entrará directamente en hiperpolarización» no es coherente con la distribución iónica y la permeabilidad de membrana descritas en la situación."
+      "Porque la bomba no tiene ninguna función neuronal": "La bomba sí es esencial para mantener gradientes a largo plazo.",
+      "Porque los canales crean nuevos gradientes usando ATP": "Los canales permiten flujo pasivo y no recrean gradientes mediante ATP.",
+      "Porque el K⁺ deja de atravesar la membrana": "Los canales de K⁺ pueden seguir conduciendo aunque la bomba se detenga."
     },
-    "ideaClave": "Estar más cerca del umbral facilita alcanzar el disparo."
+    "ideaClave": "La pérdida de gradientes por inhibición de la bomba es progresiva."
   },
   {
-    "id": 74,
-    "nivel": 4,
-    "tema": "Caso hiperpolarización",
-    "pregunta": "Una neurona está en −85 mV. Comparada con una neurona en −70 mV, ¿qué estímulo requerirá para llegar al umbral?",
-    "correcta_texto": "Un estímulo despolarizante mayor",
+    "id": 159,
+    "nivel": 3,
+    "tema": "Conducción fallida",
+    "pregunta": "¿Qué condición puede detener la propagación aun si un segmento axonal genera un potencial normal?",
+    "correcta_texto": "Que la corriente local no lleve al segmento vecino hasta su umbral",
     "alternativas": [
-      "Un estímulo despolarizante mayor",
-      "Un estímulo menor",
-      "El mismo estímulo siempre",
-      "Ningún estímulo porque ya superó el umbral"
+      "Que no se libere neurotransmisor entre segmentos",
+      "Que el primer segmento no aumente su amplitud",
+      "Que el potencial no pueda viajar como partícula",
+      "Que la corriente local no lleve al segmento vecino hasta su umbral"
     ],
     "feedbackIncorrecto": {
-      "Un estímulo menor": "No es correcta porque «Un estímulo menor» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "El mismo estímulo siempre": "No es correcta porque «El mismo estímulo siempre» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción.",
-      "Ningún estímulo porque ya superó el umbral": "No es correcta porque «Ningún estímulo porque ya superó el umbral» no describe adecuadamente la relación entre el nivel de despolarización alcanzado y el disparo del potencial de acción."
+      "Que el primer segmento no aumente su amplitud": "La amplitud del primer segmento no se ajusta para compensar el umbral vecino.",
+      "Que no se libere neurotransmisor entre segmentos": "No se necesita neurotransmisor para la conducción dentro del mismo axón.",
+      "Que el potencial no pueda viajar como partícula": "El potencial no es una partícula; la propagación depende de regeneración local."
     },
-    "ideaClave": "Una membrana más negativa está más alejada del umbral."
+    "ideaClave": "Cada segmento debe alcanzar su propio umbral."
   },
   {
-    "id": 75,
-    "nivel": 4,
-    "tema": "Caso Na⁺ y voltaje",
-    "pregunta": "Durante la fase ascendente se registra una entrada intensa de Na⁺. ¿Qué cambio eléctrico acompaña este flujo?",
-    "correcta_texto": "El interior se vuelve rápidamente menos negativo y luego positivo",
+    "id": 160,
+    "nivel": 3,
+    "tema": "Estado de canales",
+    "pregunta": "¿Qué diferencia funcional existe entre un canal de Na⁺ cerrado y disponible y uno inactivado?",
+    "correcta_texto": "El cerrado disponible puede abrirse ante despolarización; el inactivado no puede hacerlo de inmediato",
     "alternativas": [
-      "El interior se vuelve rápidamente menos negativo y luego positivo",
-      "El interior se vuelve más negativo",
-      "El voltaje permanece en −70 mV",
-      "La membrana se hiperpolariza"
+      "Ambos conducen Na⁺ de forma continua",
+      "El inactivado conduce más corriente",
+      "El cerrado disponible puede abrirse ante despolarización; el inactivado no puede hacerlo de inmediato",
+      "El cerrado disponible es en realidad un canal de K⁺"
     ],
     "feedbackIncorrecto": {
-      "El interior se vuelve más negativo": "No es correcta porque «El interior se vuelve más negativo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "El voltaje permanece en −70 mV": "No es correcta porque «El voltaje permanece en −70 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La membrana se hiperpolariza": "No es correcta porque «La membrana se hiperpolariza» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Ambos conducen Na⁺ de forma continua": "Ninguno conduce mientras esté cerrado o inactivado.",
+      "El inactivado conduce más corriente": "El estado inactivado es no conductor.",
+      "El cerrado disponible es en realidad un canal de K⁺": "La identidad del canal no cambia con su estado funcional."
     },
-    "ideaClave": "La entrada de cargas positivas produce despolarización."
+    "ideaClave": "Disponibilidad e inactivación son claves para excitabilidad y refractariedad."
   },
   {
-    "id": 76,
+    "id": 161,
     "nivel": 4,
-    "tema": "Caso K⁺ y voltaje",
-    "pregunta": "Después del pico se registra salida intensa de K⁺. ¿Qué cambio eléctrico acompaña este flujo?",
-    "correcta_texto": "El interior vuelve hacia valores negativos",
+    "tema": "Bloqueo de Na⁺",
+    "pregunta": "Un anestésico local bloquea canales de Na⁺ dependientes de voltaje en un axón. ¿Qué consecuencia funcional es más probable?",
+    "correcta_texto": "Disminución de la generación y propagación de potenciales de acción",
     "alternativas": [
-      "El interior vuelve hacia valores negativos",
-      "El interior se hace aún más positivo",
-      "Se mantiene exactamente en +40 mV",
-      "Se pierde toda separación de cargas"
+      "Disminución de la generación y propagación de potenciales de acción",
+      "Repolarización más rápida por aumento directo de K⁺",
+      "Aumento de la amplitud por mayor entrada de Na⁺",
+      "Mayor liberación de neurotransmisor aunque no llegue un potencial"
     ],
     "feedbackIncorrecto": {
-      "El interior se hace aún más positivo": "No es correcta porque «El interior se hace aún más positivo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Se mantiene exactamente en +40 mV": "No es correcta porque «Se mantiene exactamente en +40 mV» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Se pierde toda separación de cargas": "No es correcta porque «Se pierde toda separación de cargas» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Aumento de la amplitud por mayor entrada de Na⁺": "El bloqueo reduce la entrada de Na⁺ y por tanto no puede aumentar la amplitud.",
+      "Repolarización más rápida por aumento directo de K⁺": "Bloquear Na⁺ no incrementa directamente la conductancia al K⁺.",
+      "Mayor liberación de neurotransmisor aunque no llegue un potencial": "La liberación sináptica normal depende de la llegada del potencial al terminal."
     },
-    "ideaClave": "La salida de K⁺ favorece la repolarización."
+    "ideaClave": "Los canales de Na⁺ son esenciales para la fase ascendente y la conducción."
   },
   {
-    "id": 77,
+    "id": 162,
     "nivel": 4,
-    "tema": "Caso frecuencia",
-    "pregunta": "Dos estímulos llegan con muy poco intervalo entre ellos. El segundo no genera respuesta aunque es intenso. ¿Qué explicación es más probable?",
-    "correcta_texto": "El segundo estímulo llegó durante el periodo refractario absoluto",
+    "tema": "K⁺ prolongado",
+    "pregunta": "Un fármaco prolonga la apertura de canales de K⁺ después de cada potencial. ¿Qué combinación es más probable?",
+    "correcta_texto": "Hiperpolarización prolongada y menor excitabilidad transitoria",
     "alternativas": [
-      "El segundo estímulo llegó durante el periodo refractario absoluto",
-      "El primer estímulo agotó permanentemente el Na⁺ extracelular",
-      "La bomba Na⁺/K⁺ se detuvo de forma irreversible",
-      "La membrana perdió todos sus canales iónicos"
+      "Desaparición del periodo refractario absoluto",
+      "Despolarización sostenida y mayor excitabilidad",
+      "Entrada masiva de K⁺ con interior más positivo",
+      "Hiperpolarización prolongada y menor excitabilidad transitoria"
     ],
     "feedbackIncorrecto": {
-      "El primer estímulo agotó permanentemente el Na⁺ extracelular": "No es correcta porque «El primer estímulo agotó permanentemente el Na⁺ extracelular» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La bomba Na⁺/K⁺ se detuvo de forma irreversible": "No es correcta porque la bomba Na⁺/K⁺ mantiene gradientes iónicos a largo plazo, pero no explica por sí sola el cambio rápido de voltaje planteado.",
-      "La membrana perdió todos sus canales iónicos": "No es correcta porque el estado funcional de los canales de Na⁺ indicado en esa alternativa no coincide con la fase del potencial de acción descrita."
+      "Despolarización sostenida y mayor excitabilidad": "La salida prolongada de K⁺ hace el interior más negativo, no más positivo.",
+      "Desaparición del periodo refractario absoluto": "La refractariedad absoluta se relaciona principalmente con la inactivación de Na⁺.",
+      "Entrada masiva de K⁺ con interior más positivo": "El gradiente de K⁺ favorece su salida durante estas fases."
     },
-    "ideaClave": "Durante el periodo absoluto no puede generarse otro potencial."
+    "ideaClave": "Más corriente de K⁺ prolonga la distancia al umbral."
   },
   {
-    "id": 78,
+    "id": 163,
     "nivel": 4,
-    "tema": "Caso frecuencia",
-    "pregunta": "Un segundo estímulo llega algo más tarde y solo genera respuesta cuando es más intenso que el primero. ¿Qué explica esto?",
-    "correcta_texto": "La membrana está en periodo refractario relativo",
+    "tema": "Excitabilidad comparada",
+    "pregunta": "Dos neuronas tienen el mismo umbral; una está en −64 mV y otra en −79 mV. Ante el mismo estímulo excitador, ¿cuál tiene mayor probabilidad de disparar?",
+    "correcta_texto": "La neurona a −64 mV",
     "alternativas": [
-      "La membrana está en periodo refractario relativo",
-      "La neurona se encuentra en reposo completo",
-      "La amplitud del potencial depende del estímulo",
-      "La membrana está en el pico de despolarización"
+      "Ambas necesariamente igual",
+      "La neurona a −79 mV",
+      "La de −79 mV por tener un interior más negativo",
+      "La neurona a −64 mV"
     ],
     "feedbackIncorrecto": {
-      "La neurona se encuentra en reposo completo": "No es correcta porque «La neurona se encuentra en reposo completo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La amplitud del potencial depende del estímulo": "No es correcta porque «La amplitud del potencial depende del estímulo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La membrana está en el pico de despolarización": "No es correcta porque «La membrana está en el pico de despolarización» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "La neurona a −79 mV": "−79 mV está más alejado del umbral.",
+      "Ambas necesariamente igual": "Partir desde voltajes distintos cambia cuánto debe despolarizarse cada membrana.",
+      "La de −79 mV por tener un interior más negativo": "Un interior más negativo aumenta la distancia al umbral, no la reduce."
     },
-    "ideaClave": "En el periodo relativo el umbral efectivo es más difícil de alcanzar."
+    "ideaClave": "La excitabilidad depende, entre otros factores, de la distancia hasta el umbral."
   },
   {
-    "id": 79,
+    "id": 164,
     "nivel": 4,
-    "tema": "Caso integración",
-    "pregunta": "¿Cuál secuencia describe mejor un potencial de acción completo?",
-    "correcta_texto": "Reposo → umbral → despolarización por Na⁺ → repolarización por K⁺ → hiperpolarización → retorno al reposo",
+    "tema": "Refractario absoluto",
+    "pregunta": "Una neurona responde al primer estímulo pero no a otro estímulo intenso 1 ms después. Más tarde vuelve a responder. ¿Qué explica mejor el fallo transitorio?",
+    "correcta_texto": "Inactivación temporal de una fracción importante de canales de Na⁺",
     "alternativas": [
-      "Reposo → umbral → despolarización por Na⁺ → repolarización por K⁺ → hiperpolarización → retorno al reposo",
-      "Reposo → hiperpolarización → entrada de K⁺ → +40 mV → umbral",
-      "Umbral → salida de Na⁺ → despolarización → entrada de K⁺ → reposo",
-      "Reposo → repolarización → liberación de neurotransmisor → umbral"
+      "Inactivación temporal de una fracción importante de canales de Na⁺",
+      "Pérdida irreversible de canales de K⁺",
+      "Agotamiento completo del Na⁺ extracelular",
+      "Fallo permanente de la bomba Na⁺/K⁺"
     ],
     "feedbackIncorrecto": {
-      "Reposo → hiperpolarización → entrada de K⁺ → +40 mV → umbral": "No es correcta porque «Reposo → hiperpolarización → entrada de K⁺ → +40 mV → umbral» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "Umbral → salida de Na⁺ → despolarización → entrada de K⁺ → reposo": "No es correcta porque «Umbral → salida de Na⁺ → despolarización → entrada de K⁺ → reposo» no corresponde al flujo iónico característico del fenómeno planteado.",
-      "Reposo → repolarización → liberación de neurotransmisor → umbral": "No es correcta porque «Reposo → repolarización → liberación de neurotransmisor → umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Agotamiento completo del Na⁺ extracelular": "Un potencial moviliza una fracción mínima del Na⁺ disponible.",
+      "Pérdida irreversible de canales de K⁺": "La recuperación posterior demuestra que no hubo pérdida irreversible de canales.",
+      "Fallo permanente de la bomba Na⁺/K⁺": "Un fallo permanente de la bomba no explica una recuperación rápida y espontánea."
     },
-    "ideaClave": "El potencial de acción sigue una secuencia organizada de cambios de conductancia iónica."
+    "ideaClave": "La refractariedad absoluta es reversible y depende de estados de canales."
   },
   {
-    "id": 80,
+    "id": 165,
     "nivel": 4,
-    "tema": "Caso fisiológico",
-    "pregunta": "Una toxina impide la recuperación de los canales de Na⁺ desde su estado inactivo. ¿Qué efecto se espera sobre la capacidad de generar nuevos potenciales?",
-    "correcta_texto": "Se prolongará la refractariedad y disminuirá la capacidad de disparar nuevos potenciales",
+    "tema": "Refractario relativo",
+    "pregunta": "Un segundo estímulo solo desencadena un potencial si su intensidad es mayor que la del primero. ¿Qué combinación es más coherente?",
+    "correcta_texto": "Recuperación parcial de Na⁺ y persistencia de hiperpolarización",
     "alternativas": [
-      "Se prolongará la refractariedad y disminuirá la capacidad de disparar nuevos potenciales",
-      "Aumentará la frecuencia máxima de disparo",
-      "Desaparecerá la necesidad de alcanzar el umbral",
-      "La hiperpolarización se convertirá en despolarización permanente"
+      "El umbral dejó de existir",
+      "Los gradientes iónicos desaparecieron",
+      "Recuperación parcial de Na⁺ y persistencia de hiperpolarización",
+      "Todos los canales de Na⁺ permanecen abiertos"
     ],
     "feedbackIncorrecto": {
-      "Aumentará la frecuencia máxima de disparo": "No es correcta porque «Aumentará la frecuencia máxima de disparo» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "Desaparecerá la necesidad de alcanzar el umbral": "No es correcta porque «Desaparecerá la necesidad de alcanzar el umbral» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta.",
-      "La hiperpolarización se convertirá en despolarización permanente": "No es correcta porque «La hiperpolarización se convertirá en despolarización permanente» describe un mecanismo diferente al fenómeno fisiológico planteado en esta pregunta."
+      "Todos los canales de Na⁺ permanecen abiertos": "Una apertura masiva sostenida favorecería despolarización, no menor excitabilidad.",
+      "Los gradientes iónicos desaparecieron": "Los gradientes no desaparecen después de un potencial normal.",
+      "El umbral dejó de existir": "El umbral sigue existiendo; la membrana simplemente está más lejos o menos disponible."
     },
-    "ideaClave": "La recuperación de canales de Na⁺ es esencial para recuperar excitabilidad."
+    "ideaClave": "El periodo relativo combina recuperación incompleta y menor excitabilidad."
+  },
+  {
+    "id": 166,
+    "nivel": 4,
+    "tema": "Inhibición de bomba",
+    "pregunta": "Una neurona mantiene actividad durante un corto tiempo tras inhibir la bomba Na⁺/K⁺, pero luego pierde excitabilidad. ¿Cuál es la explicación más coherente?",
+    "correcta_texto": "Los gradientes preexistentes sostienen actividad inicial y se deterioran progresivamente",
+    "alternativas": [
+      "Na⁺ y K⁺ dejan de cruzar la membrana al detenerse la bomba",
+      "Los canales crean nuevos gradientes sin gasto energético",
+      "Los gradientes preexistentes sostienen actividad inicial y se deterioran progresivamente",
+      "La bomba solo funciona durante la sinapsis"
+    ],
+    "feedbackIncorrecto": {
+      "La bomba solo funciona durante la sinapsis": "La bomba funciona de manera continua, no solo en sinapsis.",
+      "Los canales crean nuevos gradientes sin gasto energético": "Los canales permiten difusión y por tanto tienden a disipar gradientes.",
+      "Na⁺ y K⁺ dejan de cruzar la membrana al detenerse la bomba": "Los canales siguen permitiendo flujo aunque la bomba esté inhibida."
+    },
+    "ideaClave": "La bomba mantiene gradientes a largo plazo, por eso su inhibición produce deterioro gradual."
+  },
+  {
+    "id": 167,
+    "nivel": 4,
+    "tema": "Umbral elevado",
+    "pregunta": "Un segmento axonal tiene un umbral anormalmente alto. El segmento previo genera un potencial normal. ¿Qué puede ocurrir?",
+    "correcta_texto": "La corriente local puede ser insuficiente para activar el segmento siguiente",
+    "alternativas": [
+      "La corriente local puede ser insuficiente para activar el segmento siguiente",
+      "El siguiente segmento disparará por la ley del todo o nada sin alcanzar umbral",
+      "Un neurotransmisor compensará el defecto dentro del axón",
+      "El segmento previo duplicará automáticamente su amplitud"
+    ],
+    "feedbackIncorrecto": {
+      "El segmento previo duplicará automáticamente su amplitud": "La amplitud del potencial previo no se ajusta automáticamente a las necesidades del siguiente segmento.",
+      "El siguiente segmento disparará por la ley del todo o nada sin alcanzar umbral": "La ley del todo o nada solo se aplica una vez alcanzado el umbral.",
+      "Un neurotransmisor compensará el defecto dentro del axón": "La conducción axonal no utiliza neurotransmisores entre segmentos."
+    },
+    "ideaClave": "La propagación depende de alcanzar el umbral de cada región sucesiva."
+  },
+  {
+    "id": 168,
+    "nivel": 4,
+    "tema": "Sinapsis postsináptica",
+    "pregunta": "La neurona presináptica genera y conduce normalmente, pero el neurotransmisor no puede activar receptores postsinápticos. ¿Qué falla?",
+    "correcta_texto": "La conversión de la señal química en una respuesta eléctrica postsináptica",
+    "alternativas": [
+      "La generación del potencial presináptico",
+      "El mantenimiento basal del Na⁺ presináptico",
+      "La conducción por el axón presináptico",
+      "La conversión de la señal química en una respuesta eléctrica postsináptica"
+    ],
+    "feedbackIncorrecto": {
+      "La generación del potencial presináptico": "La generación presináptica ya se describe como normal.",
+      "La conducción por el axón presináptico": "La conducción hasta el terminal también está conservada.",
+      "El mantenimiento basal del Na⁺ presináptico": "El defecto planteado se encuentra después de liberar el neurotransmisor, en su recepción."
+    },
+    "ideaClave": "Los receptores postsinápticos son necesarios para modificar la conductancia de la membrana receptora."
+  },
+  {
+    "id": 169,
+    "nivel": 4,
+    "tema": "Na⁺ sin inactivación",
+    "pregunta": "Una toxina impide la inactivación normal de canales de Na⁺. ¿Qué patrón es más probable?",
+    "correcta_texto": "Despolarización prolongada y repolarización retardada",
+    "alternativas": [
+      "Despolarización prolongada y repolarización retardada",
+      "Ausencia completa de fase ascendente",
+      "Hiperpolarización inmediata",
+      "Repolarización acelerada"
+    ],
+    "feedbackIncorrecto": {
+      "Hiperpolarización inmediata": "Una corriente persistente de Na⁺ mantiene el interior más positivo.",
+      "Ausencia completa de fase ascendente": "Los canales todavía pueden abrirse y producir una fase ascendente.",
+      "Repolarización acelerada": "La entrada persistente de carga positiva se opone a una repolarización rápida."
+    },
+    "ideaClave": "La inactivación de Na⁺ es necesaria para terminar la fase ascendente."
+  },
+  {
+    "id": 170,
+    "nivel": 4,
+    "tema": "K⁺ reducido",
+    "pregunta": "Una mutación disminuye notablemente la conductancia al K⁺ durante el potencial. ¿Qué patrón se espera?",
+    "correcta_texto": "Repolarización lenta y poshiperpolarización reducida",
+    "alternativas": [
+      "Retorno al reposo más rápido",
+      "Repolarización lenta y poshiperpolarización reducida",
+      "Despolarización abolida desde el inicio",
+      "Periodo refractario absoluto inexistente"
+    ],
+    "feedbackIncorrecto": {
+      "Despolarización abolida desde el inicio": "La despolarización inicial depende principalmente del Na⁺.",
+      "Retorno al reposo más rápido": "Menos corriente saliente de K⁺ enlentece, no acelera, el retorno.",
+      "Periodo refractario absoluto inexistente": "La inactivación de Na⁺ aún puede generar refractariedad absoluta."
+    },
+    "ideaClave": "La corriente de K⁺ contribuye tanto a repolarización como a hiperpolarización."
+  },
+  {
+    "id": 171,
+    "nivel": 4,
+    "tema": "Periodo absoluto prolongado",
+    "pregunta": "Una neurona presenta un periodo refractario absoluto más largo que lo normal. ¿Qué consecuencia funcional es esperable?",
+    "correcta_texto": "Menor frecuencia máxima de disparo",
+    "alternativas": [
+      "Mayor velocidad de conducción necesariamente",
+      "Menor frecuencia máxima de disparo",
+      "Potencial de reposo más positivo por definición",
+      "Mayor amplitud de cada potencial"
+    ],
+    "feedbackIncorrecto": {
+      "Mayor amplitud de cada potencial": "La duración refractaria afecta el intervalo entre potenciales, no su amplitud.",
+      "Mayor velocidad de conducción necesariamente": "La velocidad de conducción no aumenta simplemente por prolongar la refractariedad.",
+      "Potencial de reposo más positivo por definición": "El potencial de reposo no se define por la duración del periodo refractario."
+    },
+    "ideaClave": "Un periodo absoluto más prolongado aumenta el intervalo mínimo entre disparos."
+  },
+  {
+    "id": 172,
+    "nivel": 4,
+    "tema": "Na⁺ en reposo",
+    "pregunta": "Una intervención aumenta selectivamente la permeabilidad al Na⁺ en reposo. ¿Qué cambio aparece antes de alcanzar el umbral?",
+    "correcta_texto": "Despolarización progresiva",
+    "alternativas": [
+      "Hiperpolarización progresiva",
+      "Repolarización desde +40 mV",
+      "Despolarización progresiva",
+      "Ausencia de efecto porque solo el K⁺ determina el reposo"
+    ],
+    "feedbackIncorrecto": {
+      "Hiperpolarización progresiva": "La entrada de carga positiva vuelve el interior menos negativo.",
+      "Repolarización desde +40 mV": "La situación comienza en reposo, no en el pico del potencial.",
+      "Ausencia de efecto porque solo el K⁺ determina el reposo": "Aunque K⁺ sea dominante en reposo, aumentar Na⁺ sí modifica el voltaje."
+    },
+    "ideaClave": "Aumentar conductancia al Na⁺ desplaza el voltaje hacia valores más positivos."
+  },
+  {
+    "id": 173,
+    "nivel": 4,
+    "tema": "Gradiente de K⁺",
+    "pregunta": "Si disminuye la diferencia de concentración de K⁺ entre interior y exterior, ¿qué ocurre con la fuerza química que impulsa su salida?",
+    "correcta_texto": "Disminuye",
+    "alternativas": [
+      "Se invierte obligatoriamente",
+      "Aumenta",
+      "Disminuye",
+      "No cambia porque el K⁺ es positivo"
+    ],
+    "feedbackIncorrecto": {
+      "Aumenta": "Una menor diferencia de concentración implica una menor fuerza química.",
+      "No cambia porque el K⁺ es positivo": "La carga eléctrica no elimina la influencia de la concentración.",
+      "Se invierte obligatoriamente": "Reducir un gradiente no significa necesariamente invertirlo."
+    },
+    "ideaClave": "La magnitud de la fuerza química depende de la diferencia de concentración."
+  },
+  {
+    "id": 174,
+    "nivel": 4,
+    "tema": "Todo o nada",
+    "pregunta": "Una neurona recibe un estímulo apenas suprumbral y luego uno mucho más intenso. Ambos producen potenciales completos. ¿Qué hallazgo es coherente?",
+    "correcta_texto": "Amplitudes individuales similares",
+    "alternativas": [
+      "El estímulo menor genera medio potencial",
+      "El estímulo mayor cambia el ion principal de despolarización",
+      "Amplitud proporcional a la intensidad",
+      "Amplitudes individuales similares"
+    ],
+    "feedbackIncorrecto": {
+      "Amplitud proporcional a la intensidad": "La amplitud del potencial individual no codifica linealmente la intensidad suprumbral.",
+      "El estímulo menor genera medio potencial": "No existe un potencial de acción completo a medias.",
+      "El estímulo mayor cambia el ion principal de despolarización": "La fisiología básica del potencial no cambia de ion por usar un estímulo más intenso."
+    },
+    "ideaClave": "La ley del todo o nada mantiene una amplitud estereotipada."
+  },
+  {
+    "id": 175,
+    "nivel": 4,
+    "tema": "Fallo de corriente local",
+    "pregunta": "Un segmento axonal genera un potencial normal, pero la corriente local hacia el siguiente segmento es insuficiente. ¿Qué resultado se espera?",
+    "correcta_texto": "El siguiente segmento no alcanza el umbral y la propagación se interrumpe",
+    "alternativas": [
+      "El segmento previo aumenta automáticamente su amplitud",
+      "El potencial continúa por conservación de energía",
+      "El siguiente segmento no alcanza el umbral y la propagación se interrumpe",
+      "El siguiente segmento genera un potencial parcial"
+    ],
+    "feedbackIncorrecto": {
+      "El potencial continúa por conservación de energía": "La propagación exige activar canales dependientes de voltaje en la región siguiente.",
+      "El siguiente segmento genera un potencial parcial": "Un potencial de acción no se propaga como una respuesta parcial.",
+      "El segmento previo aumenta automáticamente su amplitud": "La amplitud no se ajusta automáticamente para compensar una conducción deficiente."
+    },
+    "ideaClave": "La conducción exitosa requiere alcanzar el umbral en regiones sucesivas."
+  },
+  {
+    "id": 176,
+    "nivel": 4,
+    "tema": "Canal sin inactivación",
+    "pregunta": "Un canal de Na⁺ puede activarse, pero no puede pasar al estado inactivado. ¿Qué propiedad se altera además de la repolarización?",
+    "correcta_texto": "La refractariedad normal",
+    "alternativas": [
+      "La refractariedad normal",
+      "La existencia del gradiente químico de Na⁺",
+      "La presencia de K⁺ intracelular",
+      "La selectividad del canal para Na⁺"
+    ],
+    "feedbackIncorrecto": {
+      "La selectividad del canal para Na⁺": "El defecto de compuerta no obliga a cambiar la selectividad del poro.",
+      "La existencia del gradiente químico de Na⁺": "El estado de un canal no elimina por sí mismo el gradiente de concentración.",
+      "La presencia de K⁺ intracelular": "La alteración no elimina el K⁺ intracelular."
+    },
+    "ideaClave": "La inactivación de Na⁺ participa tanto en terminar la despolarización como en generar refractariedad."
+  },
+  {
+    "id": 177,
+    "nivel": 4,
+    "tema": "Secuencia integrada",
+    "pregunta": "¿Qué secuencia representa mejor un potencial de acción neuronal completo?",
+    "correcta_texto": "Umbral → aumento de Na⁺ → pico → inactivación de Na⁺ y aumento de K⁺ → hiperpolarización → recuperación",
+    "alternativas": [
+      "Umbral → aumento de Na⁺ → pico → inactivación de Na⁺ y aumento de K⁺ → hiperpolarización → recuperación",
+      "Reposo → hiperpolarización → cierre global de canales → pico",
+      "Umbral → salida de Na⁺ → entrada de K⁺ → pico",
+      "Umbral → bomba Na⁺/K⁺ genera +40 mV → repolarización"
+    ],
+    "feedbackIncorrecto": {
+      "Umbral → salida de Na⁺ → entrada de K⁺ → pico": "La dirección de los flujos principales está invertida.",
+      "Reposo → hiperpolarización → cierre global de canales → pico": "El pico requiere apertura de canales y una fase ascendente previa, no cierre global.",
+      "Umbral → bomba Na⁺/K⁺ genera +40 mV → repolarización": "La bomba no genera directamente el pico rápido del potencial."
+    },
+    "ideaClave": "Las fases se explican por una secuencia temporal coordinada de conductancias."
+  },
+  {
+    "id": 178,
+    "nivel": 4,
+    "tema": "Localización del defecto",
+    "pregunta": "Una neurona conduce normalmente el potencial hasta el terminal, pero la neurona siguiente no cambia su potencial. ¿Dónde es más probable la alteración?",
+    "correcta_texto": "En la transmisión sináptica o en la respuesta postsináptica",
+    "alternativas": [
+      "En la propagación axonal presináptica",
+      "En la transmisión sináptica o en la respuesta postsináptica",
+      "En el segmento inicial del axón antes de conducir",
+      "En la generación inicial del potencial presináptico"
+    ],
+    "feedbackIncorrecto": {
+      "En la generación inicial del potencial presináptico": "La generación ya fue suficiente para producir una señal que llegó al terminal.",
+      "En la propagación axonal presináptica": "La propagación se describe como normal.",
+      "En el segmento inicial del axón antes de conducir": "Un defecto antes de conducir impediría que la señal alcanzara el terminal."
+    },
+    "ideaClave": "Si la conducción presináptica es normal, debe evaluarse la transmisión o recepción sináptica."
+  },
+  {
+    "id": 179,
+    "nivel": 4,
+    "tema": "Despolarización basal",
+    "pregunta": "Una neurona se mantiene más despolarizada de lo habitual y cercana al umbral. ¿Qué cambio inicial de excitabilidad se espera?",
+    "correcta_texto": "Puede disparar con estímulos menores",
+    "alternativas": [
+      "No puede disparar hasta volver exactamente a −70 mV",
+      "La amplitud de cada potencial aumenta proporcionalmente",
+      "Necesita estímulos mayores",
+      "Puede disparar con estímulos menores"
+    ],
+    "feedbackIncorrecto": {
+      "Necesita estímulos mayores": "Estar más cerca del umbral reduce la despolarización adicional requerida.",
+      "No puede disparar hasta volver exactamente a −70 mV": "No existe un único valor exacto de reposo obligatorio para poder disparar.",
+      "La amplitud de cada potencial aumenta proporcionalmente": "La amplitud no aumenta linealmente por una despolarización basal moderada."
+    },
+    "ideaClave": "La proximidad al umbral aumenta inicialmente la facilidad de disparo."
+  },
+  {
+    "id": 180,
+    "nivel": 4,
+    "tema": "Caso integrador",
+    "pregunta": "Un axón presenta despolarización inicial normal, repolarización lenta y poshiperpolarización escasa. ¿Qué alteración explica mejor el patrón?",
+    "correcta_texto": "Disminución de la conductancia al K⁺",
+    "alternativas": [
+      "Aumento aislado de Na⁺ solo durante reposo",
+      "Disminución de la conductancia al K⁺",
+      "Aumento excesivo de la conductancia al K⁺",
+      "Bloqueo completo de Na⁺"
+    ],
+    "feedbackIncorrecto": {
+      "Bloqueo completo de Na⁺": "Un bloqueo completo de Na⁺ impediría una despolarización inicial normal.",
+      "Aumento excesivo de la conductancia al K⁺": "Una conductancia al K⁺ mayor tendería a acelerar la repolarización y acentuar la hiperpolarización.",
+      "Aumento aislado de Na⁺ solo durante reposo": "Un cambio aislado de Na⁺ en reposo no explica de forma directa la repolarización lenta y la escasa poshiperpolarización."
+    },
+    "ideaClave": "La corriente de K⁺ es fundamental para repolarización y poshiperpolarización."
   }
 ]
